@@ -1,0 +1,1850 @@
+[
+    {
+        "code2A": "AD",
+        "sectionName": "อ",
+        "sectionIndex": 25,
+        "name": "อันดอร์รา",
+        "callCode": "376",
+        "index": 201
+    },
+    {
+        "code2A": "AE",
+        "sectionName": "ส",
+        "sectionIndex": 23,
+        "name": "สหรัฐอาหรับเอมิเรตส์",
+        "callCode": "971",
+        "index": 178
+    },
+    {
+        "code2A": "AF",
+        "sectionName": "อ",
+        "sectionIndex": 25,
+        "name": "อัฟกานิสถาน",
+        "callCode": "93",
+        "index": 195
+    },
+    {
+        "code2A": "AG",
+        "sectionName": "อ",
+        "sectionIndex": 25,
+        "name": "แอนติกาและบาร์บูดา",
+        "callCode": "1",
+        "index": 220
+    },
+    {
+        "code2A": "AI",
+        "sectionName": "อ",
+        "sectionIndex": 25,
+        "name": "แองกวิลลา",
+        "callCode": "1",
+        "index": 219
+    },
+    {
+        "code2A": "AL",
+        "sectionName": "อ",
+        "sectionIndex": 25,
+        "name": "อัลบาเนีย",
+        "callCode": "355",
+        "index": 196
+    },
+    {
+        "code2A": "AM",
+        "sectionName": "อ",
+        "sectionIndex": 25,
+        "name": "อาร์มาเนีย",
+        "callCode": "374",
+        "index": 199
+    },
+    {
+        "code2A": "AN",
+        "sectionName": "น",
+        "sectionIndex": 10,
+        "name": "เนเธอร์แลนด์ แอนทิลล์",
+        "callCode": "599",
+        "index": 84
+    },
+    {
+        "code2A": "AO",
+        "sectionName": "อ",
+        "sectionIndex": 25,
+        "name": "แองโกลา",
+        "callCode": "244",
+        "index": 218
+    },
+    {
+        "code2A": "AR",
+        "sectionName": "อ",
+        "sectionIndex": 25,
+        "name": "อาร์เจนตินา",
+        "callCode": "54",
+        "index": 198
+    },
+    {
+        "code2A": "AS",
+        "sectionName": "อ",
+        "sectionIndex": 25,
+        "name": "อเมริกัน ซามัว",
+        "callCode": "1",
+        "index": 191
+    },
+    {
+        "code2A": "AT",
+        "sectionName": "อ",
+        "sectionIndex": 25,
+        "name": "ออสเตรีย",
+        "callCode": "43",
+        "index": 193
+    },
+    {
+        "code2A": "AU",
+        "sectionName": "อ",
+        "sectionIndex": 25,
+        "name": "ออสเตรเลีย",
+        "callCode": "61",
+        "index": 192
+    },
+    {
+        "code2A": "AW",
+        "sectionName": "อ",
+        "sectionIndex": 25,
+        "name": "อารูบา",
+        "callCode": "297",
+        "index": 200
+    },
+    {
+        "code2A": "AZ",
+        "sectionName": "อ",
+        "sectionIndex": 25,
+        "name": "อาเซอร์ไบจาน",
+        "callCode": "994",
+        "index": 197
+    },
+    {
+        "code2A": "BA",
+        "sectionName": "บ",
+        "sectionIndex": 11,
+        "name": "บอสเนีย",
+        "callCode": "387",
+        "index": 90
+    },
+    {
+        "code2A": "BB",
+        "sectionName": "บ",
+        "sectionIndex": 11,
+        "name": "บาร์บาโดส",
+        "callCode": "1",
+        "index": 95
+    },
+    {
+        "code2A": "BD",
+        "sectionName": "บ",
+        "sectionIndex": 11,
+        "name": "บังคลาเทศ",
+        "callCode": "880",
+        "index": 92
+    },
+    {
+        "code2A": "BE",
+        "sectionName": "บ",
+        "sectionIndex": 11,
+        "name": "เบลเยี่ยม",
+        "callCode": "32",
+        "index": 100
+    },
+    {
+        "code2A": "BF",
+        "sectionName": "บ",
+        "sectionIndex": 11,
+        "name": "บูร์กินาฟาโซ",
+        "callCode": "226",
+        "index": 98
+    },
+    {
+        "code2A": "BG",
+        "sectionName": "บ",
+        "sectionIndex": 11,
+        "name": "บัลกาเรีย",
+        "callCode": "359",
+        "index": 93
+    },
+    {
+        "code2A": "BH",
+        "sectionName": "บ",
+        "sectionIndex": 11,
+        "name": "บาห์เรน",
+        "callCode": "973",
+        "index": 94
+    },
+    {
+        "code2A": "BI",
+        "sectionName": "บ",
+        "sectionIndex": 11,
+        "name": "บุรุนดี",
+        "callCode": "257",
+        "index": 97
+    },
+    {
+        "code2A": "BJ",
+        "sectionName": "บ",
+        "sectionIndex": 11,
+        "name": "เบนิน",
+        "callCode": "229",
+        "index": 99
+    },
+    {
+        "code2A": "BM",
+        "sectionName": "บ",
+        "sectionIndex": 11,
+        "name": "เบอร์มิวดา",
+        "callCode": "1",
+        "index": 103
+    },
+    {
+        "code2A": "BN",
+        "sectionName": "บ",
+        "sectionIndex": 11,
+        "name": "บรูไนดารุสซาลาม",
+        "callCode": "673",
+        "index": 89
+    },
+    {
+        "code2A": "BO",
+        "sectionName": "บ",
+        "sectionIndex": 11,
+        "name": "โบลิเวีย",
+        "callCode": "591",
+        "index": 104
+    },
+    {
+        "code2A": "BR",
+        "sectionName": "บ",
+        "sectionIndex": 11,
+        "name": "บราซิล",
+        "callCode": "55",
+        "index": 88
+    },
+    {
+        "code2A": "BS",
+        "sectionName": "บ",
+        "sectionIndex": 11,
+        "name": "บาฮามัส",
+        "callCode": "1",
+        "index": 96
+    },
+    {
+        "code2A": "BT",
+        "sectionName": "ภ",
+        "sectionIndex": 16,
+        "name": "ภูฏาน",
+        "callCode": "975",
+        "index": 122
+    },
+    {
+        "code2A": "BV",
+        "sectionName": "ก",
+        "sectionIndex": 1,
+        "name": "เกาะบูแว",
+        "callCode": "226",
+        "index": 16
+    },
+    {
+        "code2A": "BW",
+        "sectionName": "บ",
+        "sectionIndex": 11,
+        "name": "บอสวานา",
+        "callCode": "267",
+        "index": 91
+    },
+    {
+        "code2A": "BY",
+        "sectionName": "บ",
+        "sectionIndex": 11,
+        "name": "เบลารุส",
+        "callCode": "375",
+        "index": 101
+    },
+    {
+        "code2A": "BZ",
+        "sectionName": "บ",
+        "sectionIndex": 11,
+        "name": "เบลิซ",
+        "callCode": "501",
+        "index": 102
+    },
+    {
+        "code2A": "CA",
+        "sectionName": "ค",
+        "sectionIndex": 2,
+        "name": "แคนาดา",
+        "callCode": "1",
+        "index": 35
+    },
+    {
+        "code2A": "CC",
+        "sectionName": "ห",
+        "sectionIndex": 24,
+        "name": "หมู่เกาะโคโคส (คีลิง)",
+        "callCode": "61",
+        "index": 182
+    },
+    {
+        "code2A": "CD",
+        "sectionName": "ค",
+        "sectionIndex": 2,
+        "name": "คองโก - คินชาซา",
+        "callCode": "243",
+        "index": 23
+    },
+    {
+        "code2A": "CF",
+        "sectionName": "ส",
+        "sectionIndex": 23,
+        "name": "สาธารณรัฐเซ็นทรัลแอฟริกัน",
+        "callCode": "236",
+        "index": 174
+    },
+    {
+        "code2A": "CG",
+        "sectionName": "ค",
+        "sectionIndex": 2,
+        "name": "คองโก - บราซาวิล",
+        "callCode": "242",
+        "index": 24
+    },
+    {
+        "code2A": "CH",
+        "sectionName": "ส",
+        "sectionIndex": 23,
+        "name": "สวิสเซอร์แลนด์",
+        "callCode": "41",
+        "index": 169
+    },
+    {
+        "code2A": "CI",
+        "sectionName": "อ",
+        "sectionIndex": 25,
+        "name": "ไอวอรี่ โคส",
+        "callCode": "225",
+        "index": 227
+    },
+    {
+        "code2A": "CK",
+        "sectionName": "ห",
+        "sectionIndex": 24,
+        "name": "หมู่เกาะคุก",
+        "callCode": "682",
+        "index": 180
+    },
+    {
+        "code2A": "CL",
+        "sectionName": "ช",
+        "sectionIndex": 4,
+        "name": "ชิลี",
+        "callCode": "56",
+        "index": 44
+    },
+    {
+        "code2A": "CM",
+        "sectionName": "ค",
+        "sectionIndex": 2,
+        "name": "คาเมรูน",
+        "callCode": "237",
+        "index": 27
+    },
+    {
+        "code2A": "CN",
+        "sectionName": "จ",
+        "sectionIndex": 3,
+        "name": "จีน",
+        "callCode": "86",
+        "index": 42
+    },
+    {
+        "code2A": "CO",
+        "sectionName": "ค",
+        "sectionIndex": 2,
+        "name": "โคลัมเบีย",
+        "callCode": "57",
+        "index": 37
+    },
+    {
+        "code2A": "CR",
+        "sectionName": "ค",
+        "sectionIndex": 2,
+        "name": "คอสตา ริกา",
+        "callCode": "506",
+        "index": 25
+    },
+    {
+        "code2A": "CU",
+        "sectionName": "ค",
+        "sectionIndex": 2,
+        "name": "คิวบา",
+        "callCode": "53",
+        "index": 31
+    },
+    {
+        "code2A": "CV",
+        "sectionName": "ค",
+        "sectionIndex": 2,
+        "name": "เคป เวิร์ด",
+        "callCode": "238",
+        "index": 34
+    },
+    {
+        "code2A": "CX",
+        "sectionName": "ก",
+        "sectionIndex": 1,
+        "name": "เกาะคริสต์มาส",
+        "callCode": "61",
+        "index": 17
+    },
+    {
+        "code2A": "CY",
+        "sectionName": "ซ",
+        "sectionIndex": 5,
+        "name": "ไซปรัส",
+        "callCode": "357",
+        "index": 62
+    },
+    {
+        "code2A": "CZ",
+        "sectionName": "ส",
+        "sectionIndex": 23,
+        "name": "สาธารณรัฐเชค",
+        "callCode": "420",
+        "index": 173
+    },
+    {
+        "code2A": "DE",
+        "sectionName": "ย",
+        "sectionIndex": 18,
+        "name": "เยอรมัน",
+        "callCode": "49",
+        "index": 146
+    },
+    {
+        "code2A": "DJ",
+        "sectionName": "จ",
+        "sectionIndex": 3,
+        "name": "จิบูตี",
+        "callCode": "253",
+        "index": 41
+    },
+    {
+        "code2A": "DK",
+        "sectionName": "ด",
+        "sectionIndex": 7,
+        "name": "เดนมาร์ก",
+        "callCode": "45",
+        "index": 64
+    },
+    {
+        "code2A": "DM",
+        "sectionName": "ด",
+        "sectionIndex": 7,
+        "name": "โดมินิกา",
+        "callCode": "1",
+        "index": 65
+    },
+    {
+        "code2A": "DO",
+        "sectionName": "ส",
+        "sectionIndex": 23,
+        "name": "สาธารณรัฐโดมินิกัน",
+        "callCode": "1",
+        "index": 175
+    },
+    {
+        "code2A": "DZ",
+        "sectionName": "อ",
+        "sectionIndex": 25,
+        "name": "แอลจีเรีย",
+        "callCode": "213",
+        "index": 222
+    },
+    {
+        "code2A": "EC",
+        "sectionName": "อ",
+        "sectionIndex": 25,
+        "name": "เอกวาดอร์",
+        "callCode": "593",
+        "index": 213
+    },
+    {
+        "code2A": "EE",
+        "sectionName": "อ",
+        "sectionIndex": 25,
+        "name": "เอสโทเนีย",
+        "callCode": "372",
+        "index": 217
+    },
+    {
+        "code2A": "EG",
+        "sectionName": "อ",
+        "sectionIndex": 25,
+        "name": "อียิปต์",
+        "callCode": "20",
+        "index": 209
+    },
+    {
+        "code2A": "EH",
+        "sectionName": "ว",
+        "sectionIndex": 21,
+        "name": "เวสเทิร์น ซาฮารา",
+        "callCode": "212",
+        "index": 162
+    },
+    {
+        "code2A": "ER",
+        "sectionName": "อ",
+        "sectionIndex": 25,
+        "name": "เอริเทรีย",
+        "callCode": "291",
+        "index": 215
+    },
+    {
+        "code2A": "ES",
+        "sectionName": "ส",
+        "sectionIndex": 23,
+        "name": "สเปน",
+        "callCode": "34",
+        "index": 165
+    },
+    {
+        "code2A": "ET",
+        "sectionName": "อ",
+        "sectionIndex": 25,
+        "name": "เอธิโอเปีย",
+        "callCode": "251",
+        "index": 214
+    },
+    {
+        "code2A": "FI",
+        "sectionName": "ฟ",
+        "sectionIndex": 15,
+        "name": "ฟินแลนด์",
+        "callCode": "358",
+        "index": 117
+    },
+    {
+        "code2A": "FJ",
+        "sectionName": "ก",
+        "sectionIndex": 1,
+        "name": "เกาะฟิจิ",
+        "callCode": "679",
+        "index": 19
+    },
+    {
+        "code2A": "FK",
+        "sectionName": "ห",
+        "sectionIndex": 24,
+        "name": "หมู่เกาะฟอล์กแลนด์",
+        "callCode": "500",
+        "index": 187
+    },
+    {
+        "code2A": "FM",
+        "sectionName": "ส",
+        "sectionIndex": 23,
+        "name": "สหพันธรัฐไมโครนีเซีย",
+        "callCode": "691",
+        "index": 171
+    },
+    {
+        "code2A": "FO",
+        "sectionName": "ห",
+        "sectionIndex": 24,
+        "name": "หมู่เกาะแฟโร",
+        "callCode": "298",
+        "index": 188
+    },
+    {
+        "code2A": "FR",
+        "sectionName": "ฝ",
+        "sectionIndex": 13,
+        "name": "ฝรั่งเศส",
+        "callCode": "33",
+        "index": 115
+    },
+    {
+        "code2A": "GB",
+        "sectionName": "อ",
+        "sectionIndex": 25,
+        "name": "อังกฤษ",
+        "callCode": "44",
+        "index": 194
+    },
+    {
+        "code2A": "GD",
+        "sectionName": "ก",
+        "sectionIndex": 1,
+        "name": "เกรนาดา",
+        "callCode": "1",
+        "index": 12
+    },
+    {
+        "code2A": "GE",
+        "sectionName": "จ",
+        "sectionIndex": 3,
+        "name": "จอร์เจีย",
+        "callCode": "995",
+        "index": 38
+    },
+    {
+        "code2A": "GF",
+        "sectionName": "ฟ",
+        "sectionIndex": 15,
+        "name": "เฟรนช์เกียนา",
+        "callCode": "594",
+        "index": 119
+    },
+    {
+        "code2A": "GG",
+        "sectionName": "ก",
+        "sectionIndex": 1,
+        "name": "เกิร์นซีย์",
+        "callCode": "44",
+        "index": 21
+    },
+    {
+        "code2A": "GH",
+        "sectionName": "ก",
+        "sectionIndex": 1,
+        "name": "กาน่า",
+        "callCode": "233",
+        "index": 8
+    },
+    {
+        "code2A": "GI",
+        "sectionName": "ย",
+        "sectionIndex": 18,
+        "name": "ยิบรอลตาร์",
+        "callCode": "350",
+        "index": 144
+    },
+    {
+        "code2A": "GL",
+        "sectionName": "ก",
+        "sectionIndex": 1,
+        "name": "กรีนแลนด์",
+        "callCode": "299",
+        "index": 2
+    },
+    {
+        "code2A": "GM",
+        "sectionName": "ก",
+        "sectionIndex": 1,
+        "name": "แกมเบีย",
+        "callCode": "220",
+        "index": 22
+    },
+    {
+        "code2A": "GN",
+        "sectionName": "ก",
+        "sectionIndex": 1,
+        "name": "กินี",
+        "callCode": "224",
+        "index": 10
+    },
+    {
+        "code2A": "GP",
+        "sectionName": "ก",
+        "sectionIndex": 1,
+        "name": "กัวเดอลุป",
+        "callCode": "590",
+        "index": 5
+    },
+    {
+        "code2A": "GQ",
+        "sectionName": "อ",
+        "sectionIndex": 25,
+        "name": "อิเควทอเรียลกินี",
+        "callCode": "240",
+        "index": 203
+    },
+    {
+        "code2A": "GR",
+        "sectionName": "ก",
+        "sectionIndex": 1,
+        "name": "กรีซ",
+        "callCode": "30",
+        "index": 1
+    },
+    {
+        "code2A": "GS",
+        "sectionName": "ก",
+        "sectionIndex": 1,
+        "name": "เกาะเซาท์จอร์เจียและหมู่เกาะเซาท์แซนด์วิช",
+        "callCode": "500",
+        "index": 14
+    },
+    {
+        "code2A": "GT",
+        "sectionName": "ก",
+        "sectionIndex": 1,
+        "name": "กัวเตมาลา",
+        "callCode": "502",
+        "index": 6
+    },
+    {
+        "code2A": "GU",
+        "sectionName": "ก",
+        "sectionIndex": 1,
+        "name": "กวม",
+        "callCode": "1",
+        "index": 3
+    },
+    {
+        "code2A": "GW",
+        "sectionName": "ก",
+        "sectionIndex": 1,
+        "name": "กินี-บิสซู",
+        "callCode": "245",
+        "index": 11
+    },
+    {
+        "code2A": "GY",
+        "sectionName": "ก",
+        "sectionIndex": 1,
+        "name": "กายอานา",
+        "callCode": "592",
+        "index": 9
+    },
+    {
+        "code2A": "HK",
+        "sectionName": "ฮ",
+        "sectionIndex": 26,
+        "name": "ฮ่องกง",
+        "callCode": "852",
+        "index": 228
+    },
+    {
+        "code2A": "HM",
+        "sectionName": "ก",
+        "sectionIndex": 1,
+        "name": "เกาะเฮิร์ดและหมู่เกาะแมกดอนัลด์",
+        "callCode": "61",
+        "index": 15
+    },
+    {
+        "code2A": "HN",
+        "sectionName": "ฮ",
+        "sectionIndex": 26,
+        "name": "ฮอนดูรัส",
+        "callCode": "504",
+        "index": 229
+    },
+    {
+        "code2A": "HR",
+        "sectionName": "ค",
+        "sectionIndex": 2,
+        "name": "โครเอเชีย",
+        "callCode": "385",
+        "index": 36
+    },
+    {
+        "code2A": "HT",
+        "sectionName": "ฮ",
+        "sectionIndex": 26,
+        "name": "ไฮติ",
+        "callCode": "509",
+        "index": 231
+    },
+    {
+        "code2A": "HU",
+        "sectionName": "ฮ",
+        "sectionIndex": 26,
+        "name": "ฮังการี",
+        "callCode": "36",
+        "index": 230
+    },
+    {
+        "code2A": "ID",
+        "sectionName": "อ",
+        "sectionIndex": 25,
+        "name": "อินโดนีเซีย",
+        "callCode": "62",
+        "index": 205
+    },
+    {
+        "code2A": "IE",
+        "sectionName": "อ",
+        "sectionIndex": 25,
+        "name": "ไอร์แลนด์",
+        "callCode": "353",
+        "index": 226
+    },
+    {
+        "code2A": "IL",
+        "sectionName": "อ",
+        "sectionIndex": 25,
+        "name": "อิสราเอล",
+        "callCode": "972",
+        "index": 207
+    },
+    {
+        "code2A": "IM",
+        "sectionName": "อ",
+        "sectionIndex": 25,
+        "name": "ไอเซิ่ล ออฟ แมน",
+        "callCode": "44",
+        "index": 224
+    },
+    {
+        "code2A": "IN",
+        "sectionName": "อ",
+        "sectionIndex": 25,
+        "name": "อินเดีย",
+        "callCode": "91",
+        "index": 204
+    },
+    {
+        "code2A": "IQ",
+        "sectionName": "อ",
+        "sectionIndex": 25,
+        "name": "อิรัก",
+        "callCode": "964",
+        "index": 206
+    },
+    {
+        "code2A": "IR",
+        "sectionName": "อ",
+        "sectionIndex": 25,
+        "name": "อิหร่าน",
+        "callCode": "98",
+        "index": 208
+    },
+    {
+        "code2A": "IS",
+        "sectionName": "อ",
+        "sectionIndex": 25,
+        "name": "ไอซ์แลนด์",
+        "callCode": "354",
+        "index": 225
+    },
+    {
+        "code2A": "IT",
+        "sectionName": "อ",
+        "sectionIndex": 25,
+        "name": "อิตาลี",
+        "callCode": "39",
+        "index": 202
+    },
+    {
+        "code2A": "JE",
+        "sectionName": "จ",
+        "sectionIndex": 3,
+        "name": "เจอร์ซี่",
+        "callCode": "44",
+        "index": 43
+    },
+    {
+        "code2A": "JM",
+        "sectionName": "จ",
+        "sectionIndex": 3,
+        "name": "จาไมกา",
+        "callCode": "1",
+        "index": 40
+    },
+    {
+        "code2A": "JO",
+        "sectionName": "จ",
+        "sectionIndex": 3,
+        "name": "จอร์แดน",
+        "callCode": "962",
+        "index": 39
+    },
+    {
+        "code2A": "JP",
+        "sectionName": "ญ",
+        "sectionIndex": 6,
+        "name": "ญี่ปุ่น",
+        "callCode": "81",
+        "index": 63
+    },
+    {
+        "code2A": "KE",
+        "sectionName": "ค",
+        "sectionIndex": 2,
+        "name": "เคนย่า",
+        "callCode": "254",
+        "index": 33
+    },
+    {
+        "code2A": "KG",
+        "sectionName": "ค",
+        "sectionIndex": 2,
+        "name": "คีร์กีซสถาน",
+        "callCode": "996",
+        "index": 30
+    },
+    {
+        "code2A": "KH",
+        "sectionName": "ก",
+        "sectionIndex": 1,
+        "name": "กัมพูชา",
+        "callCode": "855",
+        "index": 4
+    },
+    {
+        "code2A": "KI",
+        "sectionName": "ค",
+        "sectionIndex": 2,
+        "name": "คิริบาติ",
+        "callCode": "686",
+        "index": 29
+    },
+    {
+        "code2A": "KM",
+        "sectionName": "ค",
+        "sectionIndex": 2,
+        "name": "คอโมโรส",
+        "callCode": "269",
+        "index": 26
+    },
+    {
+        "code2A": "KN",
+        "sectionName": "ซ",
+        "sectionIndex": 5,
+        "name": "เซนต์คิตส์และเนวิส",
+        "callCode": "1",
+        "index": 56
+    },
+    {
+        "code2A": "KR",
+        "sectionName": "ก",
+        "sectionIndex": 1,
+        "name": "เกาหลีใต้",
+        "callCode": "82",
+        "index": 13
+    },
+    {
+        "code2A": "KW",
+        "sectionName": "ค",
+        "sectionIndex": 2,
+        "name": "คูเวต",
+        "callCode": "965",
+        "index": 32
+    },
+    {
+        "code2A": "KY",
+        "sectionName": "ห",
+        "sectionIndex": 24,
+        "name": "หมู่เกาะเคย์แมน",
+        "callCode": "1",
+        "index": 181
+    },
+    {
+        "code2A": "KZ",
+        "sectionName": "ค",
+        "sectionIndex": 2,
+        "name": "คาซัคสถาน",
+        "callCode": "7",
+        "index": 28
+    },
+    {
+        "code2A": "LA",
+        "sectionName": "ล",
+        "sectionIndex": 20,
+        "name": "ลาว",
+        "callCode": "856",
+        "index": 153
+    },
+    {
+        "code2A": "LB",
+        "sectionName": "ล",
+        "sectionIndex": 20,
+        "name": "เลบานอน",
+        "callCode": "961",
+        "index": 158
+    },
+    {
+        "code2A": "LC",
+        "sectionName": "ซ",
+        "sectionIndex": 5,
+        "name": "เซนท์ ลูเซีย",
+        "callCode": "1",
+        "index": 54
+    },
+    {
+        "code2A": "LI",
+        "sectionName": "ล",
+        "sectionIndex": 20,
+        "name": "ลิคเตนสไตน์",
+        "callCode": "423",
+        "index": 155
+    },
+    {
+        "code2A": "LK",
+        "sectionName": "ศ",
+        "sectionIndex": 22,
+        "name": "ศรีลังกา",
+        "callCode": "94",
+        "index": 164
+    },
+    {
+        "code2A": "LR",
+        "sectionName": "ล",
+        "sectionIndex": 20,
+        "name": "ไลบีเรีย",
+        "callCode": "231",
+        "index": 159
+    },
+    {
+        "code2A": "LS",
+        "sectionName": "ล",
+        "sectionIndex": 20,
+        "name": "เลโซโท",
+        "callCode": "266",
+        "index": 157
+    },
+    {
+        "code2A": "LT",
+        "sectionName": "ล",
+        "sectionIndex": 20,
+        "name": "ลิทัวเนีย",
+        "callCode": "370",
+        "index": 156
+    },
+    {
+        "code2A": "LU",
+        "sectionName": "ล",
+        "sectionIndex": 20,
+        "name": "ลักเซมเบิร์ก",
+        "callCode": "352",
+        "index": 151
+    },
+    {
+        "code2A": "LV",
+        "sectionName": "ล",
+        "sectionIndex": 20,
+        "name": "ลัทเวีย",
+        "callCode": "371",
+        "index": 152
+    },
+    {
+        "code2A": "LY",
+        "sectionName": "ล",
+        "sectionIndex": 20,
+        "name": "ลิเบีย",
+        "callCode": "218",
+        "index": 154
+    },
+    {
+        "code2A": "MA",
+        "sectionName": "ม",
+        "sectionIndex": 17,
+        "name": "โมร็อกโก",
+        "callCode": "212",
+        "index": 142
+    },
+    {
+        "code2A": "MC",
+        "sectionName": "ม",
+        "sectionIndex": 17,
+        "name": "โมนาโค",
+        "callCode": "377",
+        "index": 141
+    },
+    {
+        "code2A": "MD",
+        "sectionName": "ม",
+        "sectionIndex": 17,
+        "name": "มอลโดวา",
+        "callCode": "373",
+        "index": 126
+    },
+    {
+        "code2A": "ME",
+        "sectionName": "ม",
+        "sectionIndex": 17,
+        "name": "มอนเตเนโกร",
+        "callCode": "382",
+        "index": 125
+    },
+    {
+        "code2A": "MG",
+        "sectionName": "ม",
+        "sectionIndex": 17,
+        "name": "มาดากัสการ์",
+        "callCode": "261",
+        "index": 135
+    },
+    {
+        "code2A": "MH",
+        "sectionName": "ห",
+        "sectionIndex": 24,
+        "name": "หมู่เกาะมาร์แชลล์",
+        "callCode": "692",
+        "index": 190
+    },
+    {
+        "code2A": "MK",
+        "sectionName": "ม",
+        "sectionIndex": 17,
+        "name": "มาซีโดเนีย",
+        "callCode": "389",
+        "index": 134
+    },
+    {
+        "code2A": "ML",
+        "sectionName": "ส",
+        "sectionIndex": 23,
+        "name": "สาธารณรัฐมาลี",
+        "callCode": "223",
+        "index": 177
+    },
+    {
+        "code2A": "MM",
+        "sectionName": "พ",
+        "sectionIndex": 14,
+        "name": "พม่า",
+        "callCode": "95",
+        "index": 116
+    },
+    {
+        "code2A": "MN",
+        "sectionName": "ม",
+        "sectionIndex": 17,
+        "name": "มองโกเลีย",
+        "callCode": "976",
+        "index": 124
+    },
+    {
+        "code2A": "MO",
+        "sectionName": "ม",
+        "sectionIndex": 17,
+        "name": "มาเก๊า",
+        "callCode": "853",
+        "index": 131
+    },
+    {
+        "code2A": "MP",
+        "sectionName": "ห",
+        "sectionIndex": 24,
+        "name": "หมู่เกาะนอร์เทิร์นมาเรียนา",
+        "callCode": "1",
+        "index": 184
+    },
+    {
+        "code2A": "MQ",
+        "sectionName": "ม",
+        "sectionIndex": 17,
+        "name": "มาร์ตีนิก",
+        "callCode": "596",
+        "index": 136
+    },
+    {
+        "code2A": "MR",
+        "sectionName": "ม",
+        "sectionIndex": 17,
+        "name": "มอริเตเนีย",
+        "callCode": "222",
+        "index": 130
+    },
+    {
+        "code2A": "MS",
+        "sectionName": "ม",
+        "sectionIndex": 17,
+        "name": "มอนต์เซอร์รัต",
+        "callCode": "1",
+        "index": 123
+    },
+    {
+        "code2A": "MT",
+        "sectionName": "ม",
+        "sectionIndex": 17,
+        "name": "มอลตา",
+        "callCode": "356",
+        "index": 127
+    },
+    {
+        "code2A": "MU",
+        "sectionName": "ม",
+        "sectionIndex": 17,
+        "name": "มอริเชียส",
+        "callCode": "230",
+        "index": 129
+    },
+    {
+        "code2A": "MV",
+        "sectionName": "ม",
+        "sectionIndex": 17,
+        "name": "มัลดีฟท์",
+        "callCode": "960",
+        "index": 128
+    },
+    {
+        "code2A": "MW",
+        "sectionName": "ม",
+        "sectionIndex": 17,
+        "name": "มาลาวี",
+        "callCode": "265",
+        "index": 137
+    },
+    {
+        "code2A": "MX",
+        "sectionName": "ม",
+        "sectionIndex": 17,
+        "name": "เม็กซิโก",
+        "callCode": "52",
+        "index": 138
+    },
+    {
+        "code2A": "MY",
+        "sectionName": "ม",
+        "sectionIndex": 17,
+        "name": "มาเลเซีย",
+        "callCode": "60",
+        "index": 132
+    },
+    {
+        "code2A": "MZ",
+        "sectionName": "ม",
+        "sectionIndex": 17,
+        "name": "โมซัมบิค",
+        "callCode": "258",
+        "index": 140
+    },
+    {
+        "code2A": "NA",
+        "sectionName": "น",
+        "sectionIndex": 10,
+        "name": "นามิเบีย",
+        "callCode": "264",
+        "index": 78
+    },
+    {
+        "code2A": "NC",
+        "sectionName": "น",
+        "sectionIndex": 10,
+        "name": "นิว คาเลโดเนีย",
+        "callCode": "687",
+        "index": 81
+    },
+    {
+        "code2A": "NE",
+        "sectionName": "น",
+        "sectionIndex": 10,
+        "name": "ไนเจอร์",
+        "callCode": "227",
+        "index": 86
+    },
+    {
+        "code2A": "NG",
+        "sectionName": "น",
+        "sectionIndex": 10,
+        "name": "ไนจีเรีย",
+        "callCode": "234",
+        "index": 87
+    },
+    {
+        "code2A": "NI",
+        "sectionName": "น",
+        "sectionIndex": 10,
+        "name": "นิคารากัว",
+        "callCode": "505",
+        "index": 80
+    },
+    {
+        "code2A": "NL",
+        "sectionName": "น",
+        "sectionIndex": 10,
+        "name": "เนเธอร์แลนด์",
+        "callCode": "31",
+        "index": 83
+    },
+    {
+        "code2A": "NO",
+        "sectionName": "น",
+        "sectionIndex": 10,
+        "name": "นอร์เวย์",
+        "callCode": "47",
+        "index": 77
+    },
+    {
+        "code2A": "NP",
+        "sectionName": "น",
+        "sectionIndex": 10,
+        "name": "เนปาล",
+        "callCode": "977",
+        "index": 85
+    },
+    {
+        "code2A": "NR",
+        "sectionName": "น",
+        "sectionIndex": 10,
+        "name": "นาอูรู",
+        "callCode": "674",
+        "index": 79
+    },
+    {
+        "code2A": "NZ",
+        "sectionName": "น",
+        "sectionIndex": 10,
+        "name": "นิวซีแลนด์",
+        "callCode": "64",
+        "index": 82
+    },
+    {
+        "code2A": "OM",
+        "sectionName": "อ",
+        "sectionIndex": 25,
+        "name": "โอมาน",
+        "callCode": "968",
+        "index": 223
+    },
+    {
+        "code2A": "PA",
+        "sectionName": "ป",
+        "sectionIndex": 12,
+        "name": "ปานามา",
+        "callCode": "507",
+        "index": 108
+    },
+    {
+        "code2A": "PE",
+        "sectionName": "ป",
+        "sectionIndex": 12,
+        "name": "เปรู",
+        "callCode": "51",
+        "index": 111
+    },
+    {
+        "code2A": "PF",
+        "sectionName": "ฟ",
+        "sectionIndex": 15,
+        "name": "เฟรนช์โปลินีเซีย",
+        "callCode": "689",
+        "index": 121
+    },
+    {
+        "code2A": "PG",
+        "sectionName": "ป",
+        "sectionIndex": 12,
+        "name": "ปาปัว นิว กินี",
+        "callCode": "675",
+        "index": 109
+    },
+    {
+        "code2A": "PH",
+        "sectionName": "ฟ",
+        "sectionIndex": 15,
+        "name": "ฟิลิปปินส์",
+        "callCode": "63",
+        "index": 118
+    },
+    {
+        "code2A": "PK",
+        "sectionName": "ป",
+        "sectionIndex": 12,
+        "name": "ปากีสถาน",
+        "callCode": "92",
+        "index": 107
+    },
+    {
+        "code2A": "PL",
+        "sectionName": "ป",
+        "sectionIndex": 12,
+        "name": "โปแลนด์",
+        "callCode": "48",
+        "index": 113
+    },
+    {
+        "code2A": "PM",
+        "sectionName": "ซ",
+        "sectionIndex": 5,
+        "name": "เซนท์ปิแอร์และมิเกลอน",
+        "callCode": "508",
+        "index": 57
+    },
+    {
+        "code2A": "PR",
+        "sectionName": "ป",
+        "sectionIndex": 12,
+        "name": "เปอร์โต ริโก",
+        "callCode": "1",
+        "index": 112
+    },
+    {
+        "code2A": "PS",
+        "sectionName": "ป",
+        "sectionIndex": 12,
+        "name": "ปาเลสไตน์",
+        "callCode": "970",
+        "index": 105
+    },
+    {
+        "code2A": "PT",
+        "sectionName": "ป",
+        "sectionIndex": 12,
+        "name": "โปรตุเกส",
+        "callCode": "351",
+        "index": 114
+    },
+    {
+        "code2A": "PW",
+        "sectionName": "ป",
+        "sectionIndex": 12,
+        "name": "ปาเลา",
+        "callCode": "680",
+        "index": 106
+    },
+    {
+        "code2A": "PY",
+        "sectionName": "ป",
+        "sectionIndex": 12,
+        "name": "ปารากวัย",
+        "callCode": "595",
+        "index": 110
+    },
+    {
+        "code2A": "QA",
+        "sectionName": "ก",
+        "sectionIndex": 1,
+        "name": "กาตาร์",
+        "callCode": "974",
+        "index": 7
+    },
+    {
+        "code2A": "RE",
+        "sectionName": "ร",
+        "sectionIndex": 19,
+        "name": "เรอูว์นียง",
+        "callCode": "262",
+        "index": 149
+    },
+    {
+        "code2A": "RO",
+        "sectionName": "ร",
+        "sectionIndex": 19,
+        "name": "โรมาเนีย",
+        "callCode": "40",
+        "index": 150
+    },
+    {
+        "code2A": "RS",
+        "sectionName": "ซ",
+        "sectionIndex": 5,
+        "name": "เซอร์เบีย",
+        "callCode": "381",
+        "index": 58
+    },
+    {
+        "code2A": "RU",
+        "sectionName": "ร",
+        "sectionIndex": 19,
+        "name": "รัสเซีย",
+        "callCode": "7",
+        "index": 148
+    },
+    {
+        "code2A": "RW",
+        "sectionName": "ร",
+        "sectionIndex": 19,
+        "name": "รวันดา",
+        "callCode": "250",
+        "index": 147
+    },
+    {
+        "code2A": "SA",
+        "sectionName": "ซ",
+        "sectionIndex": 5,
+        "name": "ซาอุดิอารเบีย",
+        "callCode": "966",
+        "index": 47
+    },
+    {
+        "code2A": "SB",
+        "sectionName": "ห",
+        "sectionIndex": 24,
+        "name": "หมู่เกาะโซโลมอน",
+        "callCode": "677",
+        "index": 186
+    },
+    {
+        "code2A": "SC",
+        "sectionName": "ซ",
+        "sectionIndex": 5,
+        "name": "เซเชลส์",
+        "callCode": "248",
+        "index": 52
+    },
+    {
+        "code2A": "SD",
+        "sectionName": "ซ",
+        "sectionIndex": 5,
+        "name": "ซูดาน",
+        "callCode": "249",
+        "index": 50
+    },
+    {
+        "code2A": "SE",
+        "sectionName": "ส",
+        "sectionIndex": 23,
+        "name": "สวีเดน",
+        "callCode": "46",
+        "index": 170
+    },
+    {
+        "code2A": "SG",
+        "sectionName": "ส",
+        "sectionIndex": 23,
+        "name": "สิงคโปร์",
+        "callCode": "65",
+        "index": 179
+    },
+    {
+        "code2A": "SI",
+        "sectionName": "ส",
+        "sectionIndex": 23,
+        "name": "สโลเวเนีย",
+        "callCode": "386",
+        "index": 166
+    },
+    {
+        "code2A": "SJ",
+        "sectionName": "ก",
+        "sectionIndex": 1,
+        "name": "เกาะซาวาบาร์ดและจานมาเยน",
+        "callCode": "47",
+        "index": 18
+    },
+    {
+        "code2A": "SK",
+        "sectionName": "ส",
+        "sectionIndex": 23,
+        "name": "สโลวาเกีย",
+        "callCode": "421",
+        "index": 167
+    },
+    {
+        "code2A": "SL",
+        "sectionName": "ซ",
+        "sectionIndex": 5,
+        "name": "เซียร์ร่า ลีโอน",
+        "callCode": "232",
+        "index": 59
+    },
+    {
+        "code2A": "SM",
+        "sectionName": "ซ",
+        "sectionIndex": 5,
+        "name": "ซาน มาริโน",
+        "callCode": "378",
+        "index": 45
+    },
+    {
+        "code2A": "SN",
+        "sectionName": "ซ",
+        "sectionIndex": 5,
+        "name": "เซเนกัล",
+        "callCode": "221",
+        "index": 53
+    },
+    {
+        "code2A": "SO",
+        "sectionName": "ซ",
+        "sectionIndex": 5,
+        "name": "โซมาเลีย",
+        "callCode": "252",
+        "index": 61
+    },
+    {
+        "code2A": "SR",
+        "sectionName": "ซ",
+        "sectionIndex": 5,
+        "name": "ซูรีนาม",
+        "callCode": "597",
+        "index": 51
+    },
+    {
+        "code2A": "SV",
+        "sectionName": "อ",
+        "sectionIndex": 25,
+        "name": "เอล ซัลวาดอร์",
+        "callCode": "503",
+        "index": 216
+    },
+    {
+        "code2A": "SY",
+        "sectionName": "ซ",
+        "sectionIndex": 5,
+        "name": "ซีเรีย",
+        "callCode": "963",
+        "index": 49
+    },
+    {
+        "code2A": "SZ",
+        "sectionName": "ส",
+        "sectionIndex": 23,
+        "name": "สวาซิแลนด์",
+        "callCode": "268",
+        "index": 168
+    },
+    {
+        "code2A": "TC",
+        "sectionName": "ห",
+        "sectionIndex": 24,
+        "name": "หมู่เกาะเติกส์และหมู่เกาะเคคอส",
+        "callCode": "1",
+        "index": 183
+    },
+    {
+        "code2A": "TD",
+        "sectionName": "ส",
+        "sectionIndex": 23,
+        "name": "สาธารณรัฐชาด",
+        "callCode": "235",
+        "index": 176
+    },
+    {
+        "code2A": "TF",
+        "sectionName": "ฟ",
+        "sectionIndex": 15,
+        "name": "เฟรนซ์ เซาเทิร์น เทอริทอรี่ส์",
+        "callCode": "262",
+        "index": 120
+    },
+    {
+        "code2A": "TG",
+        "sectionName": "ต",
+        "sectionIndex": 8,
+        "name": "โตโก",
+        "callCode": "228",
+        "index": 72
+    },
+    {
+        "code2A": "TH",
+        "sectionName": "ท",
+        "sectionIndex": 9,
+        "name": "ไทย",
+        "callCode": "66",
+        "index": 76
+    },
+    {
+        "code2A": "TJ",
+        "sectionName": "ท",
+        "sectionIndex": 9,
+        "name": "ทาจิกิสถาน",
+        "callCode": "992",
+        "index": 74
+    },
+    {
+        "code2A": "TL",
+        "sectionName": "ต",
+        "sectionIndex": 8,
+        "name": "ติมอร์ตะวันออก",
+        "callCode": "670",
+        "index": 68
+    },
+    {
+        "code2A": "TM",
+        "sectionName": "ต",
+        "sectionIndex": 8,
+        "name": "เติร์กเมนิสถาน",
+        "callCode": "993",
+        "index": 71
+    },
+    {
+        "code2A": "TN",
+        "sectionName": "ต",
+        "sectionIndex": 8,
+        "name": "ตูนิเซีย",
+        "callCode": "216",
+        "index": 70
+    },
+    {
+        "code2A": "TO",
+        "sectionName": "ต",
+        "sectionIndex": 8,
+        "name": "ตองกา",
+        "callCode": "676",
+        "index": 67
+    },
+    {
+        "code2A": "TR",
+        "sectionName": "ต",
+        "sectionIndex": 8,
+        "name": "ตุรกี",
+        "callCode": "90",
+        "index": 69
+    },
+    {
+        "code2A": "TT",
+        "sectionName": "ต",
+        "sectionIndex": 8,
+        "name": "ตรินิแดด",
+        "callCode": "1",
+        "index": 66
+    },
+    {
+        "code2A": "TW",
+        "sectionName": "ต",
+        "sectionIndex": 8,
+        "name": "ไต้หวัน",
+        "callCode": "886",
+        "index": 73
+    },
+    {
+        "code2A": "TZ",
+        "sectionName": "ท",
+        "sectionIndex": 9,
+        "name": "แทนซาเนีย",
+        "callCode": "255",
+        "index": 75
+    },
+    {
+        "code2A": "UA",
+        "sectionName": "ย",
+        "sectionIndex": 18,
+        "name": "ยูเครน",
+        "callCode": "380",
+        "index": 143
+    },
+    {
+        "code2A": "UG",
+        "sectionName": "อ",
+        "sectionIndex": 25,
+        "name": "อูกันดา",
+        "callCode": "256",
+        "index": 212
+    },
+    {
+        "code2A": "US",
+        "sectionName": "ส",
+        "sectionIndex": 23,
+        "name": "สหรัฐอเมริกา",
+        "callCode": "1",
+        "index": 172
+    },
+    {
+        "code2A": "UY",
+        "sectionName": "อ",
+        "sectionIndex": 25,
+        "name": "อุรุกวัย",
+        "callCode": "598",
+        "index": 211
+    },
+    {
+        "code2A": "UZ",
+        "sectionName": "อ",
+        "sectionIndex": 25,
+        "name": "อุซเบกิสถาน",
+        "callCode": "998",
+        "index": 210
+    },
+    {
+        "code2A": "VA",
+        "sectionName": "ม",
+        "sectionIndex": 17,
+        "name": "เมืองวาติกัน",
+        "callCode": "39",
+        "index": 139
+    },
+    {
+        "code2A": "VC",
+        "sectionName": "ซ",
+        "sectionIndex": 5,
+        "name": "เซนต์วินเซนต์และเกรนาดีนส์",
+        "callCode": "1",
+        "index": 55
+    },
+    {
+        "code2A": "VE",
+        "sectionName": "ว",
+        "sectionIndex": 21,
+        "name": "เวเนซุเอลา",
+        "callCode": "58",
+        "index": 161
+    },
+    {
+        "code2A": "VG",
+        "sectionName": "ห",
+        "sectionIndex": 24,
+        "name": "หมู่เกาะบริติชเวอร์จิน",
+        "callCode": "1",
+        "index": 185
+    },
+    {
+        "code2A": "VI",
+        "sectionName": "ห",
+        "sectionIndex": 24,
+        "name": "หมู่เกาะเวอร์จินของสหรัฐอเมริกา",
+        "callCode": "1",
+        "index": 189
+    },
+    {
+        "code2A": "VN",
+        "sectionName": "ว",
+        "sectionIndex": 21,
+        "name": "เวียดนาม",
+        "callCode": "84",
+        "index": 163
+    },
+    {
+        "code2A": "VU",
+        "sectionName": "ว",
+        "sectionIndex": 21,
+        "name": "วานูอาตู",
+        "callCode": "678",
+        "index": 160
+    },
+    {
+        "code2A": "WF",
+        "sectionName": "ก",
+        "sectionIndex": 1,
+        "name": "เกาะวาลิสและเกาะฟูตูนา",
+        "callCode": "681",
+        "index": 20
+    },
+    {
+        "code2A": "WS",
+        "sectionName": "ซ",
+        "sectionIndex": 5,
+        "name": "ซามัว",
+        "callCode": "685",
+        "index": 46
+    },
+    {
+        "code2A": "YE",
+        "sectionName": "ย",
+        "sectionIndex": 18,
+        "name": "เยเมน",
+        "callCode": "967",
+        "index": 145
+    },
+    {
+        "code2A": "YT",
+        "sectionName": "ม",
+        "sectionIndex": 17,
+        "name": "มายอต",
+        "callCode": "262",
+        "index": 133
+    },
+    {
+        "code2A": "ZA",
+        "sectionName": "อ",
+        "sectionIndex": 25,
+        "name": "แอฟริกาใต้",
+        "callCode": "27",
+        "index": 221
+    },
+    {
+        "code2A": "ZM",
+        "sectionName": "ซ",
+        "sectionIndex": 5,
+        "name": "แซมเบีย",
+        "callCode": "260",
+        "index": 60
+    },
+    {
+        "code2A": "ZW",
+        "sectionName": "ซ",
+        "sectionIndex": 5,
+        "name": "ซิมบับเว",
+        "callCode": "263",
+        "index": 48
+    }
+]

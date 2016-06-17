@@ -1,0 +1,1850 @@
+[
+    {
+        "code2A": "AD",
+        "sectionName": "A",
+        "sectionIndex": 1,
+        "name": "ANDORA",
+        "callCode": "376",
+        "index": 6
+    },
+    {
+        "code2A": "AE",
+        "sectionName": "U",
+        "sectionIndex": 21,
+        "name": "UNI EMIRAT ARAB",
+        "callCode": "971",
+        "index": 220
+    },
+    {
+        "code2A": "AF",
+        "sectionName": "A",
+        "sectionIndex": 1,
+        "name": "AFGHANISTAN",
+        "callCode": "93",
+        "index": 1
+    },
+    {
+        "code2A": "AG",
+        "sectionName": "A",
+        "sectionIndex": 1,
+        "name": "ANTIGUA DAN BARBUDA",
+        "callCode": "1",
+        "index": 9
+    },
+    {
+        "code2A": "AI",
+        "sectionName": "A",
+        "sectionIndex": 1,
+        "name": "ANGUILLA",
+        "callCode": "1",
+        "index": 8
+    },
+    {
+        "code2A": "AL",
+        "sectionName": "A",
+        "sectionIndex": 1,
+        "name": "ALBANIA",
+        "callCode": "355",
+        "index": 3
+    },
+    {
+        "code2A": "AM",
+        "sectionName": "A",
+        "sectionIndex": 1,
+        "name": "ARMENIA",
+        "callCode": "374",
+        "index": 13
+    },
+    {
+        "code2A": "AN",
+        "sectionName": "A",
+        "sectionIndex": 1,
+        "name": "ANTILLEN BELANDA",
+        "callCode": "599",
+        "index": 10
+    },
+    {
+        "code2A": "AO",
+        "sectionName": "A",
+        "sectionIndex": 1,
+        "name": "ANGOLA",
+        "callCode": "244",
+        "index": 7
+    },
+    {
+        "code2A": "AR",
+        "sectionName": "A",
+        "sectionIndex": 1,
+        "name": "ARGENTINA",
+        "callCode": "54",
+        "index": 12
+    },
+    {
+        "code2A": "AS",
+        "sectionName": "S",
+        "sectionIndex": 19,
+        "name": "SAMOA AMERIKA",
+        "callCode": "1",
+        "index": 185
+    },
+    {
+        "code2A": "AT",
+        "sectionName": "A",
+        "sectionIndex": 1,
+        "name": "AUSTRIA",
+        "callCode": "43",
+        "index": 16
+    },
+    {
+        "code2A": "AU",
+        "sectionName": "A",
+        "sectionIndex": 1,
+        "name": "AUSTRALIA",
+        "callCode": "61",
+        "index": 15
+    },
+    {
+        "code2A": "AW",
+        "sectionName": "A",
+        "sectionIndex": 1,
+        "name": "ARUBA",
+        "callCode": "297",
+        "index": 14
+    },
+    {
+        "code2A": "AZ",
+        "sectionName": "A",
+        "sectionIndex": 1,
+        "name": "AZERBAIJAN",
+        "callCode": "994",
+        "index": 17
+    },
+    {
+        "code2A": "BA",
+        "sectionName": "B",
+        "sectionIndex": 2,
+        "name": "BOSNIA",
+        "callCode": "387",
+        "index": 30
+    },
+    {
+        "code2A": "BB",
+        "sectionName": "B",
+        "sectionIndex": 2,
+        "name": "BARBADOS",
+        "callCode": "1",
+        "index": 21
+    },
+    {
+        "code2A": "BD",
+        "sectionName": "B",
+        "sectionIndex": 2,
+        "name": "BANGLADESH",
+        "callCode": "880",
+        "index": 20
+    },
+    {
+        "code2A": "BE",
+        "sectionName": "B",
+        "sectionIndex": 2,
+        "name": "BELGIA",
+        "callCode": "32",
+        "index": 24
+    },
+    {
+        "code2A": "BF",
+        "sectionName": "B",
+        "sectionIndex": 2,
+        "name": "BURKINA FASO",
+        "callCode": "226",
+        "index": 35
+    },
+    {
+        "code2A": "BG",
+        "sectionName": "B",
+        "sectionIndex": 2,
+        "name": "BULGARIA",
+        "callCode": "359",
+        "index": 34
+    },
+    {
+        "code2A": "BH",
+        "sectionName": "B",
+        "sectionIndex": 2,
+        "name": "BAHRAIN",
+        "callCode": "973",
+        "index": 19
+    },
+    {
+        "code2A": "BI",
+        "sectionName": "B",
+        "sectionIndex": 2,
+        "name": "BURUNDI",
+        "callCode": "257",
+        "index": 36
+    },
+    {
+        "code2A": "BJ",
+        "sectionName": "B",
+        "sectionIndex": 2,
+        "name": "BENIN",
+        "callCode": "229",
+        "index": 26
+    },
+    {
+        "code2A": "BM",
+        "sectionName": "B",
+        "sectionIndex": 2,
+        "name": "BERMUDA",
+        "callCode": "1",
+        "index": 27
+    },
+    {
+        "code2A": "BN",
+        "sectionName": "B",
+        "sectionIndex": 2,
+        "name": "BRUNEI DARUSSALAM",
+        "callCode": "673",
+        "index": 33
+    },
+    {
+        "code2A": "BO",
+        "sectionName": "B",
+        "sectionIndex": 2,
+        "name": "BOLIVIA",
+        "callCode": "591",
+        "index": 29
+    },
+    {
+        "code2A": "BR",
+        "sectionName": "B",
+        "sectionIndex": 2,
+        "name": "BRAZIL",
+        "callCode": "55",
+        "index": 32
+    },
+    {
+        "code2A": "BS",
+        "sectionName": "B",
+        "sectionIndex": 2,
+        "name": "BAHAMAS",
+        "callCode": "1",
+        "index": 18
+    },
+    {
+        "code2A": "BT",
+        "sectionName": "B",
+        "sectionIndex": 2,
+        "name": "BHUTAN",
+        "callCode": "975",
+        "index": 28
+    },
+    {
+        "code2A": "BV",
+        "sectionName": "P",
+        "sectionIndex": 16,
+        "name": "PULAU BOUVET",
+        "callCode": "226",
+        "index": 168
+    },
+    {
+        "code2A": "BW",
+        "sectionName": "B",
+        "sectionIndex": 2,
+        "name": "BOTSWANA",
+        "callCode": "267",
+        "index": 31
+    },
+    {
+        "code2A": "BY",
+        "sectionName": "B",
+        "sectionIndex": 2,
+        "name": "BELARUSIA",
+        "callCode": "375",
+        "index": 23
+    },
+    {
+        "code2A": "BZ",
+        "sectionName": "B",
+        "sectionIndex": 2,
+        "name": "BELIZE",
+        "callCode": "501",
+        "index": 25
+    },
+    {
+        "code2A": "CA",
+        "sectionName": "K",
+        "sectionIndex": 11,
+        "name": "KANADA",
+        "callCode": "1",
+        "index": 90
+    },
+    {
+        "code2A": "CC",
+        "sectionName": "K",
+        "sectionIndex": 11,
+        "name": "KEPULAUAN COCOS (KEELING)",
+        "callCode": "61",
+        "index": 93
+    },
+    {
+        "code2A": "CD",
+        "sectionName": "K",
+        "sectionIndex": 11,
+        "name": "KONGO - KINSHASA",
+        "callCode": "243",
+        "index": 109
+    },
+    {
+        "code2A": "CF",
+        "sectionName": "R",
+        "sectionIndex": 18,
+        "name": "REPUBLIK AFRIKA TENGAH",
+        "callCode": "236",
+        "index": 172
+    },
+    {
+        "code2A": "CG",
+        "sectionName": "K",
+        "sectionIndex": 11,
+        "name": "KONGO - REPUBLIK",
+        "callCode": "242",
+        "index": 110
+    },
+    {
+        "code2A": "CH",
+        "sectionName": "S",
+        "sectionIndex": 19,
+        "name": "SWISS",
+        "callCode": "41",
+        "index": 204
+    },
+    {
+        "code2A": "CI",
+        "sectionName": "C",
+        "sectionIndex": 3,
+        "name": "CÔTE D'IVOIRE",
+        "callCode": "225",
+        "index": 40
+    },
+    {
+        "code2A": "CK",
+        "sectionName": "K",
+        "sectionIndex": 11,
+        "name": "KEPULAUAN COOK",
+        "callCode": "682",
+        "index": 94
+    },
+    {
+        "code2A": "CL",
+        "sectionName": "C",
+        "sectionIndex": 3,
+        "name": "CHILI",
+        "callCode": "56",
+        "index": 38
+    },
+    {
+        "code2A": "CM",
+        "sectionName": "K",
+        "sectionIndex": 11,
+        "name": "KAMERUN",
+        "callCode": "237",
+        "index": 89
+    },
+    {
+        "code2A": "CN",
+        "sectionName": "C",
+        "sectionIndex": 3,
+        "name": "CINA",
+        "callCode": "86",
+        "index": 39
+    },
+    {
+        "code2A": "CO",
+        "sectionName": "K",
+        "sectionIndex": 11,
+        "name": "KOLOMBIA",
+        "callCode": "57",
+        "index": 107
+    },
+    {
+        "code2A": "CR",
+        "sectionName": "K",
+        "sectionIndex": 11,
+        "name": "KOSTA RIKA",
+        "callCode": "506",
+        "index": 112
+    },
+    {
+        "code2A": "CU",
+        "sectionName": "K",
+        "sectionIndex": 11,
+        "name": "KUBA",
+        "callCode": "53",
+        "index": 114
+    },
+    {
+        "code2A": "CV",
+        "sectionName": "T",
+        "sectionIndex": 20,
+        "name": "TANJUNG VERDE",
+        "callCode": "238",
+        "index": 208
+    },
+    {
+        "code2A": "CX",
+        "sectionName": "P",
+        "sectionIndex": 16,
+        "name": "PULAU CHRISTMAS",
+        "callCode": "61",
+        "index": 169
+    },
+    {
+        "code2A": "CY",
+        "sectionName": "S",
+        "sectionIndex": 19,
+        "name": "SIPRUS",
+        "callCode": "357",
+        "index": 193
+    },
+    {
+        "code2A": "CZ",
+        "sectionName": "R",
+        "sectionIndex": 18,
+        "name": "REPUBLIK CEKO",
+        "callCode": "420",
+        "index": 173
+    },
+    {
+        "code2A": "DE",
+        "sectionName": "J",
+        "sectionIndex": 10,
+        "name": "JERMAN",
+        "callCode": "49",
+        "index": 84
+    },
+    {
+        "code2A": "DJ",
+        "sectionName": "J",
+        "sectionIndex": 10,
+        "name": "JIBUTI",
+        "callCode": "253",
+        "index": 86
+    },
+    {
+        "code2A": "DK",
+        "sectionName": "D",
+        "sectionIndex": 4,
+        "name": "DENMARK",
+        "callCode": "45",
+        "index": 42
+    },
+    {
+        "code2A": "DM",
+        "sectionName": "D",
+        "sectionIndex": 4,
+        "name": "DOMINIKA",
+        "callCode": "1",
+        "index": 43
+    },
+    {
+        "code2A": "DO",
+        "sectionName": "R",
+        "sectionIndex": 18,
+        "name": "REPUBLIK DOMINIKA",
+        "callCode": "1",
+        "index": 174
+    },
+    {
+        "code2A": "DZ",
+        "sectionName": "A",
+        "sectionIndex": 1,
+        "name": "ALGERIA",
+        "callCode": "213",
+        "index": 4
+    },
+    {
+        "code2A": "EC",
+        "sectionName": "E",
+        "sectionIndex": 5,
+        "name": "EKUADOR",
+        "callCode": "593",
+        "index": 44
+    },
+    {
+        "code2A": "EE",
+        "sectionName": "E",
+        "sectionIndex": 5,
+        "name": "ESTONIA",
+        "callCode": "372",
+        "index": 47
+    },
+    {
+        "code2A": "EG",
+        "sectionName": "M",
+        "sectionIndex": 13,
+        "name": "MESIR",
+        "callCode": "20",
+        "index": 138
+    },
+    {
+        "code2A": "EH",
+        "sectionName": "S",
+        "sectionIndex": 19,
+        "name": "SAHARA BARAT",
+        "callCode": "212",
+        "index": 179
+    },
+    {
+        "code2A": "ER",
+        "sectionName": "E",
+        "sectionIndex": 5,
+        "name": "ERITREA",
+        "callCode": "291",
+        "index": 46
+    },
+    {
+        "code2A": "ES",
+        "sectionName": "S",
+        "sectionIndex": 19,
+        "name": "SPANYOL",
+        "callCode": "34",
+        "index": 197
+    },
+    {
+        "code2A": "ET",
+        "sectionName": "E",
+        "sectionIndex": 5,
+        "name": "ETHIOPIA",
+        "callCode": "251",
+        "index": 48
+    },
+    {
+        "code2A": "FI",
+        "sectionName": "F",
+        "sectionIndex": 6,
+        "name": "FINLANDIA",
+        "callCode": "358",
+        "index": 51
+    },
+    {
+        "code2A": "FJ",
+        "sectionName": "F",
+        "sectionIndex": 6,
+        "name": "FIJI",
+        "callCode": "679",
+        "index": 49
+    },
+    {
+        "code2A": "FK",
+        "sectionName": "K",
+        "sectionIndex": 11,
+        "name": "KEPULAUAN FALKLAND",
+        "callCode": "500",
+        "index": 95
+    },
+    {
+        "code2A": "FM",
+        "sectionName": "M",
+        "sectionIndex": 13,
+        "name": "MIKRONESIA",
+        "callCode": "691",
+        "index": 140
+    },
+    {
+        "code2A": "FO",
+        "sectionName": "K",
+        "sectionIndex": 11,
+        "name": "KEPULAUAN FAROE",
+        "callCode": "298",
+        "index": 96
+    },
+    {
+        "code2A": "FR",
+        "sectionName": "P",
+        "sectionIndex": 16,
+        "name": "PERANCIS",
+        "callCode": "33",
+        "index": 162
+    },
+    {
+        "code2A": "GB",
+        "sectionName": "I",
+        "sectionIndex": 9,
+        "name": "INGGRIS RAYA",
+        "callCode": "44",
+        "index": 74
+    },
+    {
+        "code2A": "GD",
+        "sectionName": "G",
+        "sectionIndex": 7,
+        "name": "GRENADA",
+        "callCode": "1",
+        "index": 58
+    },
+    {
+        "code2A": "GE",
+        "sectionName": "G",
+        "sectionIndex": 7,
+        "name": "GEORGIA",
+        "callCode": "995",
+        "index": 53
+    },
+    {
+        "code2A": "GF",
+        "sectionName": "G",
+        "sectionIndex": 7,
+        "name": "GUIANA PERANCIS",
+        "callCode": "594",
+        "index": 63
+    },
+    {
+        "code2A": "GG",
+        "sectionName": "G",
+        "sectionIndex": 7,
+        "name": "GUERNSEY",
+        "callCode": "44",
+        "index": 62
+    },
+    {
+        "code2A": "GH",
+        "sectionName": "G",
+        "sectionIndex": 7,
+        "name": "GHANA",
+        "callCode": "233",
+        "index": 55
+    },
+    {
+        "code2A": "GI",
+        "sectionName": "G",
+        "sectionIndex": 7,
+        "name": "GIBRALTAR",
+        "callCode": "350",
+        "index": 56
+    },
+    {
+        "code2A": "GL",
+        "sectionName": "G",
+        "sectionIndex": 7,
+        "name": "GREENLAND",
+        "callCode": "299",
+        "index": 57
+    },
+    {
+        "code2A": "GM",
+        "sectionName": "G",
+        "sectionIndex": 7,
+        "name": "GAMBIA",
+        "callCode": "220",
+        "index": 52
+    },
+    {
+        "code2A": "GN",
+        "sectionName": "G",
+        "sectionIndex": 7,
+        "name": "GUINEA",
+        "callCode": "224",
+        "index": 64
+    },
+    {
+        "code2A": "GP",
+        "sectionName": "G",
+        "sectionIndex": 7,
+        "name": "GUADELOUPE",
+        "callCode": "590",
+        "index": 59
+    },
+    {
+        "code2A": "GQ",
+        "sectionName": "G",
+        "sectionIndex": 7,
+        "name": "GUINEA KHATULISTIWA",
+        "callCode": "240",
+        "index": 65
+    },
+    {
+        "code2A": "GR",
+        "sectionName": "Y",
+        "sectionIndex": 23,
+        "name": "YUNANI",
+        "callCode": "30",
+        "index": 229
+    },
+    {
+        "code2A": "GS",
+        "sectionName": "G",
+        "sectionIndex": 7,
+        "name": "GEORGIA SELATAN DAN KEPULAUAN SANDWICH SELATAN",
+        "callCode": "500",
+        "index": 54
+    },
+    {
+        "code2A": "GT",
+        "sectionName": "G",
+        "sectionIndex": 7,
+        "name": "GUATEMALA",
+        "callCode": "502",
+        "index": 61
+    },
+    {
+        "code2A": "GU",
+        "sectionName": "G",
+        "sectionIndex": 7,
+        "name": "GUAM",
+        "callCode": "1",
+        "index": 60
+    },
+    {
+        "code2A": "GW",
+        "sectionName": "G",
+        "sectionIndex": 7,
+        "name": "GUINEA-BISSAU",
+        "callCode": "245",
+        "index": 66
+    },
+    {
+        "code2A": "GY",
+        "sectionName": "G",
+        "sectionIndex": 7,
+        "name": "GUYANA",
+        "callCode": "592",
+        "index": 67
+    },
+    {
+        "code2A": "HK",
+        "sectionName": "H",
+        "sectionIndex": 8,
+        "name": "HONG KONG",
+        "callCode": "852",
+        "index": 70
+    },
+    {
+        "code2A": "HM",
+        "sectionName": "P",
+        "sectionIndex": 16,
+        "name": "PULAU HEARD DAN KEPULAUAN MCDONALD",
+        "callCode": "61",
+        "index": 170
+    },
+    {
+        "code2A": "HN",
+        "sectionName": "H",
+        "sectionIndex": 8,
+        "name": "HONDURAS",
+        "callCode": "504",
+        "index": 69
+    },
+    {
+        "code2A": "HR",
+        "sectionName": "K",
+        "sectionIndex": 11,
+        "name": "KROASIA",
+        "callCode": "385",
+        "index": 113
+    },
+    {
+        "code2A": "HT",
+        "sectionName": "H",
+        "sectionIndex": 8,
+        "name": "HAITI",
+        "callCode": "509",
+        "index": 68
+    },
+    {
+        "code2A": "HU",
+        "sectionName": "H",
+        "sectionIndex": 8,
+        "name": "HUNGARIA",
+        "callCode": "36",
+        "index": 71
+    },
+    {
+        "code2A": "ID",
+        "sectionName": "I",
+        "sectionIndex": 9,
+        "name": "INDONESIA",
+        "callCode": "62",
+        "index": 73
+    },
+    {
+        "code2A": "IE",
+        "sectionName": "I",
+        "sectionIndex": 9,
+        "name": "IRLANDIA",
+        "callCode": "353",
+        "index": 77
+    },
+    {
+        "code2A": "IL",
+        "sectionName": "I",
+        "sectionIndex": 9,
+        "name": "ISRAEL",
+        "callCode": "972",
+        "index": 80
+    },
+    {
+        "code2A": "IM",
+        "sectionName": "I",
+        "sectionIndex": 9,
+        "name": "ISLE OF MAN",
+        "callCode": "44",
+        "index": 79
+    },
+    {
+        "code2A": "IN",
+        "sectionName": "I",
+        "sectionIndex": 9,
+        "name": "INDIA",
+        "callCode": "91",
+        "index": 72
+    },
+    {
+        "code2A": "IQ",
+        "sectionName": "I",
+        "sectionIndex": 9,
+        "name": "IRAQ",
+        "callCode": "964",
+        "index": 76
+    },
+    {
+        "code2A": "IR",
+        "sectionName": "I",
+        "sectionIndex": 9,
+        "name": "IRAN",
+        "callCode": "98",
+        "index": 75
+    },
+    {
+        "code2A": "IS",
+        "sectionName": "I",
+        "sectionIndex": 9,
+        "name": "ISLANDIA",
+        "callCode": "354",
+        "index": 78
+    },
+    {
+        "code2A": "IT",
+        "sectionName": "I",
+        "sectionIndex": 9,
+        "name": "ITALI",
+        "callCode": "39",
+        "index": 81
+    },
+    {
+        "code2A": "JE",
+        "sectionName": "J",
+        "sectionIndex": 10,
+        "name": "JERSEY",
+        "callCode": "44",
+        "index": 85
+    },
+    {
+        "code2A": "JM",
+        "sectionName": "J",
+        "sectionIndex": 10,
+        "name": "JAMAIKA",
+        "callCode": "1",
+        "index": 82
+    },
+    {
+        "code2A": "JO",
+        "sectionName": "Y",
+        "sectionIndex": 23,
+        "name": "YORDANIA",
+        "callCode": "962",
+        "index": 228
+    },
+    {
+        "code2A": "JP",
+        "sectionName": "J",
+        "sectionIndex": 10,
+        "name": "JEPANG",
+        "callCode": "81",
+        "index": 83
+    },
+    {
+        "code2A": "KE",
+        "sectionName": "K",
+        "sectionIndex": 11,
+        "name": "KENYA",
+        "callCode": "254",
+        "index": 92
+    },
+    {
+        "code2A": "KG",
+        "sectionName": "K",
+        "sectionIndex": 11,
+        "name": "KIRGISTAN",
+        "callCode": "996",
+        "index": 105
+    },
+    {
+        "code2A": "KH",
+        "sectionName": "K",
+        "sectionIndex": 11,
+        "name": "KAMBOJA",
+        "callCode": "855",
+        "index": 88
+    },
+    {
+        "code2A": "KI",
+        "sectionName": "K",
+        "sectionIndex": 11,
+        "name": "KIRIBATI",
+        "callCode": "686",
+        "index": 106
+    },
+    {
+        "code2A": "KM",
+        "sectionName": "K",
+        "sectionIndex": 11,
+        "name": "KOMOROS",
+        "callCode": "269",
+        "index": 108
+    },
+    {
+        "code2A": "KN",
+        "sectionName": "S",
+        "sectionIndex": 19,
+        "name": "SAINT KITTS DAN NEVIS",
+        "callCode": "1",
+        "index": 180
+    },
+    {
+        "code2A": "KR",
+        "sectionName": "K",
+        "sectionIndex": 11,
+        "name": "KOREA SELATAN",
+        "callCode": "82",
+        "index": 111
+    },
+    {
+        "code2A": "KW",
+        "sectionName": "K",
+        "sectionIndex": 11,
+        "name": "KUWAIT",
+        "callCode": "965",
+        "index": 115
+    },
+    {
+        "code2A": "KY",
+        "sectionName": "K",
+        "sectionIndex": 11,
+        "name": "KEPULAUAN KAYMAN",
+        "callCode": "1",
+        "index": 97
+    },
+    {
+        "code2A": "KZ",
+        "sectionName": "K",
+        "sectionIndex": 11,
+        "name": "KAZAKSTAN",
+        "callCode": "7",
+        "index": 91
+    },
+    {
+        "code2A": "LA",
+        "sectionName": "L",
+        "sectionIndex": 12,
+        "name": "LAOS",
+        "callCode": "856",
+        "index": 116
+    },
+    {
+        "code2A": "LB",
+        "sectionName": "L",
+        "sectionIndex": 12,
+        "name": "LEBANON",
+        "callCode": "961",
+        "index": 118
+    },
+    {
+        "code2A": "LC",
+        "sectionName": "S",
+        "sectionIndex": 19,
+        "name": "SAINT LUCIA",
+        "callCode": "1",
+        "index": 181
+    },
+    {
+        "code2A": "LI",
+        "sectionName": "L",
+        "sectionIndex": 12,
+        "name": "LIECHTENSTEIN",
+        "callCode": "423",
+        "index": 122
+    },
+    {
+        "code2A": "LK",
+        "sectionName": "S",
+        "sectionIndex": 19,
+        "name": "SRI LANKA",
+        "callCode": "94",
+        "index": 198
+    },
+    {
+        "code2A": "LR",
+        "sectionName": "L",
+        "sectionIndex": 12,
+        "name": "LIBERIA",
+        "callCode": "231",
+        "index": 120
+    },
+    {
+        "code2A": "LS",
+        "sectionName": "L",
+        "sectionIndex": 12,
+        "name": "LESOTHO",
+        "callCode": "266",
+        "index": 119
+    },
+    {
+        "code2A": "LT",
+        "sectionName": "L",
+        "sectionIndex": 12,
+        "name": "LITHUANIA",
+        "callCode": "370",
+        "index": 123
+    },
+    {
+        "code2A": "LU",
+        "sectionName": "L",
+        "sectionIndex": 12,
+        "name": "LUXEMBOURG",
+        "callCode": "352",
+        "index": 124
+    },
+    {
+        "code2A": "LV",
+        "sectionName": "L",
+        "sectionIndex": 12,
+        "name": "LATVIA",
+        "callCode": "371",
+        "index": 117
+    },
+    {
+        "code2A": "LY",
+        "sectionName": "L",
+        "sectionIndex": 12,
+        "name": "LIBIA",
+        "callCode": "218",
+        "index": 121
+    },
+    {
+        "code2A": "MA",
+        "sectionName": "M",
+        "sectionIndex": 13,
+        "name": "MAROKO",
+        "callCode": "212",
+        "index": 133
+    },
+    {
+        "code2A": "MC",
+        "sectionName": "M",
+        "sectionIndex": 13,
+        "name": "MONAKO",
+        "callCode": "377",
+        "index": 142
+    },
+    {
+        "code2A": "MD",
+        "sectionName": "M",
+        "sectionIndex": 13,
+        "name": "MOLDOVA",
+        "callCode": "373",
+        "index": 141
+    },
+    {
+        "code2A": "ME",
+        "sectionName": "M",
+        "sectionIndex": 13,
+        "name": "MONTENEGRO",
+        "callCode": "382",
+        "index": 144
+    },
+    {
+        "code2A": "MG",
+        "sectionName": "M",
+        "sectionIndex": 13,
+        "name": "MADAGASKAR",
+        "callCode": "261",
+        "index": 125
+    },
+    {
+        "code2A": "MH",
+        "sectionName": "K",
+        "sectionIndex": 11,
+        "name": "KEPULAUAN MARSHALL",
+        "callCode": "692",
+        "index": 99
+    },
+    {
+        "code2A": "MK",
+        "sectionName": "M",
+        "sectionIndex": 13,
+        "name": "MAKEDONIA",
+        "callCode": "389",
+        "index": 127
+    },
+    {
+        "code2A": "ML",
+        "sectionName": "M",
+        "sectionIndex": 13,
+        "name": "MALI REPUBLIK",
+        "callCode": "223",
+        "index": 131
+    },
+    {
+        "code2A": "MM",
+        "sectionName": "M",
+        "sectionIndex": 13,
+        "name": "MYANMAR",
+        "callCode": "95",
+        "index": 147
+    },
+    {
+        "code2A": "MN",
+        "sectionName": "M",
+        "sectionIndex": 13,
+        "name": "MONGOLIA",
+        "callCode": "976",
+        "index": 143
+    },
+    {
+        "code2A": "MO",
+        "sectionName": "M",
+        "sectionIndex": 13,
+        "name": "MAKAU",
+        "callCode": "853",
+        "index": 126
+    },
+    {
+        "code2A": "MP",
+        "sectionName": "K",
+        "sectionIndex": 11,
+        "name": "KEPULAUAN MARIANA UTARA",
+        "callCode": "1",
+        "index": 98
+    },
+    {
+        "code2A": "MQ",
+        "sectionName": "M",
+        "sectionIndex": 13,
+        "name": "MARTINIQUE",
+        "callCode": "596",
+        "index": 134
+    },
+    {
+        "code2A": "MR",
+        "sectionName": "M",
+        "sectionIndex": 13,
+        "name": "MAURITANIA",
+        "callCode": "222",
+        "index": 135
+    },
+    {
+        "code2A": "MS",
+        "sectionName": "M",
+        "sectionIndex": 13,
+        "name": "MONTSERRAT",
+        "callCode": "1",
+        "index": 145
+    },
+    {
+        "code2A": "MT",
+        "sectionName": "M",
+        "sectionIndex": 13,
+        "name": "MALTA",
+        "callCode": "356",
+        "index": 132
+    },
+    {
+        "code2A": "MU",
+        "sectionName": "M",
+        "sectionIndex": 13,
+        "name": "MAURITIUS",
+        "callCode": "230",
+        "index": 136
+    },
+    {
+        "code2A": "MV",
+        "sectionName": "M",
+        "sectionIndex": 13,
+        "name": "MALDIVES",
+        "callCode": "960",
+        "index": 130
+    },
+    {
+        "code2A": "MW",
+        "sectionName": "M",
+        "sectionIndex": 13,
+        "name": "MALAWI",
+        "callCode": "265",
+        "index": 128
+    },
+    {
+        "code2A": "MX",
+        "sectionName": "M",
+        "sectionIndex": 13,
+        "name": "MEXICO",
+        "callCode": "52",
+        "index": 139
+    },
+    {
+        "code2A": "MY",
+        "sectionName": "M",
+        "sectionIndex": 13,
+        "name": "MALAYSIA",
+        "callCode": "60",
+        "index": 129
+    },
+    {
+        "code2A": "MZ",
+        "sectionName": "M",
+        "sectionIndex": 13,
+        "name": "MOZAMBIK",
+        "callCode": "258",
+        "index": 146
+    },
+    {
+        "code2A": "NA",
+        "sectionName": "N",
+        "sectionIndex": 14,
+        "name": "NAMIBIA",
+        "callCode": "264",
+        "index": 148
+    },
+    {
+        "code2A": "NC",
+        "sectionName": "K",
+        "sectionIndex": 11,
+        "name": "KALEDONIA BARU",
+        "callCode": "687",
+        "index": 87
+    },
+    {
+        "code2A": "NE",
+        "sectionName": "N",
+        "sectionIndex": 14,
+        "name": "NIGER",
+        "callCode": "227",
+        "index": 151
+    },
+    {
+        "code2A": "NG",
+        "sectionName": "N",
+        "sectionIndex": 14,
+        "name": "NIGERIA",
+        "callCode": "234",
+        "index": 152
+    },
+    {
+        "code2A": "NI",
+        "sectionName": "N",
+        "sectionIndex": 14,
+        "name": "NIKARAGUA",
+        "callCode": "505",
+        "index": 153
+    },
+    {
+        "code2A": "NL",
+        "sectionName": "B",
+        "sectionIndex": 2,
+        "name": "BELANDA",
+        "callCode": "31",
+        "index": 22
+    },
+    {
+        "code2A": "NO",
+        "sectionName": "N",
+        "sectionIndex": 14,
+        "name": "NORWEGIA",
+        "callCode": "47",
+        "index": 154
+    },
+    {
+        "code2A": "NP",
+        "sectionName": "N",
+        "sectionIndex": 14,
+        "name": "NEPAL",
+        "callCode": "977",
+        "index": 150
+    },
+    {
+        "code2A": "NR",
+        "sectionName": "N",
+        "sectionIndex": 14,
+        "name": "NAURU",
+        "callCode": "674",
+        "index": 149
+    },
+    {
+        "code2A": "NZ",
+        "sectionName": "S",
+        "sectionIndex": 19,
+        "name": "SELANDIA BARU",
+        "callCode": "64",
+        "index": 187
+    },
+    {
+        "code2A": "OM",
+        "sectionName": "O",
+        "sectionIndex": 15,
+        "name": "OMAN",
+        "callCode": "968",
+        "index": 155
+    },
+    {
+        "code2A": "PA",
+        "sectionName": "P",
+        "sectionIndex": 16,
+        "name": "PANAMA",
+        "callCode": "507",
+        "index": 159
+    },
+    {
+        "code2A": "PE",
+        "sectionName": "P",
+        "sectionIndex": 16,
+        "name": "PERU",
+        "callCode": "51",
+        "index": 163
+    },
+    {
+        "code2A": "PF",
+        "sectionName": "P",
+        "sectionIndex": 16,
+        "name": "POLINESIA PERANCIS",
+        "callCode": "689",
+        "index": 165
+    },
+    {
+        "code2A": "PG",
+        "sectionName": "P",
+        "sectionIndex": 16,
+        "name": "PAPUA NUGINI",
+        "callCode": "675",
+        "index": 160
+    },
+    {
+        "code2A": "PH",
+        "sectionName": "F",
+        "sectionIndex": 6,
+        "name": "FILIPINA",
+        "callCode": "63",
+        "index": 50
+    },
+    {
+        "code2A": "PK",
+        "sectionName": "P",
+        "sectionIndex": 16,
+        "name": "PAKISTAN",
+        "callCode": "92",
+        "index": 157
+    },
+    {
+        "code2A": "PL",
+        "sectionName": "P",
+        "sectionIndex": 16,
+        "name": "POLANDIA",
+        "callCode": "48",
+        "index": 164
+    },
+    {
+        "code2A": "PM",
+        "sectionName": "S",
+        "sectionIndex": 19,
+        "name": "SAINT PIERRE DAN MIQUELON",
+        "callCode": "508",
+        "index": 182
+    },
+    {
+        "code2A": "PR",
+        "sectionName": "P",
+        "sectionIndex": 16,
+        "name": "PUERTO RIKO",
+        "callCode": "1",
+        "index": 167
+    },
+    {
+        "code2A": "PS",
+        "sectionName": "O",
+        "sectionIndex": 15,
+        "name": "OTORITAS PALESTINA",
+        "callCode": "970",
+        "index": 156
+    },
+    {
+        "code2A": "PT",
+        "sectionName": "P",
+        "sectionIndex": 16,
+        "name": "PORTUGIS",
+        "callCode": "351",
+        "index": 166
+    },
+    {
+        "code2A": "PW",
+        "sectionName": "P",
+        "sectionIndex": 16,
+        "name": "PALAU",
+        "callCode": "680",
+        "index": 158
+    },
+    {
+        "code2A": "PY",
+        "sectionName": "P",
+        "sectionIndex": 16,
+        "name": "PARAGUAY",
+        "callCode": "595",
+        "index": 161
+    },
+    {
+        "code2A": "QA",
+        "sectionName": "Q",
+        "sectionIndex": 17,
+        "name": "QATAR",
+        "callCode": "974",
+        "index": 171
+    },
+    {
+        "code2A": "RE",
+        "sectionName": "R",
+        "sectionIndex": 18,
+        "name": "RÉUNION",
+        "callCode": "262",
+        "index": 175
+    },
+    {
+        "code2A": "RO",
+        "sectionName": "R",
+        "sectionIndex": 18,
+        "name": "ROMANIA",
+        "callCode": "40",
+        "index": 176
+    },
+    {
+        "code2A": "RS",
+        "sectionName": "S",
+        "sectionIndex": 19,
+        "name": "SERBIA",
+        "callCode": "381",
+        "index": 189
+    },
+    {
+        "code2A": "RU",
+        "sectionName": "R",
+        "sectionIndex": 18,
+        "name": "RUSIA",
+        "callCode": "7",
+        "index": 177
+    },
+    {
+        "code2A": "RW",
+        "sectionName": "R",
+        "sectionIndex": 18,
+        "name": "RWANDA",
+        "callCode": "250",
+        "index": 178
+    },
+    {
+        "code2A": "SA",
+        "sectionName": "A",
+        "sectionIndex": 1,
+        "name": "ARAB SAUDI",
+        "callCode": "966",
+        "index": 11
+    },
+    {
+        "code2A": "SB",
+        "sectionName": "K",
+        "sectionIndex": 11,
+        "name": "KEPULAUAN SOLOMON",
+        "callCode": "677",
+        "index": 100
+    },
+    {
+        "code2A": "SC",
+        "sectionName": "S",
+        "sectionIndex": 19,
+        "name": "SEYCHELLES",
+        "callCode": "248",
+        "index": 190
+    },
+    {
+        "code2A": "SD",
+        "sectionName": "S",
+        "sectionIndex": 19,
+        "name": "SUDAN",
+        "callCode": "249",
+        "index": 199
+    },
+    {
+        "code2A": "SE",
+        "sectionName": "S",
+        "sectionIndex": 19,
+        "name": "SWEDIA",
+        "callCode": "46",
+        "index": 203
+    },
+    {
+        "code2A": "SG",
+        "sectionName": "S",
+        "sectionIndex": 19,
+        "name": "SINGAPURA",
+        "callCode": "65",
+        "index": 192
+    },
+    {
+        "code2A": "SI",
+        "sectionName": "S",
+        "sectionIndex": 19,
+        "name": "SLOVENIA",
+        "callCode": "386",
+        "index": 195
+    },
+    {
+        "code2A": "SJ",
+        "sectionName": "S",
+        "sectionIndex": 19,
+        "name": "SVALBARD DAN JAN MAYEN",
+        "callCode": "47",
+        "index": 201
+    },
+    {
+        "code2A": "SK",
+        "sectionName": "S",
+        "sectionIndex": 19,
+        "name": "SLOVAKIA",
+        "callCode": "421",
+        "index": 194
+    },
+    {
+        "code2A": "SL",
+        "sectionName": "S",
+        "sectionIndex": 19,
+        "name": "SIERRA LEONE",
+        "callCode": "232",
+        "index": 191
+    },
+    {
+        "code2A": "SM",
+        "sectionName": "S",
+        "sectionIndex": 19,
+        "name": "SAN MARINO",
+        "callCode": "378",
+        "index": 186
+    },
+    {
+        "code2A": "SN",
+        "sectionName": "S",
+        "sectionIndex": 19,
+        "name": "SENEGAL",
+        "callCode": "221",
+        "index": 188
+    },
+    {
+        "code2A": "SO",
+        "sectionName": "S",
+        "sectionIndex": 19,
+        "name": "SOMALIA",
+        "callCode": "252",
+        "index": 196
+    },
+    {
+        "code2A": "SR",
+        "sectionName": "S",
+        "sectionIndex": 19,
+        "name": "SURINAME",
+        "callCode": "597",
+        "index": 200
+    },
+    {
+        "code2A": "SV",
+        "sectionName": "E",
+        "sectionIndex": 5,
+        "name": "EL SALVADOR",
+        "callCode": "503",
+        "index": 45
+    },
+    {
+        "code2A": "SY",
+        "sectionName": "S",
+        "sectionIndex": 19,
+        "name": "SYRIA",
+        "callCode": "963",
+        "index": 205
+    },
+    {
+        "code2A": "SZ",
+        "sectionName": "S",
+        "sectionIndex": 19,
+        "name": "SWAZILAND",
+        "callCode": "268",
+        "index": 202
+    },
+    {
+        "code2A": "TC",
+        "sectionName": "K",
+        "sectionIndex": 11,
+        "name": "KEPULAUAN TURKS DAN CAICOS",
+        "callCode": "1",
+        "index": 101
+    },
+    {
+        "code2A": "TD",
+        "sectionName": "C",
+        "sectionIndex": 3,
+        "name": "CHAD",
+        "callCode": "235",
+        "index": 37
+    },
+    {
+        "code2A": "TF",
+        "sectionName": "D",
+        "sectionIndex": 4,
+        "name": "DARATAN SELATAN PERANCIS",
+        "callCode": "262",
+        "index": 41
+    },
+    {
+        "code2A": "TG",
+        "sectionName": "T",
+        "sectionIndex": 20,
+        "name": "TOGO",
+        "callCode": "228",
+        "index": 212
+    },
+    {
+        "code2A": "TH",
+        "sectionName": "T",
+        "sectionIndex": 20,
+        "name": "THAILAND",
+        "callCode": "66",
+        "index": 210
+    },
+    {
+        "code2A": "TJ",
+        "sectionName": "T",
+        "sectionIndex": 20,
+        "name": "TAJIKISTAN",
+        "callCode": "992",
+        "index": 207
+    },
+    {
+        "code2A": "TL",
+        "sectionName": "T",
+        "sectionIndex": 20,
+        "name": "TIMOR LESTE",
+        "callCode": "670",
+        "index": 211
+    },
+    {
+        "code2A": "TM",
+        "sectionName": "T",
+        "sectionIndex": 20,
+        "name": "TURKMENISTAN",
+        "callCode": "993",
+        "index": 217
+    },
+    {
+        "code2A": "TN",
+        "sectionName": "T",
+        "sectionIndex": 20,
+        "name": "TUNISIA",
+        "callCode": "216",
+        "index": 215
+    },
+    {
+        "code2A": "TO",
+        "sectionName": "T",
+        "sectionIndex": 20,
+        "name": "TONGA",
+        "callCode": "676",
+        "index": 213
+    },
+    {
+        "code2A": "TR",
+        "sectionName": "T",
+        "sectionIndex": 20,
+        "name": "TURKI",
+        "callCode": "90",
+        "index": 216
+    },
+    {
+        "code2A": "TT",
+        "sectionName": "T",
+        "sectionIndex": 20,
+        "name": "TRINIDAD",
+        "callCode": "1",
+        "index": 214
+    },
+    {
+        "code2A": "TW",
+        "sectionName": "T",
+        "sectionIndex": 20,
+        "name": "TAIWAN",
+        "callCode": "886",
+        "index": 206
+    },
+    {
+        "code2A": "TZ",
+        "sectionName": "T",
+        "sectionIndex": 20,
+        "name": "TANZANIA",
+        "callCode": "255",
+        "index": 209
+    },
+    {
+        "code2A": "UA",
+        "sectionName": "U",
+        "sectionIndex": 21,
+        "name": "UKRAINA",
+        "callCode": "380",
+        "index": 219
+    },
+    {
+        "code2A": "UG",
+        "sectionName": "U",
+        "sectionIndex": 21,
+        "name": "UGANDA",
+        "callCode": "256",
+        "index": 218
+    },
+    {
+        "code2A": "US",
+        "sectionName": "A",
+        "sectionIndex": 1,
+        "name": "AMERIKA SERIKAT",
+        "callCode": "1",
+        "index": 5
+    },
+    {
+        "code2A": "UY",
+        "sectionName": "U",
+        "sectionIndex": 21,
+        "name": "URUGUAY",
+        "callCode": "598",
+        "index": 221
+    },
+    {
+        "code2A": "UZ",
+        "sectionName": "U",
+        "sectionIndex": 21,
+        "name": "UZBEKISTAN",
+        "callCode": "998",
+        "index": 222
+    },
+    {
+        "code2A": "VA",
+        "sectionName": "V",
+        "sectionIndex": 22,
+        "name": "VATIKAN",
+        "callCode": "39",
+        "index": 224
+    },
+    {
+        "code2A": "VC",
+        "sectionName": "S",
+        "sectionIndex": 19,
+        "name": "SAINT VINCENT DAN GRENADINES",
+        "callCode": "1",
+        "index": 183
+    },
+    {
+        "code2A": "VE",
+        "sectionName": "V",
+        "sectionIndex": 22,
+        "name": "VENEZUELA",
+        "callCode": "58",
+        "index": 225
+    },
+    {
+        "code2A": "VG",
+        "sectionName": "K",
+        "sectionIndex": 11,
+        "name": "KEPULAUAN VIRGIN INGGRIS",
+        "callCode": "1",
+        "index": 103
+    },
+    {
+        "code2A": "VI",
+        "sectionName": "K",
+        "sectionIndex": 11,
+        "name": "KEPULAUAN VIRGIN AMERIKA SERIKAT",
+        "callCode": "1",
+        "index": 102
+    },
+    {
+        "code2A": "VN",
+        "sectionName": "V",
+        "sectionIndex": 22,
+        "name": "VIETNAM",
+        "callCode": "84",
+        "index": 226
+    },
+    {
+        "code2A": "VU",
+        "sectionName": "V",
+        "sectionIndex": 22,
+        "name": "VANUATU",
+        "callCode": "678",
+        "index": 223
+    },
+    {
+        "code2A": "WF",
+        "sectionName": "K",
+        "sectionIndex": 11,
+        "name": "KEPULAUAN WALLIS DAN FUTUNA",
+        "callCode": "681",
+        "index": 104
+    },
+    {
+        "code2A": "WS",
+        "sectionName": "S",
+        "sectionIndex": 19,
+        "name": "SAMOA",
+        "callCode": "685",
+        "index": 184
+    },
+    {
+        "code2A": "YE",
+        "sectionName": "Y",
+        "sectionIndex": 23,
+        "name": "YAMAN",
+        "callCode": "967",
+        "index": 227
+    },
+    {
+        "code2A": "YT",
+        "sectionName": "M",
+        "sectionIndex": 13,
+        "name": "MAYOTTE",
+        "callCode": "262",
+        "index": 137
+    },
+    {
+        "code2A": "ZA",
+        "sectionName": "A",
+        "sectionIndex": 1,
+        "name": "AFRIKA SELATAN",
+        "callCode": "27",
+        "index": 2
+    },
+    {
+        "code2A": "ZM",
+        "sectionName": "Z",
+        "sectionIndex": 24,
+        "name": "ZAMBIA",
+        "callCode": "260",
+        "index": 230
+    },
+    {
+        "code2A": "ZW",
+        "sectionName": "Z",
+        "sectionIndex": 24,
+        "name": "ZIMBABWE",
+        "callCode": "263",
+        "index": 231
+    }
+]

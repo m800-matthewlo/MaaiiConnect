@@ -1,0 +1,1850 @@
+[
+    {
+        "code2A": "AD",
+        "sectionName": "아",
+        "sectionIndex": 8,
+        "name": "안도라",
+        "callCode": "376",
+        "index": 133
+    },
+    {
+        "code2A": "AE",
+        "sectionName": "아",
+        "sectionIndex": 8,
+        "name": "아랍에미리트공화국",
+        "callCode": "971",
+        "index": 123
+    },
+    {
+        "code2A": "AF",
+        "sectionName": "아",
+        "sectionIndex": 8,
+        "name": "아프가니스탄",
+        "callCode": "93",
+        "index": 132
+    },
+    {
+        "code2A": "AG",
+        "sectionName": "아",
+        "sectionIndex": 8,
+        "name": "앤티가바부다",
+        "callCode": "1",
+        "index": 137
+    },
+    {
+        "code2A": "AI",
+        "sectionName": "아",
+        "sectionIndex": 8,
+        "name": "앵귈라",
+        "callCode": "1",
+        "index": 138
+    },
+    {
+        "code2A": "AL",
+        "sectionName": "아",
+        "sectionIndex": 8,
+        "name": "알바니아",
+        "callCode": "355",
+        "index": 134
+    },
+    {
+        "code2A": "AM",
+        "sectionName": "아",
+        "sectionIndex": 8,
+        "name": "아르메니아",
+        "callCode": "374",
+        "index": 125
+    },
+    {
+        "code2A": "AN",
+        "sectionName": "나",
+        "sectionIndex": 2,
+        "name": "네덜란드령안틸레스",
+        "callCode": "599",
+        "index": 18
+    },
+    {
+        "code2A": "AO",
+        "sectionName": "아",
+        "sectionIndex": 8,
+        "name": "앙골라",
+        "callCode": "244",
+        "index": 136
+    },
+    {
+        "code2A": "AR",
+        "sectionName": "아",
+        "sectionIndex": 8,
+        "name": "아르헨티나",
+        "callCode": "54",
+        "index": 126
+    },
+    {
+        "code2A": "AS",
+        "sectionName": "마",
+        "sectionIndex": 5,
+        "name": "미국령 사모아",
+        "callCode": "1",
+        "index": 70
+    },
+    {
+        "code2A": "AT",
+        "sectionName": "아",
+        "sectionIndex": 8,
+        "name": "오스트리아",
+        "callCode": "43",
+        "index": 148
+    },
+    {
+        "code2A": "AU",
+        "sectionName": "하",
+        "sectionIndex": 14,
+        "name": "호주",
+        "callCode": "61",
+        "index": 230
+    },
+    {
+        "code2A": "AW",
+        "sectionName": "아",
+        "sectionIndex": 8,
+        "name": "아루바",
+        "callCode": "297",
+        "index": 124
+    },
+    {
+        "code2A": "AZ",
+        "sectionName": "아",
+        "sectionIndex": 8,
+        "name": "아제르바이잔",
+        "callCode": "994",
+        "index": 131
+    },
+    {
+        "code2A": "BA",
+        "sectionName": "바",
+        "sectionIndex": 6,
+        "name": "보스니아",
+        "callCode": "387",
+        "index": 85
+    },
+    {
+        "code2A": "BB",
+        "sectionName": "바",
+        "sectionIndex": 6,
+        "name": "바바도스",
+        "callCode": "1",
+        "index": 74
+    },
+    {
+        "code2A": "BD",
+        "sectionName": "바",
+        "sectionIndex": 6,
+        "name": "방글라데시",
+        "callCode": "880",
+        "index": 77
+    },
+    {
+        "code2A": "BE",
+        "sectionName": "바",
+        "sectionIndex": 6,
+        "name": "벨기에",
+        "callCode": "32",
+        "index": 82
+    },
+    {
+        "code2A": "BF",
+        "sectionName": "바",
+        "sectionIndex": 6,
+        "name": "부르키나파소",
+        "callCode": "226",
+        "index": 89
+    },
+    {
+        "code2A": "BG",
+        "sectionName": "바",
+        "sectionIndex": 6,
+        "name": "불가리아",
+        "callCode": "359",
+        "index": 93
+    },
+    {
+        "code2A": "BH",
+        "sectionName": "바",
+        "sectionIndex": 6,
+        "name": "바레인",
+        "callCode": "973",
+        "index": 73
+    },
+    {
+        "code2A": "BI",
+        "sectionName": "바",
+        "sectionIndex": 6,
+        "name": "부룬디",
+        "callCode": "257",
+        "index": 88
+    },
+    {
+        "code2A": "BJ",
+        "sectionName": "바",
+        "sectionIndex": 6,
+        "name": "베닌",
+        "callCode": "229",
+        "index": 80
+    },
+    {
+        "code2A": "BM",
+        "sectionName": "바",
+        "sectionIndex": 6,
+        "name": "버뮤다",
+        "callCode": "1",
+        "index": 78
+    },
+    {
+        "code2A": "BN",
+        "sectionName": "바",
+        "sectionIndex": 6,
+        "name": "브루나이 다루살람",
+        "callCode": "673",
+        "index": 95
+    },
+    {
+        "code2A": "BO",
+        "sectionName": "바",
+        "sectionIndex": 6,
+        "name": "볼리비아",
+        "callCode": "591",
+        "index": 87
+    },
+    {
+        "code2A": "BR",
+        "sectionName": "바",
+        "sectionIndex": 6,
+        "name": "브라질",
+        "callCode": "55",
+        "index": 94
+    },
+    {
+        "code2A": "BS",
+        "sectionName": "바",
+        "sectionIndex": 6,
+        "name": "바하마",
+        "callCode": "1",
+        "index": 76
+    },
+    {
+        "code2A": "BT",
+        "sectionName": "바",
+        "sectionIndex": 6,
+        "name": "부탄",
+        "callCode": "975",
+        "index": 91
+    },
+    {
+        "code2A": "BV",
+        "sectionName": "바",
+        "sectionIndex": 6,
+        "name": "부베섬",
+        "callCode": "226",
+        "index": 90
+    },
+    {
+        "code2A": "BW",
+        "sectionName": "바",
+        "sectionIndex": 6,
+        "name": "보츠와나",
+        "callCode": "267",
+        "index": 86
+    },
+    {
+        "code2A": "BY",
+        "sectionName": "바",
+        "sectionIndex": 6,
+        "name": "벨라루스",
+        "callCode": "375",
+        "index": 83
+    },
+    {
+        "code2A": "BZ",
+        "sectionName": "바",
+        "sectionIndex": 6,
+        "name": "벨리즈",
+        "callCode": "501",
+        "index": 84
+    },
+    {
+        "code2A": "CA",
+        "sectionName": "카",
+        "sectionIndex": 11,
+        "name": "캐나다",
+        "callCode": "1",
+        "index": 182
+    },
+    {
+        "code2A": "CC",
+        "sectionName": "카",
+        "sectionIndex": 11,
+        "name": "코코스제도",
+        "callCode": "61",
+        "index": 187
+    },
+    {
+        "code2A": "CD",
+        "sectionName": "카",
+        "sectionIndex": 11,
+        "name": "콩고 - 킨샤사",
+        "callCode": "243",
+        "index": 190
+    },
+    {
+        "code2A": "CF",
+        "sectionName": "자",
+        "sectionIndex": 9,
+        "name": "중앙아프리카공화국",
+        "callCode": "236",
+        "index": 170
+    },
+    {
+        "code2A": "CG",
+        "sectionName": "카",
+        "sectionIndex": 11,
+        "name": "콩고 - 브라자빌",
+        "callCode": "242",
+        "index": 189
+    },
+    {
+        "code2A": "CH",
+        "sectionName": "사",
+        "sectionIndex": 7,
+        "name": "스위스",
+        "callCode": "41",
+        "index": 116
+    },
+    {
+        "code2A": "CI",
+        "sectionName": "아",
+        "sectionIndex": 8,
+        "name": "아이보리코스트",
+        "callCode": "225",
+        "index": 127
+    },
+    {
+        "code2A": "CK",
+        "sectionName": "카",
+        "sectionIndex": 11,
+        "name": "쿡제도",
+        "callCode": "682",
+        "index": 193
+    },
+    {
+        "code2A": "CL",
+        "sectionName": "차",
+        "sectionIndex": 10,
+        "name": "칠레",
+        "callCode": "56",
+        "index": 176
+    },
+    {
+        "code2A": "CM",
+        "sectionName": "카",
+        "sectionIndex": 11,
+        "name": "카메룬",
+        "callCode": "237",
+        "index": 177
+    },
+    {
+        "code2A": "CN",
+        "sectionName": "자",
+        "sectionIndex": 9,
+        "name": "중국",
+        "callCode": "86",
+        "index": 169
+    },
+    {
+        "code2A": "CO",
+        "sectionName": "카",
+        "sectionIndex": 11,
+        "name": "콜롬비아",
+        "callCode": "57",
+        "index": 188
+    },
+    {
+        "code2A": "CR",
+        "sectionName": "카",
+        "sectionIndex": 11,
+        "name": "코스타리카",
+        "callCode": "506",
+        "index": 186
+    },
+    {
+        "code2A": "CU",
+        "sectionName": "카",
+        "sectionIndex": 11,
+        "name": "쿠바",
+        "callCode": "53",
+        "index": 191
+    },
+    {
+        "code2A": "CV",
+        "sectionName": "카",
+        "sectionIndex": 11,
+        "name": "카보베르데",
+        "callCode": "238",
+        "index": 178
+    },
+    {
+        "code2A": "CX",
+        "sectionName": "카",
+        "sectionIndex": 11,
+        "name": "크리스마스섬",
+        "callCode": "61",
+        "index": 195
+    },
+    {
+        "code2A": "CY",
+        "sectionName": "카",
+        "sectionIndex": 11,
+        "name": "키프로스",
+        "callCode": "357",
+        "index": 198
+    },
+    {
+        "code2A": "CZ",
+        "sectionName": "차",
+        "sectionIndex": 10,
+        "name": "체코공화국",
+        "callCode": "420",
+        "index": 175
+    },
+    {
+        "code2A": "DE",
+        "sectionName": "다",
+        "sectionIndex": 3,
+        "name": "독일",
+        "callCode": "49",
+        "index": 30
+    },
+    {
+        "code2A": "DJ",
+        "sectionName": "자",
+        "sectionIndex": 9,
+        "name": "지부티",
+        "callCode": "253",
+        "index": 171
+    },
+    {
+        "code2A": "DK",
+        "sectionName": "다",
+        "sectionIndex": 3,
+        "name": "덴마크",
+        "callCode": "45",
+        "index": 27
+    },
+    {
+        "code2A": "DM",
+        "sectionName": "다",
+        "sectionIndex": 3,
+        "name": "도미니카",
+        "callCode": "1",
+        "index": 28
+    },
+    {
+        "code2A": "DO",
+        "sectionName": "다",
+        "sectionIndex": 3,
+        "name": "도미니카공화국",
+        "callCode": "1",
+        "index": 29
+    },
+    {
+        "code2A": "DZ",
+        "sectionName": "아",
+        "sectionIndex": 8,
+        "name": "알제리아",
+        "callCode": "213",
+        "index": 135
+    },
+    {
+        "code2A": "EC",
+        "sectionName": "아",
+        "sectionIndex": 8,
+        "name": "에콰도르",
+        "callCode": "593",
+        "index": 141
+    },
+    {
+        "code2A": "EE",
+        "sectionName": "아",
+        "sectionIndex": 8,
+        "name": "에스토니아",
+        "callCode": "372",
+        "index": 140
+    },
+    {
+        "code2A": "EG",
+        "sectionName": "아",
+        "sectionIndex": 8,
+        "name": "이집트",
+        "callCode": "20",
+        "index": 159
+    },
+    {
+        "code2A": "EH",
+        "sectionName": "사",
+        "sectionIndex": 7,
+        "name": "서 사하라",
+        "callCode": "212",
+        "index": 100
+    },
+    {
+        "code2A": "ER",
+        "sectionName": "아",
+        "sectionIndex": 8,
+        "name": "에리트레아",
+        "callCode": "291",
+        "index": 139
+    },
+    {
+        "code2A": "ES",
+        "sectionName": "사",
+        "sectionIndex": 7,
+        "name": "스페인",
+        "callCode": "34",
+        "index": 117
+    },
+    {
+        "code2A": "ET",
+        "sectionName": "아",
+        "sectionIndex": 8,
+        "name": "에티오피아",
+        "callCode": "251",
+        "index": 142
+    },
+    {
+        "code2A": "FI",
+        "sectionName": "파",
+        "sectionIndex": 13,
+        "name": "핀란드",
+        "callCode": "358",
+        "index": 226
+    },
+    {
+        "code2A": "FJ",
+        "sectionName": "파",
+        "sectionIndex": 13,
+        "name": "피지제도",
+        "callCode": "679",
+        "index": 225
+    },
+    {
+        "code2A": "FK",
+        "sectionName": "파",
+        "sectionIndex": 13,
+        "name": "포클랜드제도",
+        "callCode": "500",
+        "index": 218
+    },
+    {
+        "code2A": "FM",
+        "sectionName": "마",
+        "sectionIndex": 5,
+        "name": "마이크로네시아",
+        "callCode": "691",
+        "index": 49
+    },
+    {
+        "code2A": "FO",
+        "sectionName": "파",
+        "sectionIndex": 13,
+        "name": "페로제도",
+        "callCode": "298",
+        "index": 215
+    },
+    {
+        "code2A": "FR",
+        "sectionName": "파",
+        "sectionIndex": 13,
+        "name": "프랑스",
+        "callCode": "33",
+        "index": 221
+    },
+    {
+        "code2A": "GB",
+        "sectionName": "아",
+        "sectionIndex": 8,
+        "name": "영국",
+        "callCode": "44",
+        "index": 144
+    },
+    {
+        "code2A": "GD",
+        "sectionName": "가",
+        "sectionIndex": 1,
+        "name": "그레나다",
+        "callCode": "1",
+        "index": 8
+    },
+    {
+        "code2A": "GE",
+        "sectionName": "자",
+        "sectionIndex": 9,
+        "name": "조지아",
+        "callCode": "995",
+        "index": 168
+    },
+    {
+        "code2A": "GF",
+        "sectionName": "파",
+        "sectionIndex": 13,
+        "name": "프랑스령기아나",
+        "callCode": "594",
+        "index": 222
+    },
+    {
+        "code2A": "GG",
+        "sectionName": "가",
+        "sectionIndex": 1,
+        "name": "건지",
+        "callCode": "44",
+        "index": 4
+    },
+    {
+        "code2A": "GH",
+        "sectionName": "가",
+        "sectionIndex": 1,
+        "name": "가나",
+        "callCode": "233",
+        "index": 1
+    },
+    {
+        "code2A": "GI",
+        "sectionName": "자",
+        "sectionIndex": 9,
+        "name": "지브롤터",
+        "callCode": "350",
+        "index": 172
+    },
+    {
+        "code2A": "GL",
+        "sectionName": "가",
+        "sectionIndex": 1,
+        "name": "그린란드",
+        "callCode": "299",
+        "index": 10
+    },
+    {
+        "code2A": "GM",
+        "sectionName": "가",
+        "sectionIndex": 1,
+        "name": "감비아",
+        "callCode": "220",
+        "index": 3
+    },
+    {
+        "code2A": "GN",
+        "sectionName": "가",
+        "sectionIndex": 1,
+        "name": "기니",
+        "callCode": "224",
+        "index": 11
+    },
+    {
+        "code2A": "GP",
+        "sectionName": "가",
+        "sectionIndex": 1,
+        "name": "과달루프",
+        "callCode": "590",
+        "index": 5
+    },
+    {
+        "code2A": "GQ",
+        "sectionName": "자",
+        "sectionIndex": 9,
+        "name": "적도기니",
+        "callCode": "240",
+        "index": 167
+    },
+    {
+        "code2A": "GR",
+        "sectionName": "가",
+        "sectionIndex": 1,
+        "name": "그리스",
+        "callCode": "30",
+        "index": 9
+    },
+    {
+        "code2A": "GS",
+        "sectionName": "사",
+        "sectionIndex": 7,
+        "name": "사우스조지아 사우스샌드위치 제도",
+        "callCode": "500",
+        "index": 98
+    },
+    {
+        "code2A": "GT",
+        "sectionName": "가",
+        "sectionIndex": 1,
+        "name": "과테말라",
+        "callCode": "502",
+        "index": 6
+    },
+    {
+        "code2A": "GU",
+        "sectionName": "가",
+        "sectionIndex": 1,
+        "name": "괌",
+        "callCode": "1",
+        "index": 7
+    },
+    {
+        "code2A": "GW",
+        "sectionName": "가",
+        "sectionIndex": 1,
+        "name": "기니비사우",
+        "callCode": "245",
+        "index": 12
+    },
+    {
+        "code2A": "GY",
+        "sectionName": "가",
+        "sectionIndex": 1,
+        "name": "가이아나",
+        "callCode": "592",
+        "index": 2
+    },
+    {
+        "code2A": "HK",
+        "sectionName": "하",
+        "sectionIndex": 14,
+        "name": "홍콩",
+        "callCode": "852",
+        "index": 231
+    },
+    {
+        "code2A": "HM",
+        "sectionName": "하",
+        "sectionIndex": 14,
+        "name": "허드와맥도널드제도",
+        "callCode": "61",
+        "index": 228
+    },
+    {
+        "code2A": "HN",
+        "sectionName": "아",
+        "sectionIndex": 8,
+        "name": "온두라스",
+        "callCode": "504",
+        "index": 149
+    },
+    {
+        "code2A": "HR",
+        "sectionName": "카",
+        "sectionIndex": 11,
+        "name": "크로아티아",
+        "callCode": "385",
+        "index": 194
+    },
+    {
+        "code2A": "HT",
+        "sectionName": "아",
+        "sectionIndex": 8,
+        "name": "아이티",
+        "callCode": "509",
+        "index": 129
+    },
+    {
+        "code2A": "HU",
+        "sectionName": "하",
+        "sectionIndex": 14,
+        "name": "헝가리",
+        "callCode": "36",
+        "index": 229
+    },
+    {
+        "code2A": "ID",
+        "sectionName": "아",
+        "sectionIndex": 8,
+        "name": "인도네시아",
+        "callCode": "62",
+        "index": 162
+    },
+    {
+        "code2A": "IE",
+        "sectionName": "아",
+        "sectionIndex": 8,
+        "name": "아일랜드",
+        "callCode": "353",
+        "index": 130
+    },
+    {
+        "code2A": "IL",
+        "sectionName": "아",
+        "sectionIndex": 8,
+        "name": "이스라엘",
+        "callCode": "972",
+        "index": 158
+    },
+    {
+        "code2A": "IM",
+        "sectionName": "마",
+        "sectionIndex": 5,
+        "name": "맨섬",
+        "callCode": "44",
+        "index": 56
+    },
+    {
+        "code2A": "IN",
+        "sectionName": "아",
+        "sectionIndex": 8,
+        "name": "인도",
+        "callCode": "91",
+        "index": 161
+    },
+    {
+        "code2A": "IQ",
+        "sectionName": "아",
+        "sectionIndex": 8,
+        "name": "이라크",
+        "callCode": "964",
+        "index": 156
+    },
+    {
+        "code2A": "IR",
+        "sectionName": "아",
+        "sectionIndex": 8,
+        "name": "이란",
+        "callCode": "98",
+        "index": 157
+    },
+    {
+        "code2A": "IS",
+        "sectionName": "아",
+        "sectionIndex": 8,
+        "name": "아이슬란드",
+        "callCode": "354",
+        "index": 128
+    },
+    {
+        "code2A": "IT",
+        "sectionName": "아",
+        "sectionIndex": 8,
+        "name": "이탈리아",
+        "callCode": "39",
+        "index": 160
+    },
+    {
+        "code2A": "JE",
+        "sectionName": "자",
+        "sectionIndex": 9,
+        "name": "저지",
+        "callCode": "44",
+        "index": 166
+    },
+    {
+        "code2A": "JM",
+        "sectionName": "자",
+        "sectionIndex": 9,
+        "name": "자메이카",
+        "callCode": "1",
+        "index": 164
+    },
+    {
+        "code2A": "JO",
+        "sectionName": "아",
+        "sectionIndex": 8,
+        "name": "요르단",
+        "callCode": "962",
+        "index": 150
+    },
+    {
+        "code2A": "JP",
+        "sectionName": "아",
+        "sectionIndex": 8,
+        "name": "일본",
+        "callCode": "81",
+        "index": 163
+    },
+    {
+        "code2A": "KE",
+        "sectionName": "카",
+        "sectionIndex": 11,
+        "name": "케냐",
+        "callCode": "254",
+        "index": 183
+    },
+    {
+        "code2A": "KG",
+        "sectionName": "카",
+        "sectionIndex": 11,
+        "name": "키르기스스탄",
+        "callCode": "996",
+        "index": 196
+    },
+    {
+        "code2A": "KH",
+        "sectionName": "카",
+        "sectionIndex": 11,
+        "name": "캄보디아",
+        "callCode": "855",
+        "index": 181
+    },
+    {
+        "code2A": "KI",
+        "sectionName": "카",
+        "sectionIndex": 11,
+        "name": "키리바티",
+        "callCode": "686",
+        "index": 197
+    },
+    {
+        "code2A": "KM",
+        "sectionName": "카",
+        "sectionIndex": 11,
+        "name": "코모로스",
+        "callCode": "269",
+        "index": 185
+    },
+    {
+        "code2A": "KN",
+        "sectionName": "사",
+        "sectionIndex": 7,
+        "name": "세인트키츠네비스",
+        "callCode": "1",
+        "index": 107
+    },
+    {
+        "code2A": "KR",
+        "sectionName": "다",
+        "sectionIndex": 3,
+        "name": "대한민국",
+        "callCode": "82",
+        "index": 26
+    },
+    {
+        "code2A": "KW",
+        "sectionName": "카",
+        "sectionIndex": 11,
+        "name": "쿠웨이트",
+        "callCode": "965",
+        "index": 192
+    },
+    {
+        "code2A": "KY",
+        "sectionName": "카",
+        "sectionIndex": 11,
+        "name": "케이먼제도",
+        "callCode": "1",
+        "index": 184
+    },
+    {
+        "code2A": "KZ",
+        "sectionName": "카",
+        "sectionIndex": 11,
+        "name": "카자흐스탄",
+        "callCode": "7",
+        "index": 179
+    },
+    {
+        "code2A": "LA",
+        "sectionName": "라",
+        "sectionIndex": 4,
+        "name": "라오스",
+        "callCode": "856",
+        "index": 32
+    },
+    {
+        "code2A": "LB",
+        "sectionName": "라",
+        "sectionIndex": 4,
+        "name": "레바논",
+        "callCode": "961",
+        "index": 36
+    },
+    {
+        "code2A": "LC",
+        "sectionName": "사",
+        "sectionIndex": 7,
+        "name": "세인트루시아",
+        "callCode": "1",
+        "index": 105
+    },
+    {
+        "code2A": "LI",
+        "sectionName": "라",
+        "sectionIndex": 4,
+        "name": "리히텐슈타인",
+        "callCode": "423",
+        "index": 44
+    },
+    {
+        "code2A": "LK",
+        "sectionName": "사",
+        "sectionIndex": 7,
+        "name": "스리랑카",
+        "callCode": "94",
+        "index": 112
+    },
+    {
+        "code2A": "LR",
+        "sectionName": "라",
+        "sectionIndex": 4,
+        "name": "라이베리아",
+        "callCode": "231",
+        "index": 33
+    },
+    {
+        "code2A": "LS",
+        "sectionName": "라",
+        "sectionIndex": 4,
+        "name": "레소토",
+        "callCode": "266",
+        "index": 37
+    },
+    {
+        "code2A": "LT",
+        "sectionName": "라",
+        "sectionIndex": 4,
+        "name": "리투아니아",
+        "callCode": "370",
+        "index": 43
+    },
+    {
+        "code2A": "LU",
+        "sectionName": "라",
+        "sectionIndex": 4,
+        "name": "룩셈부르크",
+        "callCode": "352",
+        "index": 39
+    },
+    {
+        "code2A": "LV",
+        "sectionName": "라",
+        "sectionIndex": 4,
+        "name": "라트비아",
+        "callCode": "371",
+        "index": 34
+    },
+    {
+        "code2A": "LY",
+        "sectionName": "라",
+        "sectionIndex": 4,
+        "name": "리비아",
+        "callCode": "218",
+        "index": 41
+    },
+    {
+        "code2A": "MA",
+        "sectionName": "마",
+        "sectionIndex": 5,
+        "name": "모로코",
+        "callCode": "212",
+        "index": 59
+    },
+    {
+        "code2A": "MC",
+        "sectionName": "마",
+        "sectionIndex": 5,
+        "name": "모나코",
+        "callCode": "377",
+        "index": 58
+    },
+    {
+        "code2A": "MD",
+        "sectionName": "마",
+        "sectionIndex": 5,
+        "name": "몰도바",
+        "callCode": "373",
+        "index": 65
+    },
+    {
+        "code2A": "ME",
+        "sectionName": "마",
+        "sectionIndex": 5,
+        "name": "몬테네그로",
+        "callCode": "382",
+        "index": 64
+    },
+    {
+        "code2A": "MG",
+        "sectionName": "마",
+        "sectionIndex": 5,
+        "name": "마다가스카르",
+        "callCode": "261",
+        "index": 45
+    },
+    {
+        "code2A": "MH",
+        "sectionName": "마",
+        "sectionIndex": 5,
+        "name": "마셜제도",
+        "callCode": "692",
+        "index": 47
+    },
+    {
+        "code2A": "MK",
+        "sectionName": "마",
+        "sectionIndex": 5,
+        "name": "마케도니아",
+        "callCode": "389",
+        "index": 51
+    },
+    {
+        "code2A": "ML",
+        "sectionName": "마",
+        "sectionIndex": 5,
+        "name": "말리공화국",
+        "callCode": "223",
+        "index": 54
+    },
+    {
+        "code2A": "MM",
+        "sectionName": "마",
+        "sectionIndex": 5,
+        "name": "미얀마",
+        "callCode": "95",
+        "index": 71
+    },
+    {
+        "code2A": "MN",
+        "sectionName": "마",
+        "sectionIndex": 5,
+        "name": "몽고",
+        "callCode": "976",
+        "index": 67
+    },
+    {
+        "code2A": "MO",
+        "sectionName": "마",
+        "sectionIndex": 5,
+        "name": "마카오",
+        "callCode": "853",
+        "index": 50
+    },
+    {
+        "code2A": "MP",
+        "sectionName": "바",
+        "sectionIndex": 6,
+        "name": "북마리아나제도",
+        "callCode": "1",
+        "index": 92
+    },
+    {
+        "code2A": "MQ",
+        "sectionName": "마",
+        "sectionIndex": 5,
+        "name": "마르티니크",
+        "callCode": "596",
+        "index": 46
+    },
+    {
+        "code2A": "MR",
+        "sectionName": "마",
+        "sectionIndex": 5,
+        "name": "모리타니아",
+        "callCode": "222",
+        "index": 61
+    },
+    {
+        "code2A": "MS",
+        "sectionName": "마",
+        "sectionIndex": 5,
+        "name": "몬세라트",
+        "callCode": "1",
+        "index": 63
+    },
+    {
+        "code2A": "MT",
+        "sectionName": "마",
+        "sectionIndex": 5,
+        "name": "말타",
+        "callCode": "356",
+        "index": 55
+    },
+    {
+        "code2A": "MU",
+        "sectionName": "마",
+        "sectionIndex": 5,
+        "name": "모리셔스",
+        "callCode": "230",
+        "index": 60
+    },
+    {
+        "code2A": "MV",
+        "sectionName": "마",
+        "sectionIndex": 5,
+        "name": "몰디브",
+        "callCode": "960",
+        "index": 66
+    },
+    {
+        "code2A": "MW",
+        "sectionName": "마",
+        "sectionIndex": 5,
+        "name": "말라위",
+        "callCode": "265",
+        "index": 52
+    },
+    {
+        "code2A": "MX",
+        "sectionName": "마",
+        "sectionIndex": 5,
+        "name": "멕시코",
+        "callCode": "52",
+        "index": 57
+    },
+    {
+        "code2A": "MY",
+        "sectionName": "마",
+        "sectionIndex": 5,
+        "name": "말레이시아",
+        "callCode": "60",
+        "index": 53
+    },
+    {
+        "code2A": "MZ",
+        "sectionName": "마",
+        "sectionIndex": 5,
+        "name": "모잠비크",
+        "callCode": "258",
+        "index": 62
+    },
+    {
+        "code2A": "NA",
+        "sectionName": "나",
+        "sectionIndex": 2,
+        "name": "나미비아",
+        "callCode": "264",
+        "index": 13
+    },
+    {
+        "code2A": "NC",
+        "sectionName": "나",
+        "sectionIndex": 2,
+        "name": "뉴칼레도니아",
+        "callCode": "687",
+        "index": 22
+    },
+    {
+        "code2A": "NE",
+        "sectionName": "나",
+        "sectionIndex": 2,
+        "name": "니제르",
+        "callCode": "227",
+        "index": 23
+    },
+    {
+        "code2A": "NG",
+        "sectionName": "나",
+        "sectionIndex": 2,
+        "name": "나이제리아",
+        "callCode": "234",
+        "index": 15
+    },
+    {
+        "code2A": "NI",
+        "sectionName": "나",
+        "sectionIndex": 2,
+        "name": "니카라과",
+        "callCode": "505",
+        "index": 24
+    },
+    {
+        "code2A": "NL",
+        "sectionName": "나",
+        "sectionIndex": 2,
+        "name": "네덜란드",
+        "callCode": "31",
+        "index": 17
+    },
+    {
+        "code2A": "NO",
+        "sectionName": "나",
+        "sectionIndex": 2,
+        "name": "노르웨이",
+        "callCode": "47",
+        "index": 20
+    },
+    {
+        "code2A": "NP",
+        "sectionName": "나",
+        "sectionIndex": 2,
+        "name": "네파",
+        "callCode": "977",
+        "index": 19
+    },
+    {
+        "code2A": "NR",
+        "sectionName": "나",
+        "sectionIndex": 2,
+        "name": "나우루",
+        "callCode": "674",
+        "index": 14
+    },
+    {
+        "code2A": "NZ",
+        "sectionName": "나",
+        "sectionIndex": 2,
+        "name": "뉴질랜드",
+        "callCode": "64",
+        "index": 21
+    },
+    {
+        "code2A": "OM",
+        "sectionName": "아",
+        "sectionIndex": 8,
+        "name": "오만",
+        "callCode": "968",
+        "index": 147
+    },
+    {
+        "code2A": "PA",
+        "sectionName": "파",
+        "sectionIndex": 13,
+        "name": "파나마",
+        "callCode": "507",
+        "index": 209
+    },
+    {
+        "code2A": "PE",
+        "sectionName": "파",
+        "sectionIndex": 13,
+        "name": "페루",
+        "callCode": "51",
+        "index": 216
+    },
+    {
+        "code2A": "PF",
+        "sectionName": "파",
+        "sectionIndex": 13,
+        "name": "프랑스령 폴리네시아",
+        "callCode": "689",
+        "index": 224
+    },
+    {
+        "code2A": "PG",
+        "sectionName": "파",
+        "sectionIndex": 13,
+        "name": "파푸아뉴기니아",
+        "callCode": "675",
+        "index": 212
+    },
+    {
+        "code2A": "PH",
+        "sectionName": "파",
+        "sectionIndex": 13,
+        "name": "필리핀",
+        "callCode": "63",
+        "index": 227
+    },
+    {
+        "code2A": "PK",
+        "sectionName": "파",
+        "sectionIndex": 13,
+        "name": "파키스탄",
+        "callCode": "92",
+        "index": 211
+    },
+    {
+        "code2A": "PL",
+        "sectionName": "파",
+        "sectionIndex": 13,
+        "name": "폴란드",
+        "callCode": "48",
+        "index": 219
+    },
+    {
+        "code2A": "PM",
+        "sectionName": "사",
+        "sectionIndex": 7,
+        "name": "세인트피에르미켈론",
+        "callCode": "508",
+        "index": 104
+    },
+    {
+        "code2A": "PR",
+        "sectionName": "파",
+        "sectionIndex": 13,
+        "name": "푸에르토리코",
+        "callCode": "1",
+        "index": 220
+    },
+    {
+        "code2A": "PS",
+        "sectionName": "파",
+        "sectionIndex": 13,
+        "name": "팔레스타인",
+        "callCode": "970",
+        "index": 214
+    },
+    {
+        "code2A": "PT",
+        "sectionName": "파",
+        "sectionIndex": 13,
+        "name": "포르투갈",
+        "callCode": "351",
+        "index": 217
+    },
+    {
+        "code2A": "PW",
+        "sectionName": "파",
+        "sectionIndex": 13,
+        "name": "팔라우",
+        "callCode": "680",
+        "index": 213
+    },
+    {
+        "code2A": "PY",
+        "sectionName": "파",
+        "sectionIndex": 13,
+        "name": "파라과이",
+        "callCode": "595",
+        "index": 210
+    },
+    {
+        "code2A": "QA",
+        "sectionName": "카",
+        "sectionIndex": 11,
+        "name": "카타르",
+        "callCode": "974",
+        "index": 180
+    },
+    {
+        "code2A": "RE",
+        "sectionName": "라",
+        "sectionIndex": 4,
+        "name": "리유니온 아일랜드",
+        "callCode": "262",
+        "index": 42
+    },
+    {
+        "code2A": "RO",
+        "sectionName": "라",
+        "sectionIndex": 4,
+        "name": "루마니아",
+        "callCode": "40",
+        "index": 38
+    },
+    {
+        "code2A": "RS",
+        "sectionName": "사",
+        "sectionIndex": 7,
+        "name": "세르비아",
+        "callCode": "381",
+        "index": 102
+    },
+    {
+        "code2A": "RU",
+        "sectionName": "라",
+        "sectionIndex": 4,
+        "name": "러시아",
+        "callCode": "7",
+        "index": 35
+    },
+    {
+        "code2A": "RW",
+        "sectionName": "라",
+        "sectionIndex": 4,
+        "name": "르완다",
+        "callCode": "250",
+        "index": 40
+    },
+    {
+        "code2A": "SA",
+        "sectionName": "사",
+        "sectionIndex": 7,
+        "name": "사우디아라비아",
+        "callCode": "966",
+        "index": 97
+    },
+    {
+        "code2A": "SB",
+        "sectionName": "사",
+        "sectionIndex": 7,
+        "name": "솔로몬제도",
+        "callCode": "677",
+        "index": 109
+    },
+    {
+        "code2A": "SC",
+        "sectionName": "사",
+        "sectionIndex": 7,
+        "name": "세이셸",
+        "callCode": "248",
+        "index": 103
+    },
+    {
+        "code2A": "SD",
+        "sectionName": "사",
+        "sectionIndex": 7,
+        "name": "수단",
+        "callCode": "249",
+        "index": 110
+    },
+    {
+        "code2A": "SE",
+        "sectionName": "사",
+        "sectionIndex": 7,
+        "name": "스웨덴",
+        "callCode": "46",
+        "index": 115
+    },
+    {
+        "code2A": "SG",
+        "sectionName": "사",
+        "sectionIndex": 7,
+        "name": "싱가포르",
+        "callCode": "65",
+        "index": 122
+    },
+    {
+        "code2A": "SI",
+        "sectionName": "사",
+        "sectionIndex": 7,
+        "name": "슬로베니아",
+        "callCode": "386",
+        "index": 119
+    },
+    {
+        "code2A": "SJ",
+        "sectionName": "사",
+        "sectionIndex": 7,
+        "name": "스발바르드얀마이엔제도",
+        "callCode": "47",
+        "index": 113
+    },
+    {
+        "code2A": "SK",
+        "sectionName": "사",
+        "sectionIndex": 7,
+        "name": "슬로바키아",
+        "callCode": "421",
+        "index": 118
+    },
+    {
+        "code2A": "SL",
+        "sectionName": "사",
+        "sectionIndex": 7,
+        "name": "시에라리온",
+        "callCode": "232",
+        "index": 121
+    },
+    {
+        "code2A": "SM",
+        "sectionName": "사",
+        "sectionIndex": 7,
+        "name": "산마리노",
+        "callCode": "378",
+        "index": 99
+    },
+    {
+        "code2A": "SN",
+        "sectionName": "사",
+        "sectionIndex": 7,
+        "name": "세네갈",
+        "callCode": "221",
+        "index": 101
+    },
+    {
+        "code2A": "SO",
+        "sectionName": "사",
+        "sectionIndex": 7,
+        "name": "소말리아",
+        "callCode": "252",
+        "index": 108
+    },
+    {
+        "code2A": "SR",
+        "sectionName": "사",
+        "sectionIndex": 7,
+        "name": "수리남",
+        "callCode": "597",
+        "index": 111
+    },
+    {
+        "code2A": "SV",
+        "sectionName": "아",
+        "sectionIndex": 8,
+        "name": "엘살바도르",
+        "callCode": "503",
+        "index": 143
+    },
+    {
+        "code2A": "SY",
+        "sectionName": "사",
+        "sectionIndex": 7,
+        "name": "시리아",
+        "callCode": "963",
+        "index": 120
+    },
+    {
+        "code2A": "SZ",
+        "sectionName": "사",
+        "sectionIndex": 7,
+        "name": "스와질랜드",
+        "callCode": "268",
+        "index": 114
+    },
+    {
+        "code2A": "TC",
+        "sectionName": "타",
+        "sectionIndex": 12,
+        "name": "터크스케이코스 제도",
+        "callCode": "1",
+        "index": 202
+    },
+    {
+        "code2A": "TD",
+        "sectionName": "차",
+        "sectionIndex": 10,
+        "name": "차드공화국",
+        "callCode": "235",
+        "index": 174
+    },
+    {
+        "code2A": "TF",
+        "sectionName": "파",
+        "sectionIndex": 13,
+        "name": "프랑스령남부와남극지역",
+        "callCode": "262",
+        "index": 223
+    },
+    {
+        "code2A": "TG",
+        "sectionName": "타",
+        "sectionIndex": 12,
+        "name": "토고",
+        "callCode": "228",
+        "index": 204
+    },
+    {
+        "code2A": "TH",
+        "sectionName": "타",
+        "sectionIndex": 12,
+        "name": "태국",
+        "callCode": "66",
+        "index": 201
+    },
+    {
+        "code2A": "TJ",
+        "sectionName": "타",
+        "sectionIndex": 12,
+        "name": "타지키스탄",
+        "callCode": "992",
+        "index": 199
+    },
+    {
+        "code2A": "TL",
+        "sectionName": "다",
+        "sectionIndex": 3,
+        "name": "동티모르",
+        "callCode": "670",
+        "index": 31
+    },
+    {
+        "code2A": "TM",
+        "sectionName": "타",
+        "sectionIndex": 12,
+        "name": "투르크메니스탄",
+        "callCode": "993",
+        "index": 206
+    },
+    {
+        "code2A": "TN",
+        "sectionName": "타",
+        "sectionIndex": 12,
+        "name": "튀니지",
+        "callCode": "216",
+        "index": 207
+    },
+    {
+        "code2A": "TO",
+        "sectionName": "타",
+        "sectionIndex": 12,
+        "name": "통가",
+        "callCode": "676",
+        "index": 205
+    },
+    {
+        "code2A": "TR",
+        "sectionName": "타",
+        "sectionIndex": 12,
+        "name": "터키",
+        "callCode": "90",
+        "index": 203
+    },
+    {
+        "code2A": "TT",
+        "sectionName": "타",
+        "sectionIndex": 12,
+        "name": "트리니다드",
+        "callCode": "1",
+        "index": 208
+    },
+    {
+        "code2A": "TW",
+        "sectionName": "다",
+        "sectionIndex": 3,
+        "name": "대만",
+        "callCode": "886",
+        "index": 25
+    },
+    {
+        "code2A": "TZ",
+        "sectionName": "타",
+        "sectionIndex": 12,
+        "name": "탄자니아",
+        "callCode": "255",
+        "index": 200
+    },
+    {
+        "code2A": "UA",
+        "sectionName": "아",
+        "sectionIndex": 8,
+        "name": "우크라이나",
+        "callCode": "380",
+        "index": 154
+    },
+    {
+        "code2A": "UG",
+        "sectionName": "아",
+        "sectionIndex": 8,
+        "name": "우간다",
+        "callCode": "256",
+        "index": 151
+    },
+    {
+        "code2A": "US",
+        "sectionName": "마",
+        "sectionIndex": 5,
+        "name": "미국",
+        "callCode": "1",
+        "index": 68
+    },
+    {
+        "code2A": "UY",
+        "sectionName": "아",
+        "sectionIndex": 8,
+        "name": "우루과이",
+        "callCode": "598",
+        "index": 152
+    },
+    {
+        "code2A": "UZ",
+        "sectionName": "아",
+        "sectionIndex": 8,
+        "name": "우즈베키스탄",
+        "callCode": "998",
+        "index": 153
+    },
+    {
+        "code2A": "VA",
+        "sectionName": "바",
+        "sectionIndex": 6,
+        "name": "바티칸시티",
+        "callCode": "39",
+        "index": 75
+    },
+    {
+        "code2A": "VC",
+        "sectionName": "사",
+        "sectionIndex": 7,
+        "name": "세인트빈센트그레나딘",
+        "callCode": "1",
+        "index": 106
+    },
+    {
+        "code2A": "VE",
+        "sectionName": "바",
+        "sectionIndex": 6,
+        "name": "베네수엘라",
+        "callCode": "58",
+        "index": 79
+    },
+    {
+        "code2A": "VG",
+        "sectionName": "아",
+        "sectionIndex": 8,
+        "name": "영국령버진제도",
+        "callCode": "1",
+        "index": 145
+    },
+    {
+        "code2A": "VI",
+        "sectionName": "마",
+        "sectionIndex": 5,
+        "name": "미국령 버진 제도",
+        "callCode": "1",
+        "index": 69
+    },
+    {
+        "code2A": "VN",
+        "sectionName": "바",
+        "sectionIndex": 6,
+        "name": "베트남",
+        "callCode": "84",
+        "index": 81
+    },
+    {
+        "code2A": "VU",
+        "sectionName": "바",
+        "sectionIndex": 6,
+        "name": "바누아투",
+        "callCode": "678",
+        "index": 72
+    },
+    {
+        "code2A": "WF",
+        "sectionName": "아",
+        "sectionIndex": 8,
+        "name": "월리스푸투나제도",
+        "callCode": "681",
+        "index": 155
+    },
+    {
+        "code2A": "WS",
+        "sectionName": "사",
+        "sectionIndex": 7,
+        "name": "사모아",
+        "callCode": "685",
+        "index": 96
+    },
+    {
+        "code2A": "YE",
+        "sectionName": "아",
+        "sectionIndex": 8,
+        "name": "예멘",
+        "callCode": "967",
+        "index": 146
+    },
+    {
+        "code2A": "YT",
+        "sectionName": "마",
+        "sectionIndex": 5,
+        "name": "마요트",
+        "callCode": "262",
+        "index": 48
+    },
+    {
+        "code2A": "ZA",
+        "sectionName": "나",
+        "sectionIndex": 2,
+        "name": "남아프리카공화국",
+        "callCode": "27",
+        "index": 16
+    },
+    {
+        "code2A": "ZM",
+        "sectionName": "자",
+        "sectionIndex": 9,
+        "name": "잠비아",
+        "callCode": "260",
+        "index": 165
+    },
+    {
+        "code2A": "ZW",
+        "sectionName": "자",
+        "sectionIndex": 9,
+        "name": "짐바브웨",
+        "callCode": "263",
+        "index": 173
+    }
+]

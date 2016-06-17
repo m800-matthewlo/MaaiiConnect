@@ -1,0 +1,1388 @@
+[
+  {
+    "callCode" : "376",
+    "code2A" : "AD",
+    "mcc" : "213",
+    "code3A" : "AND"
+  },
+  {
+    "callCode" : "971",
+    "code2A" : "AE",
+    "mcc" : "424",
+    "code3A" : "ARE"
+  },
+  {
+    "callCode" : "93",
+    "code2A" : "AF",
+    "mcc" : "412",
+    "code3A" : "AFG"
+  },
+  {
+    "callCode" : "1",
+    "code2A" : "AG",
+    "mcc" : "344",
+    "code3A" : "ATG"
+  },
+  {
+    "callCode" : "1",
+    "code2A" : "AI",
+    "mcc" : "365",
+    "code3A" : "AIA"
+  },
+  {
+    "callCode" : "355",
+    "code2A" : "AL",
+    "mcc" : "276",
+    "code3A" : "ALB"
+  },
+  {
+    "callCode" : "374",
+    "code2A" : "AM",
+    "mcc" : "283",
+    "code3A" : "ARM"
+  },
+  {
+    "callCode" : "599",
+    "code2A" : "AN",
+    "mcc" : "362",
+    "code3A" : "ANT"
+  },
+  {
+    "callCode" : "244",
+    "code2A" : "AO",
+    "mcc" : "631",
+    "code3A" : "AGO"
+  },
+  {
+    "callCode" : "54",
+    "code2A" : "AR",
+    "mcc" : "722",
+    "code3A" : "ARG"
+  },
+  {
+    "callCode" : "1",
+    "code2A" : "AS",
+    "mcc" : "544",
+    "code3A" : "ASM"
+  },
+  {
+    "callCode" : "43",
+    "code2A" : "AT",
+    "mcc" : "232",
+    "code3A" : "AUT"
+  },
+  {
+    "callCode" : "61",
+    "code2A" : "AU",
+    "mcc" : "505",
+    "code3A" : "AUS"
+  },
+  {
+    "callCode" : "297",
+    "code2A" : "AW",
+    "mcc" : "363",
+    "code3A" : "ABW"
+  },
+  {
+    "callCode" : "994",
+    "code2A" : "AZ",
+    "mcc" : "400",
+    "code3A" : "AZE"
+  },
+  {
+    "callCode" : "387",
+    "code2A" : "BA",
+    "mcc" : "218",
+    "code3A" : "BIH"
+  },
+  {
+    "callCode" : "1",
+    "code2A" : "BB",
+    "mcc" : "342",
+    "code3A" : "BRB"
+  },
+  {
+    "callCode" : "880",
+    "code2A" : "BD",
+    "mcc" : "470",
+    "code3A" : "BGD"
+  },
+  {
+    "callCode" : "32",
+    "code2A" : "BE",
+    "mcc" : "206",
+    "code3A" : "BEL"
+  },
+  {
+    "callCode" : "226",
+    "code2A" : "BF",
+    "mcc" : "613",
+    "code3A" : "BFA"
+  },
+  {
+    "callCode" : "359",
+    "code2A" : "BG",
+    "mcc" : "284",
+    "code3A" : "BGR"
+  },
+  {
+    "callCode" : "973",
+    "code2A" : "BH",
+    "mcc" : "426",
+    "code3A" : "BHR"
+  },
+  {
+    "callCode" : "257",
+    "code2A" : "BI",
+    "mcc" : "642",
+    "code3A" : "BDI"
+  },
+  {
+    "callCode" : "229",
+    "code2A" : "BJ",
+    "mcc" : "616",
+    "code3A" : "BEN"
+  },
+  {
+    "callCode" : "1",
+    "code2A" : "BM",
+    "mcc" : "350",
+    "code3A" : "BMU"
+  },
+  {
+    "callCode" : "673",
+    "code2A" : "BN",
+    "mcc" : "528",
+    "code3A" : "BRN"
+  },
+  {
+    "callCode" : "591",
+    "code2A" : "BO",
+    "mcc" : "736",
+    "code3A" : "BOL"
+  },
+  {
+    "callCode" : "55",
+    "code2A" : "BR",
+    "mcc" : "724",
+    "code3A" : "BRA"
+  },
+  {
+    "callCode" : "1",
+    "code2A" : "BS",
+    "mcc" : "364",
+    "code3A" : "BHS"
+  },
+  {
+    "callCode" : "975",
+    "code2A" : "BT",
+    "mcc" : "402",
+    "code3A" : "BTN"
+  },
+  {
+    "callCode" : "226",
+    "code2A" : "BV",
+    "mcc" : "242",
+    "code3A" : "BVT"
+  },
+  {
+    "callCode" : "267",
+    "code2A" : "BW",
+    "mcc" : "652",
+    "code3A" : "BWA"
+  },
+  {
+    "callCode" : "375",
+    "code2A" : "BY",
+    "mcc" : "257",
+    "code3A" : "BLR"
+  },
+  {
+    "callCode" : "501",
+    "code2A" : "BZ",
+    "mcc" : "702",
+    "code3A" : "BLZ"
+  },
+  {
+    "callCode" : "1",
+    "code2A" : "CA",
+    "mcc" : "302",
+    "code3A" : "CAN"
+  },
+  {
+    "callCode" : "61",
+    "code2A" : "CC",
+    "mcc" : "505",
+    "code3A" : "CCK"
+  },
+  {
+    "callCode" : "243",
+    "code2A" : "CD",
+    "mcc" : "630",
+    "code3A" : "COD"
+  },
+  {
+    "callCode" : "236",
+    "code2A" : "CF",
+    "mcc" : "623",
+    "code3A" : "CAF"
+  },
+  {
+    "callCode" : "242",
+    "code2A" : "CG",
+    "mcc" : "629",
+    "code3A" : "COG"
+  },
+  {
+    "callCode" : "41",
+    "code2A" : "CH",
+    "mcc" : "228",
+    "code3A" : "CHE"
+  },
+  {
+    "callCode" : "225",
+    "code2A" : "CI",
+    "mcc" : "612",
+    "code3A" : "CIV"
+  },
+  {
+    "callCode" : "682",
+    "code2A" : "CK",
+    "mcc" : "548",
+    "code3A" : "COK"
+  },
+  {
+    "callCode" : "56",
+    "code2A" : "CL",
+    "mcc" : "730",
+    "code3A" : "CHL"
+  },
+  {
+    "callCode" : "237",
+    "code2A" : "CM",
+    "mcc" : "624",
+    "code3A" : "CMR"
+  },
+  {
+    "callCode" : "86",
+    "code2A" : "CN",
+    "mcc" : "460",
+    "code3A" : "CHN"
+  },
+  {
+    "callCode" : "57",
+    "code2A" : "CO",
+    "mcc" : "732",
+    "code3A" : "COL"
+  },
+  {
+    "callCode" : "506",
+    "code2A" : "CR",
+    "mcc" : "712",
+    "code3A" : "CRI"
+  },
+  {
+    "callCode" : "53",
+    "code2A" : "CU",
+    "mcc" : "368",
+    "code3A" : "CUB"
+  },
+  {
+    "callCode" : "238",
+    "code2A" : "CV",
+    "mcc" : "625",
+    "code3A" : "CPV"
+  },
+  {
+    "callCode" : "61",
+    "code2A" : "CX",
+    "mcc" : "505",
+    "code3A" : "CXR"
+  },
+  {
+    "callCode" : "357",
+    "code2A" : "CY",
+    "mcc" : "280",
+    "code3A" : "CYP"
+  },
+  {
+    "callCode" : "420",
+    "code2A" : "CZ",
+    "mcc" : "230",
+    "code3A" : "CZE"
+  },
+  {
+    "callCode" : "49",
+    "code2A" : "DE",
+    "mcc" : "262",
+    "code3A" : "DEU"
+  },
+  {
+    "callCode" : "253",
+    "code2A" : "DJ",
+    "mcc" : "638",
+    "code3A" : "DJI"
+  },
+  {
+    "callCode" : "45",
+    "code2A" : "DK",
+    "mcc" : "238",
+    "code3A" : "DNK"
+  },
+  {
+    "callCode" : "1",
+    "code2A" : "DM",
+    "mcc" : "366",
+    "code3A" : "DMA"
+  },
+  {
+    "callCode" : "1",
+    "code2A" : "DO",
+    "mcc" : "370",
+    "code3A" : "DOM"
+  },
+  {
+    "callCode" : "213",
+    "code2A" : "DZ",
+    "mcc" : "603",
+    "code3A" : "DZA"
+  },
+  {
+    "callCode" : "593",
+    "code2A" : "EC",
+    "mcc" : "740",
+    "code3A" : "ECU"
+  },
+  {
+    "callCode" : "372",
+    "code2A" : "EE",
+    "mcc" : "248",
+    "code3A" : "EST"
+  },
+  {
+    "callCode" : "20",
+    "code2A" : "EG",
+    "mcc" : "602",
+    "code3A" : "EGY"
+  },
+  {
+    "callCode" : "212",
+    "code2A" : "EH",
+    "mcc" : "604",
+    "code3A" : "ESH"
+  },
+  {
+    "callCode" : "291",
+    "code2A" : "ER",
+    "mcc" : "657",
+    "code3A" : "ERI"
+  },
+  {
+    "callCode" : "34",
+    "code2A" : "ES",
+    "mcc" : "214",
+    "code3A" : "ESP"
+  },
+  {
+    "callCode" : "251",
+    "code2A" : "ET",
+    "mcc" : "636",
+    "code3A" : "ETH"
+  },
+  {
+    "callCode" : "358",
+    "code2A" : "FI",
+    "mcc" : "244",
+    "code3A" : "FIN"
+  },
+  {
+    "callCode" : "679",
+    "code2A" : "FJ",
+    "mcc" : "542",
+    "code3A" : "FJI"
+  },
+  {
+    "callCode" : "500",
+    "code2A" : "FK",
+    "mcc" : "750",
+    "code3A" : "FLK"
+  },
+  {
+    "callCode" : "691",
+    "code2A" : "FM",
+    "mcc" : "550",
+    "code3A" : "FSM"
+  },
+  {
+    "callCode" : "298",
+    "code2A" : "FO",
+    "mcc" : "288",
+    "code3A" : "FRO"
+  },
+  {
+    "callCode" : "33",
+    "code2A" : "FR",
+    "mcc" : "208",
+    "code3A" : "FRA"
+  },
+  {
+    "callCode" : "44",
+    "code2A" : "GB",
+    "mcc" : "234",
+    "code3A" : "GBR"
+  },
+  {
+    "callCode" : "1",
+    "code2A" : "GD",
+    "mcc" : "352",
+    "code3A" : "GRD"
+  },
+  {
+    "callCode" : "995",
+    "code2A" : "GE",
+    "mcc" : "282",
+    "code3A" : "GEO"
+  },
+  {
+    "callCode" : "594",
+    "code2A" : "GF",
+    "mcc" : "742",
+    "code3A" : "GUF"
+  },
+  {
+    "callCode" : "44",
+    "code2A" : "GG",
+    "mcc" : "234",
+    "code3A" : "GGY"
+  },
+  {
+    "callCode" : "233",
+    "code2A" : "GH",
+    "mcc" : "620",
+    "code3A" : "GHA"
+  },
+  {
+    "callCode" : "350",
+    "code2A" : "GI",
+    "mcc" : "266",
+    "code3A" : "GIB"
+  },
+  {
+    "callCode" : "299",
+    "code2A" : "GL",
+    "mcc" : "290",
+    "code3A" : "GRL"
+  },
+  {
+    "callCode" : "220",
+    "code2A" : "GM",
+    "mcc" : "607",
+    "code3A" : "GMB"
+  },
+  {
+    "callCode" : "224",
+    "code2A" : "GN",
+    "mcc" : "611",
+    "code3A" : "GIN"
+  },
+  {
+    "callCode" : "590",
+    "code2A" : "GP",
+    "mcc" : "340",
+    "code3A" : "GLP"
+  },
+  {
+    "callCode" : "240",
+    "code2A" : "GQ",
+    "mcc" : "627",
+    "code3A" : "GNQ"
+  },
+  {
+    "callCode" : "30",
+    "code2A" : "GR",
+    "mcc" : "202",
+    "code3A" : "GRC"
+  },
+  {
+    "callCode" : "500",
+    "code2A" : "GS",
+    "mcc" : "",
+    "code3A" : "SGS"
+  },
+  {
+    "callCode" : "502",
+    "code2A" : "GT",
+    "mcc" : "704",
+    "code3A" : "GTM"
+  },
+  {
+    "callCode" : "1",
+    "code2A" : "GU",
+    "mcc" : "535",
+    "code3A" : "GUM"
+  },
+  {
+    "callCode" : "245",
+    "code2A" : "GW",
+    "mcc" : "632",
+    "code3A" : "GNB"
+  },
+  {
+    "callCode" : "592",
+    "code2A" : "GY",
+    "mcc" : "738",
+    "code3A" : "GUY"
+  },
+  {
+    "callCode" : "852",
+    "code2A" : "HK",
+    "mcc" : "454",
+    "code3A" : "HKG"
+  },
+  {
+    "callCode" : "61",
+    "code2A" : "HM",
+    "mcc" : "",
+    "code3A" : "HMD"
+  },
+  {
+    "callCode" : "504",
+    "code2A" : "HN",
+    "mcc" : "708",
+    "code3A" : "HND"
+  },
+  {
+    "callCode" : "385",
+    "code2A" : "HR",
+    "mcc" : "219",
+    "code3A" : "HRV"
+  },
+  {
+    "callCode" : "509",
+    "code2A" : "HT",
+    "mcc" : "372",
+    "code3A" : "HTI"
+  },
+  {
+    "callCode" : "36",
+    "code2A" : "HU",
+    "mcc" : "216",
+    "code3A" : "HUN"
+  },
+  {
+    "callCode" : "62",
+    "code2A" : "ID",
+    "mcc" : "510",
+    "code3A" : "IDN"
+  },
+  {
+    "callCode" : "353",
+    "code2A" : "IE",
+    "mcc" : "272",
+    "code3A" : "IRL"
+  },
+  {
+    "callCode" : "972",
+    "code2A" : "IL",
+    "mcc" : "425",
+    "code3A" : "ISR"
+  },
+  {
+    "callCode" : "44",
+    "code2A" : "IM",
+    "mcc" : "234",
+    "code3A" : "IMN"
+  },
+  {
+    "callCode" : "91",
+    "code2A" : "IN",
+    "mcc" : "404",
+    "code3A" : "IND"
+  },
+  {
+    "callCode" : "964",
+    "code2A" : "IQ",
+    "mcc" : "418",
+    "code3A" : "IRQ"
+  },
+  {
+    "callCode" : "98",
+    "code2A" : "IR",
+    "mcc" : "432",
+    "code3A" : "IRN"
+  },
+  {
+    "callCode" : "354",
+    "code2A" : "IS",
+    "mcc" : "274",
+    "code3A" : "ISL"
+  },
+  {
+    "callCode" : "39",
+    "code2A" : "IT",
+    "mcc" : "222",
+    "code3A" : "ITA"
+  },
+  {
+    "callCode" : "44",
+    "code2A" : "JE",
+    "mcc" : "234",
+    "code3A" : "JEY"
+  },
+  {
+    "callCode" : "1",
+    "code2A" : "JM",
+    "mcc" : "338",
+    "code3A" : "JAM"
+  },
+  {
+    "callCode" : "962",
+    "code2A" : "JO",
+    "mcc" : "416",
+    "code3A" : "JOR"
+  },
+  {
+    "callCode" : "81",
+    "code2A" : "JP",
+    "mcc" : "440",
+    "code3A" : "JPN"
+  },
+  {
+    "callCode" : "254",
+    "code2A" : "KE",
+    "mcc" : "639",
+    "code3A" : "KEN"
+  },
+  {
+    "callCode" : "996",
+    "code2A" : "KG",
+    "mcc" : "437",
+    "code3A" : "KGZ"
+  },
+  {
+    "callCode" : "855",
+    "code2A" : "KH",
+    "mcc" : "456",
+    "code3A" : "KHM"
+  },
+  {
+    "callCode" : "686",
+    "code2A" : "KI",
+    "mcc" : "545",
+    "code3A" : "KIR"
+  },
+  {
+    "callCode" : "269",
+    "code2A" : "KM",
+    "mcc" : "654",
+    "code3A" : "COM"
+  },
+  {
+    "callCode" : "1",
+    "code2A" : "KN",
+    "mcc" : "356",
+    "code3A" : "KNA"
+  },
+  {
+    "callCode" : "82",
+    "code2A" : "KR",
+    "mcc" : "450",
+    "code3A" : "KOR"
+  },
+  {
+    "callCode" : "965",
+    "code2A" : "KW",
+    "mcc" : "419",
+    "code3A" : "KWT"
+  },
+  {
+    "callCode" : "1",
+    "code2A" : "KY",
+    "mcc" : "346",
+    "code3A" : "CYM"
+  },
+  {
+    "callCode" : "7",
+    "code2A" : "KZ",
+    "mcc" : "401",
+    "code3A" : "KAZ"
+  },
+  {
+    "callCode" : "856",
+    "code2A" : "LA",
+    "mcc" : "457",
+    "code3A" : "LAO"
+  },
+  {
+    "callCode" : "961",
+    "code2A" : "LB",
+    "mcc" : "415",
+    "code3A" : "LBN"
+  },
+  {
+    "callCode" : "1",
+    "code2A" : "LC",
+    "mcc" : "358",
+    "code3A" : "LCA"
+  },
+  {
+    "callCode" : "423",
+    "code2A" : "LI",
+    "mcc" : "295",
+    "code3A" : "LIE"
+  },
+  {
+    "callCode" : "94",
+    "code2A" : "LK",
+    "mcc" : "413",
+    "code3A" : "LKA"
+  },
+  {
+    "callCode" : "231",
+    "code2A" : "LR",
+    "mcc" : "618",
+    "code3A" : "LBR"
+  },
+  {
+    "callCode" : "266",
+    "code2A" : "LS",
+    "mcc" : "651",
+    "code3A" : "LSO"
+  },
+  {
+    "callCode" : "370",
+    "code2A" : "LT",
+    "mcc" : "246",
+    "code3A" : "LTU"
+  },
+  {
+    "callCode" : "352",
+    "code2A" : "LU",
+    "mcc" : "270",
+    "code3A" : "LUX"
+  },
+  {
+    "callCode" : "371",
+    "code2A" : "LV",
+    "mcc" : "247",
+    "code3A" : "LVA"
+  },
+  {
+    "callCode" : "218",
+    "code2A" : "LY",
+    "mcc" : "606",
+    "code3A" : "LBY"
+  },
+  {
+    "callCode" : "212",
+    "code2A" : "MA",
+    "mcc" : "604",
+    "code3A" : "MAR"
+  },
+  {
+    "callCode" : "377",
+    "code2A" : "MC",
+    "mcc" : "212",
+    "code3A" : "MCO"
+  },
+  {
+    "callCode" : "373",
+    "code2A" : "MD",
+    "mcc" : "259",
+    "code3A" : "MDA"
+  },
+  {
+    "callCode" : "382",
+    "code2A" : "ME",
+    "mcc" : "297",
+    "code3A" : "MNE"
+  },
+  {
+    "callCode" : "261",
+    "code2A" : "MG",
+    "mcc" : "646",
+    "code3A" : "MDG"
+  },
+  {
+    "callCode" : "692",
+    "code2A" : "MH",
+    "mcc" : "551",
+    "code3A" : "MHL"
+  },
+  {
+    "callCode" : "389",
+    "code2A" : "MK",
+    "mcc" : "294",
+    "code3A" : "MKD"
+  },
+  {
+    "callCode" : "223",
+    "code2A" : "ML",
+    "mcc" : "610",
+    "code3A" : "MLI"
+  },
+  {
+    "callCode" : "95",
+    "code2A" : "MM",
+    "mcc" : "414",
+    "code3A" : "MMR"
+  },
+  {
+    "callCode" : "976",
+    "code2A" : "MN",
+    "mcc" : "428",
+    "code3A" : "MNG"
+  },
+  {
+    "callCode" : "853",
+    "code2A" : "MO",
+    "mcc" : "455",
+    "code3A" : "MAC"
+  },
+  {
+    "callCode" : "1",
+    "code2A" : "MP",
+    "mcc" : "534",
+    "code3A" : "MNP"
+  },
+  {
+    "callCode" : "596",
+    "code2A" : "MQ",
+    "mcc" : "340",
+    "code3A" : "MTQ"
+  },
+  {
+    "callCode" : "222",
+    "code2A" : "MR",
+    "mcc" : "609",
+    "code3A" : "MRT"
+  },
+  {
+    "callCode" : "1",
+    "code2A" : "MS",
+    "mcc" : "354",
+    "code3A" : "MSR"
+  },
+  {
+    "callCode" : "356",
+    "code2A" : "MT",
+    "mcc" : "278",
+    "code3A" : "MLT"
+  },
+  {
+    "callCode" : "230",
+    "code2A" : "MU",
+    "mcc" : "617",
+    "code3A" : "MUS"
+  },
+  {
+    "callCode" : "960",
+    "code2A" : "MV",
+    "mcc" : "472",
+    "code3A" : "MDV"
+  },
+  {
+    "callCode" : "265",
+    "code2A" : "MW",
+    "mcc" : "650",
+    "code3A" : "MWI"
+  },
+  {
+    "callCode" : "52",
+    "code2A" : "MX",
+    "mcc" : "334",
+    "code3A" : "MEX"
+  },
+  {
+    "callCode" : "60",
+    "code2A" : "MY",
+    "mcc" : "502",
+    "code3A" : "MYS"
+  },
+  {
+    "callCode" : "258",
+    "code2A" : "MZ",
+    "mcc" : "643",
+    "code3A" : "MOZ"
+  },
+  {
+    "callCode" : "264",
+    "code2A" : "NA",
+    "mcc" : "649",
+    "code3A" : "NAM"
+  },
+  {
+    "callCode" : "687",
+    "code2A" : "NC",
+    "mcc" : "546",
+    "code3A" : "NCL"
+  },
+  {
+    "callCode" : "227",
+    "code2A" : "NE",
+    "mcc" : "614",
+    "code3A" : "NER"
+  },
+  {
+    "callCode" : "234",
+    "code2A" : "NG",
+    "mcc" : "621",
+    "code3A" : "NGA"
+  },
+  {
+    "callCode" : "505",
+    "code2A" : "NI",
+    "mcc" : "710",
+    "code3A" : "NIC"
+  },
+  {
+    "callCode" : "31",
+    "code2A" : "NL",
+    "mcc" : "204",
+    "code3A" : "NLD"
+  },
+  {
+    "callCode" : "47",
+    "code2A" : "NO",
+    "mcc" : "242",
+    "code3A" : "NOR"
+  },
+  {
+    "callCode" : "977",
+    "code2A" : "NP",
+    "mcc" : "429",
+    "code3A" : "NPL"
+  },
+  {
+    "callCode" : "674",
+    "code2A" : "NR",
+    "mcc" : "536",
+    "code3A" : "NRU"
+  },
+  {
+    "callCode" : "64",
+    "code2A" : "NZ",
+    "mcc" : "530",
+    "code3A" : "NZL"
+  },
+  {
+    "callCode" : "968",
+    "code2A" : "OM",
+    "mcc" : "422",
+    "code3A" : "OMN"
+  },
+  {
+    "callCode" : "507",
+    "code2A" : "PA",
+    "mcc" : "714",
+    "code3A" : "PAN"
+  },
+  {
+    "callCode" : "51",
+    "code2A" : "PE",
+    "mcc" : "716",
+    "code3A" : "PER"
+  },
+  {
+    "callCode" : "689",
+    "code2A" : "PF",
+    "mcc" : "547",
+    "code3A" : "PYF"
+  },
+  {
+    "callCode" : "675",
+    "code2A" : "PG",
+    "mcc" : "537",
+    "code3A" : "PNG"
+  },
+  {
+    "callCode" : "63",
+    "code2A" : "PH",
+    "mcc" : "515",
+    "code3A" : "PHL"
+  },
+  {
+    "callCode" : "92",
+    "code2A" : "PK",
+    "mcc" : "410",
+    "code3A" : "PAK"
+  },
+  {
+    "callCode" : "48",
+    "code2A" : "PL",
+    "mcc" : "260",
+    "code3A" : "POL"
+  },
+  {
+    "callCode" : "508",
+    "code2A" : "PM",
+    "mcc" : "308",
+    "code3A" : "SPM"
+  },
+  {
+    "callCode" : "1",
+    "code2A" : "PR",
+    "mcc" : "330",
+    "code3A" : "PRI"
+  },
+  {
+    "callCode" : "970",
+    "code2A" : "PS",
+    "mcc" : "425",
+    "code3A" : "PSE"
+  },
+  {
+    "callCode" : "351",
+    "code2A" : "PT",
+    "mcc" : "268",
+    "code3A" : "PRT"
+  },
+  {
+    "callCode" : "680",
+    "code2A" : "PW",
+    "mcc" : "552",
+    "code3A" : "PLW"
+  },
+  {
+    "callCode" : "595",
+    "code2A" : "PY",
+    "mcc" : "744",
+    "code3A" : "PRY"
+  },
+  {
+    "callCode" : "974",
+    "code2A" : "QA",
+    "mcc" : "427",
+    "code3A" : "QAT"
+  },
+  {
+    "callCode" : "262",
+    "code2A" : "RE",
+    "mcc" : "647",
+    "code3A" : "REU"
+  },
+  {
+    "callCode" : "40",
+    "code2A" : "RO",
+    "mcc" : "226",
+    "code3A" : "ROU"
+  },
+  {
+    "callCode" : "381",
+    "code2A" : "RS",
+    "mcc" : "220",
+    "code3A" : "SCG"
+  },
+  {
+    "callCode" : "7",
+    "code2A" : "RU",
+    "mcc" : "250",
+    "code3A" : "RUS"
+  },
+  {
+    "callCode" : "250",
+    "code2A" : "RW",
+    "mcc" : "635",
+    "code3A" : "RWA"
+  },
+  {
+    "callCode" : "966",
+    "code2A" : "SA",
+    "mcc" : "420",
+    "code3A" : "SAU"
+  },
+  {
+    "callCode" : "677",
+    "code2A" : "SB",
+    "mcc" : "540",
+    "code3A" : "SLB"
+  },
+  {
+    "callCode" : "248",
+    "code2A" : "SC",
+    "mcc" : "633",
+    "code3A" : "SYC"
+  },
+  {
+    "callCode" : "249",
+    "code2A" : "SD",
+    "mcc" : "634",
+    "code3A" : "SDN"
+  },
+  {
+    "callCode" : "46",
+    "code2A" : "SE",
+    "mcc" : "240",
+    "code3A" : "SWE"
+  },
+  {
+    "callCode" : "65",
+    "code2A" : "SG",
+    "mcc" : "525",
+    "code3A" : "SGP"
+  },
+  {
+    "callCode" : "386",
+    "code2A" : "SI",
+    "mcc" : "293",
+    "code3A" : "SVN"
+  },
+  {
+    "callCode" : "47",
+    "code2A" : "SJ",
+    "mcc" : "242",
+    "code3A" : "SJM"
+  },
+  {
+    "callCode" : "421",
+    "code2A" : "SK",
+    "mcc" : "231",
+    "code3A" : "SVK"
+  },
+  {
+    "callCode" : "232",
+    "code2A" : "SL",
+    "mcc" : "619",
+    "code3A" : "SLE"
+  },
+  {
+    "callCode" : "378",
+    "code2A" : "SM",
+    "mcc" : "292",
+    "code3A" : "SMR"
+  },
+  {
+    "callCode" : "221",
+    "code2A" : "SN",
+    "mcc" : "608",
+    "code3A" : "SEN"
+  },
+  {
+    "callCode" : "252",
+    "code2A" : "SO",
+    "mcc" : "637",
+    "code3A" : "SOM"
+  },
+  {
+    "callCode" : "597",
+    "code2A" : "SR",
+    "mcc" : "746",
+    "code3A" : "SUR"
+  },
+  {
+    "callCode" : "503",
+    "code2A" : "SV",
+    "mcc" : "706",
+    "code3A" : "SLV"
+  },
+  {
+    "callCode" : "963",
+    "code2A" : "SY",
+    "mcc" : "417",
+    "code3A" : "SYR"
+  },
+  {
+    "callCode" : "268",
+    "code2A" : "SZ",
+    "mcc" : "653",
+    "code3A" : "SWZ"
+  },
+  {
+    "callCode" : "1",
+    "code2A" : "TC",
+    "mcc" : "376",
+    "code3A" : "TCA"
+  },
+  {
+    "callCode" : "235",
+    "code2A" : "TD",
+    "mcc" : "622",
+    "code3A" : "TCD"
+  },
+  {
+    "callCode" : "262",
+    "code2A" : "TF",
+    "mcc" : "547",
+    "code3A" : "ATF"
+  },
+  {
+    "callCode" : "228",
+    "code2A" : "TG",
+    "mcc" : "615",
+    "code3A" : "TGO"
+  },
+  {
+    "callCode" : "66",
+    "code2A" : "TH",
+    "mcc" : "520",
+    "code3A" : "THA"
+  },
+  {
+    "callCode" : "992",
+    "code2A" : "TJ",
+    "mcc" : "436",
+    "code3A" : "TJK"
+  },
+  {
+    "callCode" : "670",
+    "code2A" : "TL",
+    "mcc" : "514",
+    "code3A" : "TLS"
+  },
+  {
+    "callCode" : "993",
+    "code2A" : "TM",
+    "mcc" : "438",
+    "code3A" : "TKM"
+  },
+  {
+    "callCode" : "216",
+    "code2A" : "TN",
+    "mcc" : "605",
+    "code3A" : "TUN"
+  },
+  {
+    "callCode" : "676",
+    "code2A" : "TO",
+    "mcc" : "539",
+    "code3A" : "TON"
+  },
+  {
+    "callCode" : "90",
+    "code2A" : "TR",
+    "mcc" : "286",
+    "code3A" : "TUR"
+  },
+  {
+    "callCode" : "1",
+    "code2A" : "TT",
+    "mcc" : "374",
+    "code3A" : "TTO"
+  },
+  {
+    "callCode" : "886",
+    "code2A" : "TW",
+    "mcc" : "466",
+    "code3A" : "TWN"
+  },
+  {
+    "callCode" : "255",
+    "code2A" : "TZ",
+    "mcc" : "640",
+    "code3A" : "TZA"
+  },
+  {
+    "callCode" : "380",
+    "code2A" : "UA",
+    "mcc" : "255",
+    "code3A" : "UKR"
+  },
+  {
+    "callCode" : "256",
+    "code2A" : "UG",
+    "mcc" : "641",
+    "code3A" : "UGA"
+  },
+  {
+    "callCode" : "1",
+    "code2A" : "US",
+    "mcc" : "310",
+    "code3A" : "USA"
+  },
+  {
+    "callCode" : "598",
+    "code2A" : "UY",
+    "mcc" : "748",
+    "code3A" : "URY"
+  },
+  {
+    "callCode" : "998",
+    "code2A" : "UZ",
+    "mcc" : "434",
+    "code3A" : "UZB"
+  },
+  {
+    "callCode" : "39",
+    "code2A" : "VA",
+    "mcc" : "225",
+    "code3A" : "VAT"
+  },
+  {
+    "callCode" : "1",
+    "code2A" : "VC",
+    "mcc" : "360",
+    "code3A" : "VCT"
+  },
+  {
+    "callCode" : "58",
+    "code2A" : "VE",
+    "mcc" : "734",
+    "code3A" : "VEN"
+  },
+  {
+    "callCode" : "1",
+    "code2A" : "VG",
+    "mcc" : "348",
+    "code3A" : "VGB"
+  },
+  {
+    "callCode" : "1",
+    "code2A" : "VI",
+    "mcc" : "332",
+    "code3A" : "VIR"
+  },
+  {
+    "callCode" : "84",
+    "code2A" : "VN",
+    "mcc" : "452",
+    "code3A" : "VNM"
+  },
+  {
+    "callCode" : "678",
+    "code2A" : "VU",
+    "mcc" : "541",
+    "code3A" : "VUT"
+  },
+  {
+    "callCode" : "681",
+    "code2A" : "WF",
+    "mcc" : "543",
+    "code3A" : "WLF"
+  },
+  {
+    "callCode" : "685",
+    "code2A" : "WS",
+    "mcc" : "549",
+    "code3A" : "WSM"
+  },
+  {
+    "callCode" : "967",
+    "code2A" : "YE",
+    "mcc" : "421",
+    "code3A" : "YEM"
+  },
+  {
+    "callCode" : "262",
+    "code2A" : "YT",
+    "mcc" : "",
+    "code3A" : "MYT"
+  },
+  {
+    "callCode" : "27",
+    "code2A" : "ZA",
+    "mcc" : "655",
+    "code3A" : "ZAF"
+  },
+  {
+    "callCode" : "260",
+    "code2A" : "ZM",
+    "mcc" : "645",
+    "code3A" : "ZMB"
+  },
+  {
+    "callCode" : "263",
+    "code2A" : "ZW",
+    "mcc" : "648",
+    "code3A" : "ZWE"
+  }
+]

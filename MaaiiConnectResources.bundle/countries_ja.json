@@ -1,0 +1,1850 @@
+[
+    {
+        "code2A": "AD",
+        "sectionName": "あ行",
+        "sectionIndex": 1,
+        "name": "アンドラ",
+        "callCode": "376",
+        "index": 17
+    },
+    {
+        "code2A": "AE",
+        "sectionName": "あ行",
+        "sectionIndex": 1,
+        "name": "アラブ首長国連邦",
+        "callCode": "971",
+        "index": 8
+    },
+    {
+        "code2A": "AF",
+        "sectionName": "あ行",
+        "sectionIndex": 1,
+        "name": "アフガニスタン",
+        "callCode": "93",
+        "index": 4
+    },
+    {
+        "code2A": "AG",
+        "sectionName": "あ行",
+        "sectionIndex": 1,
+        "name": "アンティグア･バーブーダ",
+        "callCode": "1",
+        "index": 16
+    },
+    {
+        "code2A": "AI",
+        "sectionName": "あ行",
+        "sectionIndex": 1,
+        "name": "アンギラ",
+        "callCode": "1",
+        "index": 14
+    },
+    {
+        "code2A": "AL",
+        "sectionName": "あ行",
+        "sectionIndex": 1,
+        "name": "アルバニア",
+        "callCode": "355",
+        "index": 12
+    },
+    {
+        "code2A": "AM",
+        "sectionName": "あ行",
+        "sectionIndex": 1,
+        "name": "アルメニア",
+        "callCode": "374",
+        "index": 13
+    },
+    {
+        "code2A": "AN",
+        "sectionName": "あ行",
+        "sectionIndex": 1,
+        "name": "オランダ領アンティル",
+        "callCode": "599",
+        "index": 42
+    },
+    {
+        "code2A": "AO",
+        "sectionName": "あ行",
+        "sectionIndex": 1,
+        "name": "アンゴラ",
+        "callCode": "244",
+        "index": 15
+    },
+    {
+        "code2A": "AR",
+        "sectionName": "あ行",
+        "sectionIndex": 1,
+        "name": "アルゼンチン",
+        "callCode": "54",
+        "index": 10
+    },
+    {
+        "code2A": "AS",
+        "sectionName": "あ行",
+        "sectionIndex": 1,
+        "name": "アメリカ領サモア",
+        "callCode": "1",
+        "index": 7
+    },
+    {
+        "code2A": "AT",
+        "sectionName": "あ行",
+        "sectionIndex": 1,
+        "name": "オーストリア",
+        "callCode": "43",
+        "index": 39
+    },
+    {
+        "code2A": "AU",
+        "sectionName": "あ行",
+        "sectionIndex": 1,
+        "name": "オーストラリア",
+        "callCode": "61",
+        "index": 38
+    },
+    {
+        "code2A": "AW",
+        "sectionName": "あ行",
+        "sectionIndex": 1,
+        "name": "アルバ",
+        "callCode": "297",
+        "index": 11
+    },
+    {
+        "code2A": "AZ",
+        "sectionName": "あ行",
+        "sectionIndex": 1,
+        "name": "アゼルバイジャン",
+        "callCode": "994",
+        "index": 3
+    },
+    {
+        "code2A": "BA",
+        "sectionName": "は行",
+        "sectionIndex": 6,
+        "name": "ボスニア･ヘルツェゴビナ",
+        "callCode": "387",
+        "index": 186
+    },
+    {
+        "code2A": "BB",
+        "sectionName": "は行",
+        "sectionIndex": 6,
+        "name": "バルバドス",
+        "callCode": "1",
+        "index": 156
+    },
+    {
+        "code2A": "BD",
+        "sectionName": "は行",
+        "sectionIndex": 6,
+        "name": "バングラデシュ",
+        "callCode": "880",
+        "index": 159
+    },
+    {
+        "code2A": "BE",
+        "sectionName": "は行",
+        "sectionIndex": 6,
+        "name": "ベルギー",
+        "callCode": "32",
+        "index": 184
+    },
+    {
+        "code2A": "BF",
+        "sectionName": "は行",
+        "sectionIndex": 6,
+        "name": "ブルキナファソ",
+        "callCode": "226",
+        "index": 175
+    },
+    {
+        "code2A": "BG",
+        "sectionName": "は行",
+        "sectionIndex": 6,
+        "name": "ブルガリア",
+        "callCode": "359",
+        "index": 174
+    },
+    {
+        "code2A": "BH",
+        "sectionName": "は行",
+        "sectionIndex": 6,
+        "name": "バーレーン",
+        "callCode": "973",
+        "index": 145
+    },
+    {
+        "code2A": "BI",
+        "sectionName": "は行",
+        "sectionIndex": 6,
+        "name": "ブルンジ",
+        "callCode": "257",
+        "index": 177
+    },
+    {
+        "code2A": "BJ",
+        "sectionName": "は行",
+        "sectionIndex": 6,
+        "name": "ベナン",
+        "callCode": "229",
+        "index": 179
+    },
+    {
+        "code2A": "BM",
+        "sectionName": "は行",
+        "sectionIndex": 6,
+        "name": "バミューダ",
+        "callCode": "1",
+        "index": 153
+    },
+    {
+        "code2A": "BN",
+        "sectionName": "は行",
+        "sectionIndex": 6,
+        "name": "ブルネイ･ダルサラーム",
+        "callCode": "673",
+        "index": 176
+    },
+    {
+        "code2A": "BO",
+        "sectionName": "は行",
+        "sectionIndex": 6,
+        "name": "ボリビア",
+        "callCode": "591",
+        "index": 188
+    },
+    {
+        "code2A": "BR",
+        "sectionName": "は行",
+        "sectionIndex": 6,
+        "name": "ブラジル",
+        "callCode": "55",
+        "index": 169
+    },
+    {
+        "code2A": "BS",
+        "sectionName": "は行",
+        "sectionIndex": 6,
+        "name": "バハマ",
+        "callCode": "1",
+        "index": 151
+    },
+    {
+        "code2A": "BT",
+        "sectionName": "は行",
+        "sectionIndex": 6,
+        "name": "ブータン",
+        "callCode": "975",
+        "index": 165
+    },
+    {
+        "code2A": "BV",
+        "sectionName": "は行",
+        "sectionIndex": 6,
+        "name": "ブーベ島",
+        "callCode": "226",
+        "index": 166
+    },
+    {
+        "code2A": "BW",
+        "sectionName": "は行",
+        "sectionIndex": 6,
+        "name": "ボツワナ",
+        "callCode": "267",
+        "index": 187
+    },
+    {
+        "code2A": "BY",
+        "sectionName": "は行",
+        "sectionIndex": 6,
+        "name": "ベラルーシ",
+        "callCode": "375",
+        "index": 181
+    },
+    {
+        "code2A": "BZ",
+        "sectionName": "は行",
+        "sectionIndex": 6,
+        "name": "ベリーズ",
+        "callCode": "501",
+        "index": 182
+    },
+    {
+        "code2A": "CA",
+        "sectionName": "か行",
+        "sectionIndex": 2,
+        "name": "カナダ",
+        "callCode": "1",
+        "index": 49
+    },
+    {
+        "code2A": "CC",
+        "sectionName": "か行",
+        "sectionIndex": 2,
+        "name": "ココス（キーリング）諸島",
+        "callCode": "61",
+        "index": 75
+    },
+    {
+        "code2A": "CD",
+        "sectionName": "か行",
+        "sectionIndex": 2,
+        "name": "コンゴ民主共和国",
+        "callCode": "243",
+        "index": 80
+    },
+    {
+        "code2A": "CF",
+        "sectionName": "た行",
+        "sectionIndex": 4,
+        "name": "中央アフリカ共和国",
+        "callCode": "236",
+        "index": 119
+    },
+    {
+        "code2A": "CG",
+        "sectionName": "か行",
+        "sectionIndex": 2,
+        "name": "コンゴ共和国",
+        "callCode": "242",
+        "index": 79
+    },
+    {
+        "code2A": "CH",
+        "sectionName": "さ行",
+        "sectionIndex": 3,
+        "name": "スイス",
+        "callCode": "41",
+        "index": 94
+    },
+    {
+        "code2A": "CI",
+        "sectionName": "か行",
+        "sectionIndex": 2,
+        "name": "コートジボワール",
+        "callCode": "225",
+        "index": 74
+    },
+    {
+        "code2A": "CK",
+        "sectionName": "か行",
+        "sectionIndex": 2,
+        "name": "クック諸島",
+        "callCode": "682",
+        "index": 66
+    },
+    {
+        "code2A": "CL",
+        "sectionName": "た行",
+        "sectionIndex": 4,
+        "name": "チリ",
+        "callCode": "56",
+        "index": 123
+    },
+    {
+        "code2A": "CM",
+        "sectionName": "か行",
+        "sectionIndex": 2,
+        "name": "カメルーン",
+        "callCode": "237",
+        "index": 50
+    },
+    {
+        "code2A": "CN",
+        "sectionName": "た行",
+        "sectionIndex": 4,
+        "name": "中国",
+        "callCode": "86",
+        "index": 120
+    },
+    {
+        "code2A": "CO",
+        "sectionName": "か行",
+        "sectionIndex": 2,
+        "name": "コロンビア",
+        "callCode": "57",
+        "index": 78
+    },
+    {
+        "code2A": "CR",
+        "sectionName": "か行",
+        "sectionIndex": 2,
+        "name": "コスタリカ",
+        "callCode": "506",
+        "index": 76
+    },
+    {
+        "code2A": "CU",
+        "sectionName": "か行",
+        "sectionIndex": 2,
+        "name": "キューバ",
+        "callCode": "53",
+        "index": 58
+    },
+    {
+        "code2A": "CV",
+        "sectionName": "か行",
+        "sectionIndex": 2,
+        "name": "カーボベルデ",
+        "callCode": "238",
+        "index": 44
+    },
+    {
+        "code2A": "CX",
+        "sectionName": "か行",
+        "sectionIndex": 2,
+        "name": "クリスマス島",
+        "callCode": "61",
+        "index": 68
+    },
+    {
+        "code2A": "CY",
+        "sectionName": "か行",
+        "sectionIndex": 2,
+        "name": "キプロス",
+        "callCode": "357",
+        "index": 57
+    },
+    {
+        "code2A": "CZ",
+        "sectionName": "た行",
+        "sectionIndex": 4,
+        "name": "チェコ共和国",
+        "callCode": "420",
+        "index": 122
+    },
+    {
+        "code2A": "DE",
+        "sectionName": "た行",
+        "sectionIndex": 4,
+        "name": "ドイツ",
+        "callCode": "49",
+        "index": 125
+    },
+    {
+        "code2A": "DJ",
+        "sectionName": "さ行",
+        "sectionIndex": 3,
+        "name": "ジブチ",
+        "callCode": "253",
+        "index": 87
+    },
+    {
+        "code2A": "DK",
+        "sectionName": "た行",
+        "sectionIndex": 4,
+        "name": "デンマーク",
+        "callCode": "45",
+        "index": 124
+    },
+    {
+        "code2A": "DM",
+        "sectionName": "た行",
+        "sectionIndex": 4,
+        "name": "ドミニカ",
+        "callCode": "1",
+        "index": 127
+    },
+    {
+        "code2A": "DO",
+        "sectionName": "た行",
+        "sectionIndex": 4,
+        "name": "ドミニカ共和国",
+        "callCode": "1",
+        "index": 128
+    },
+    {
+        "code2A": "DZ",
+        "sectionName": "あ行",
+        "sectionIndex": 1,
+        "name": "アルジェリア",
+        "callCode": "213",
+        "index": 9
+    },
+    {
+        "code2A": "EC",
+        "sectionName": "あ行",
+        "sectionIndex": 1,
+        "name": "エクアドル",
+        "callCode": "593",
+        "index": 32
+    },
+    {
+        "code2A": "EE",
+        "sectionName": "あ行",
+        "sectionIndex": 1,
+        "name": "エストニア",
+        "callCode": "372",
+        "index": 34
+    },
+    {
+        "code2A": "EG",
+        "sectionName": "あ行",
+        "sectionIndex": 1,
+        "name": "エジプト",
+        "callCode": "20",
+        "index": 33
+    },
+    {
+        "code2A": "EH",
+        "sectionName": "な行",
+        "sectionIndex": 5,
+        "name": "西サハラ",
+        "callCode": "212",
+        "index": 138
+    },
+    {
+        "code2A": "ER",
+        "sectionName": "あ行",
+        "sectionIndex": 1,
+        "name": "エリトリア",
+        "callCode": "291",
+        "index": 36
+    },
+    {
+        "code2A": "ES",
+        "sectionName": "さ行",
+        "sectionIndex": 3,
+        "name": "スペイン",
+        "callCode": "34",
+        "index": 98
+    },
+    {
+        "code2A": "ET",
+        "sectionName": "あ行",
+        "sectionIndex": 1,
+        "name": "エチオピア",
+        "callCode": "251",
+        "index": 35
+    },
+    {
+        "code2A": "FI",
+        "sectionName": "は行",
+        "sectionIndex": 6,
+        "name": "フィンランド",
+        "callCode": "358",
+        "index": 164
+    },
+    {
+        "code2A": "FJ",
+        "sectionName": "は行",
+        "sectionIndex": 6,
+        "name": "フィジー諸島",
+        "callCode": "679",
+        "index": 162
+    },
+    {
+        "code2A": "FK",
+        "sectionName": "は行",
+        "sectionIndex": 6,
+        "name": "フォークランド諸島",
+        "callCode": "500",
+        "index": 168
+    },
+    {
+        "code2A": "FM",
+        "sectionName": "ま行",
+        "sectionIndex": 7,
+        "name": "ミクロネシア連邦",
+        "callCode": "691",
+        "index": 203
+    },
+    {
+        "code2A": "FO",
+        "sectionName": "は行",
+        "sectionIndex": 6,
+        "name": "ファロエ諸島",
+        "callCode": "298",
+        "index": 161
+    },
+    {
+        "code2A": "FR",
+        "sectionName": "は行",
+        "sectionIndex": 6,
+        "name": "フランス",
+        "callCode": "33",
+        "index": 170
+    },
+    {
+        "code2A": "GB",
+        "sectionName": "あ行",
+        "sectionIndex": 1,
+        "name": "イギリス",
+        "callCode": "44",
+        "index": 19
+    },
+    {
+        "code2A": "GD",
+        "sectionName": "か行",
+        "sectionIndex": 2,
+        "name": "グレナダ",
+        "callCode": "1",
+        "index": 70
+    },
+    {
+        "code2A": "GE",
+        "sectionName": "か行",
+        "sectionIndex": 2,
+        "name": "グルジア",
+        "callCode": "995",
+        "index": 69
+    },
+    {
+        "code2A": "GF",
+        "sectionName": "は行",
+        "sectionIndex": 6,
+        "name": "フランス領ギアナ",
+        "callCode": "594",
+        "index": 172
+    },
+    {
+        "code2A": "GG",
+        "sectionName": "か行",
+        "sectionIndex": 2,
+        "name": "ガーンジー",
+        "callCode": "44",
+        "index": 45
+    },
+    {
+        "code2A": "GH",
+        "sectionName": "か行",
+        "sectionIndex": 2,
+        "name": "ガーナ",
+        "callCode": "233",
+        "index": 43
+    },
+    {
+        "code2A": "GI",
+        "sectionName": "さ行",
+        "sectionIndex": 3,
+        "name": "ジブラルタル",
+        "callCode": "350",
+        "index": 88
+    },
+    {
+        "code2A": "GL",
+        "sectionName": "か行",
+        "sectionIndex": 2,
+        "name": "グリーンランド",
+        "callCode": "299",
+        "index": 67
+    },
+    {
+        "code2A": "GM",
+        "sectionName": "か行",
+        "sectionIndex": 2,
+        "name": "ガンビア",
+        "callCode": "220",
+        "index": 52
+    },
+    {
+        "code2A": "GN",
+        "sectionName": "か行",
+        "sectionIndex": 2,
+        "name": "ギニア",
+        "callCode": "224",
+        "index": 55
+    },
+    {
+        "code2A": "GP",
+        "sectionName": "か行",
+        "sectionIndex": 2,
+        "name": "グアドループ",
+        "callCode": "590",
+        "index": 63
+    },
+    {
+        "code2A": "GQ",
+        "sectionName": "さ行",
+        "sectionIndex": 3,
+        "name": "赤道ギニア",
+        "callCode": "240",
+        "index": 105
+    },
+    {
+        "code2A": "GR",
+        "sectionName": "か行",
+        "sectionIndex": 2,
+        "name": "ギリシャ",
+        "callCode": "30",
+        "index": 59
+    },
+    {
+        "code2A": "GS",
+        "sectionName": "ま行",
+        "sectionIndex": 7,
+        "name": "南ジョージア島･南サンドイッチ諸島",
+        "callCode": "500",
+        "index": 205
+    },
+    {
+        "code2A": "GT",
+        "sectionName": "か行",
+        "sectionIndex": 2,
+        "name": "グアテマラ",
+        "callCode": "502",
+        "index": 62
+    },
+    {
+        "code2A": "GU",
+        "sectionName": "か行",
+        "sectionIndex": 2,
+        "name": "グアム",
+        "callCode": "1",
+        "index": 64
+    },
+    {
+        "code2A": "GW",
+        "sectionName": "か行",
+        "sectionIndex": 2,
+        "name": "ギニアビサウ",
+        "callCode": "245",
+        "index": 56
+    },
+    {
+        "code2A": "GY",
+        "sectionName": "か行",
+        "sectionIndex": 2,
+        "name": "ガイアナ",
+        "callCode": "592",
+        "index": 46
+    },
+    {
+        "code2A": "HK",
+        "sectionName": "は行",
+        "sectionIndex": 6,
+        "name": "香港",
+        "callCode": "852",
+        "index": 190
+    },
+    {
+        "code2A": "HM",
+        "sectionName": "は行",
+        "sectionIndex": 6,
+        "name": "ハード島とマクドナルド諸島",
+        "callCode": "61",
+        "index": 144
+    },
+    {
+        "code2A": "HN",
+        "sectionName": "は行",
+        "sectionIndex": 6,
+        "name": "ホンジュラス",
+        "callCode": "504",
+        "index": 191
+    },
+    {
+        "code2A": "HR",
+        "sectionName": "か行",
+        "sectionIndex": 2,
+        "name": "クロアチア",
+        "callCode": "385",
+        "index": 71
+    },
+    {
+        "code2A": "HT",
+        "sectionName": "は行",
+        "sectionIndex": 6,
+        "name": "ハイチ",
+        "callCode": "509",
+        "index": 146
+    },
+    {
+        "code2A": "HU",
+        "sectionName": "は行",
+        "sectionIndex": 6,
+        "name": "ハンガリー",
+        "callCode": "36",
+        "index": 158
+    },
+    {
+        "code2A": "ID",
+        "sectionName": "あ行",
+        "sectionIndex": 1,
+        "name": "インドネシア",
+        "callCode": "62",
+        "index": 26
+    },
+    {
+        "code2A": "IE",
+        "sectionName": "あ行",
+        "sectionIndex": 1,
+        "name": "アイルランド",
+        "callCode": "353",
+        "index": 2
+    },
+    {
+        "code2A": "IL",
+        "sectionName": "あ行",
+        "sectionIndex": 1,
+        "name": "イスラエル",
+        "callCode": "972",
+        "index": 21
+    },
+    {
+        "code2A": "IM",
+        "sectionName": "ま行",
+        "sectionIndex": 7,
+        "name": "マン島",
+        "callCode": "44",
+        "index": 202
+    },
+    {
+        "code2A": "IN",
+        "sectionName": "あ行",
+        "sectionIndex": 1,
+        "name": "インド",
+        "callCode": "91",
+        "index": 25
+    },
+    {
+        "code2A": "IQ",
+        "sectionName": "あ行",
+        "sectionIndex": 1,
+        "name": "イラク",
+        "callCode": "964",
+        "index": 23
+    },
+    {
+        "code2A": "IR",
+        "sectionName": "あ行",
+        "sectionIndex": 1,
+        "name": "イラン",
+        "callCode": "98",
+        "index": 24
+    },
+    {
+        "code2A": "IS",
+        "sectionName": "あ行",
+        "sectionIndex": 1,
+        "name": "アイスランド",
+        "callCode": "354",
+        "index": 1
+    },
+    {
+        "code2A": "IT",
+        "sectionName": "あ行",
+        "sectionIndex": 1,
+        "name": "イタリア",
+        "callCode": "39",
+        "index": 22
+    },
+    {
+        "code2A": "JE",
+        "sectionName": "さ行",
+        "sectionIndex": 3,
+        "name": "ジャージー",
+        "callCode": "44",
+        "index": 89
+    },
+    {
+        "code2A": "JM",
+        "sectionName": "さ行",
+        "sectionIndex": 3,
+        "name": "ジャマイカ",
+        "callCode": "1",
+        "index": 90
+    },
+    {
+        "code2A": "JO",
+        "sectionName": "や行",
+        "sectionIndex": 8,
+        "name": "ヨルダン",
+        "callCode": "962",
+        "index": 218
+    },
+    {
+        "code2A": "JP",
+        "sectionName": "な行",
+        "sectionIndex": 5,
+        "name": "日本",
+        "callCode": "81",
+        "index": 139
+    },
+    {
+        "code2A": "KE",
+        "sectionName": "か行",
+        "sectionIndex": 2,
+        "name": "ケニア",
+        "callCode": "254",
+        "index": 73
+    },
+    {
+        "code2A": "KG",
+        "sectionName": "か行",
+        "sectionIndex": 2,
+        "name": "キルギスタン",
+        "callCode": "996",
+        "index": 61
+    },
+    {
+        "code2A": "KH",
+        "sectionName": "か行",
+        "sectionIndex": 2,
+        "name": "カンボジア",
+        "callCode": "855",
+        "index": 53
+    },
+    {
+        "code2A": "KI",
+        "sectionName": "か行",
+        "sectionIndex": 2,
+        "name": "キリバス",
+        "callCode": "686",
+        "index": 60
+    },
+    {
+        "code2A": "KM",
+        "sectionName": "か行",
+        "sectionIndex": 2,
+        "name": "コモロ",
+        "callCode": "269",
+        "index": 77
+    },
+    {
+        "code2A": "KN",
+        "sectionName": "さ行",
+        "sectionIndex": 3,
+        "name": "セントクリストファー･ネーヴィス",
+        "callCode": "1",
+        "index": 108
+    },
+    {
+        "code2A": "KR",
+        "sectionName": "か行",
+        "sectionIndex": 2,
+        "name": "韓国",
+        "callCode": "82",
+        "index": 51
+    },
+    {
+        "code2A": "KW",
+        "sectionName": "か行",
+        "sectionIndex": 2,
+        "name": "クウェート",
+        "callCode": "965",
+        "index": 65
+    },
+    {
+        "code2A": "KY",
+        "sectionName": "か行",
+        "sectionIndex": 2,
+        "name": "ケイマン諸島",
+        "callCode": "1",
+        "index": 72
+    },
+    {
+        "code2A": "KZ",
+        "sectionName": "か行",
+        "sectionIndex": 2,
+        "name": "カザフスタン",
+        "callCode": "7",
+        "index": 47
+    },
+    {
+        "code2A": "LA",
+        "sectionName": "ら行",
+        "sectionIndex": 9,
+        "name": "ラオス",
+        "callCode": "856",
+        "index": 219
+    },
+    {
+        "code2A": "LB",
+        "sectionName": "ら行",
+        "sectionIndex": 9,
+        "name": "レバノン",
+        "callCode": "961",
+        "index": 229
+    },
+    {
+        "code2A": "LC",
+        "sectionName": "さ行",
+        "sectionIndex": 3,
+        "name": "セントルシア",
+        "callCode": "1",
+        "index": 110
+    },
+    {
+        "code2A": "LI",
+        "sectionName": "ら行",
+        "sectionIndex": 9,
+        "name": "リヒテンシュタイン",
+        "callCode": "423",
+        "index": 223
+    },
+    {
+        "code2A": "LK",
+        "sectionName": "さ行",
+        "sectionIndex": 3,
+        "name": "スリランカ",
+        "callCode": "94",
+        "index": 100
+    },
+    {
+        "code2A": "LR",
+        "sectionName": "ら行",
+        "sectionIndex": 9,
+        "name": "リベリア",
+        "callCode": "231",
+        "index": 224
+    },
+    {
+        "code2A": "LS",
+        "sectionName": "ら行",
+        "sectionIndex": 9,
+        "name": "レソト",
+        "callCode": "266",
+        "index": 228
+    },
+    {
+        "code2A": "LT",
+        "sectionName": "ら行",
+        "sectionIndex": 9,
+        "name": "リトアニア",
+        "callCode": "370",
+        "index": 221
+    },
+    {
+        "code2A": "LU",
+        "sectionName": "ら行",
+        "sectionIndex": 9,
+        "name": "ルクセンブルク",
+        "callCode": "352",
+        "index": 226
+    },
+    {
+        "code2A": "LV",
+        "sectionName": "ら行",
+        "sectionIndex": 9,
+        "name": "ラトビア",
+        "callCode": "371",
+        "index": 220
+    },
+    {
+        "code2A": "LY",
+        "sectionName": "ら行",
+        "sectionIndex": 9,
+        "name": "リビア",
+        "callCode": "218",
+        "index": 222
+    },
+    {
+        "code2A": "MA",
+        "sectionName": "ま行",
+        "sectionIndex": 7,
+        "name": "モロッコ",
+        "callCode": "212",
+        "index": 214
+    },
+    {
+        "code2A": "MC",
+        "sectionName": "ま行",
+        "sectionIndex": 7,
+        "name": "モナコ",
+        "callCode": "377",
+        "index": 211
+    },
+    {
+        "code2A": "MD",
+        "sectionName": "ま行",
+        "sectionIndex": 7,
+        "name": "モルドバ",
+        "callCode": "373",
+        "index": 213
+    },
+    {
+        "code2A": "ME",
+        "sectionName": "ま行",
+        "sectionIndex": 7,
+        "name": "モンテネグロ",
+        "callCode": "382",
+        "index": 217
+    },
+    {
+        "code2A": "MG",
+        "sectionName": "ま行",
+        "sectionIndex": 7,
+        "name": "マダガスカル",
+        "callCode": "261",
+        "index": 195
+    },
+    {
+        "code2A": "MH",
+        "sectionName": "ま行",
+        "sectionIndex": 7,
+        "name": "マーシャル諸島",
+        "callCode": "692",
+        "index": 192
+    },
+    {
+        "code2A": "MK",
+        "sectionName": "ま行",
+        "sectionIndex": 7,
+        "name": "マケドニア",
+        "callCode": "389",
+        "index": 194
+    },
+    {
+        "code2A": "ML",
+        "sectionName": "ま行",
+        "sectionIndex": 7,
+        "name": "マリ共和国",
+        "callCode": "223",
+        "index": 198
+    },
+    {
+        "code2A": "MM",
+        "sectionName": "ま行",
+        "sectionIndex": 7,
+        "name": "ミャンマー",
+        "callCode": "95",
+        "index": 206
+    },
+    {
+        "code2A": "MN",
+        "sectionName": "ま行",
+        "sectionIndex": 7,
+        "name": "モンゴル",
+        "callCode": "976",
+        "index": 215
+    },
+    {
+        "code2A": "MO",
+        "sectionName": "ま行",
+        "sectionIndex": 7,
+        "name": "マカオ",
+        "callCode": "853",
+        "index": 193
+    },
+    {
+        "code2A": "MP",
+        "sectionName": "か行",
+        "sectionIndex": 2,
+        "name": "北マリアナ諸島",
+        "callCode": "1",
+        "index": 54
+    },
+    {
+        "code2A": "MQ",
+        "sectionName": "ま行",
+        "sectionIndex": 7,
+        "name": "マルティニーク",
+        "callCode": "596",
+        "index": 200
+    },
+    {
+        "code2A": "MR",
+        "sectionName": "ま行",
+        "sectionIndex": 7,
+        "name": "モーリタニア",
+        "callCode": "222",
+        "index": 209
+    },
+    {
+        "code2A": "MS",
+        "sectionName": "ま行",
+        "sectionIndex": 7,
+        "name": "モンセラト",
+        "callCode": "1",
+        "index": 216
+    },
+    {
+        "code2A": "MT",
+        "sectionName": "ま行",
+        "sectionIndex": 7,
+        "name": "マルタ",
+        "callCode": "356",
+        "index": 199
+    },
+    {
+        "code2A": "MU",
+        "sectionName": "ま行",
+        "sectionIndex": 7,
+        "name": "モーリシャス",
+        "callCode": "230",
+        "index": 208
+    },
+    {
+        "code2A": "MV",
+        "sectionName": "ま行",
+        "sectionIndex": 7,
+        "name": "モルディブ",
+        "callCode": "960",
+        "index": 212
+    },
+    {
+        "code2A": "MW",
+        "sectionName": "ま行",
+        "sectionIndex": 7,
+        "name": "マラウイ",
+        "callCode": "265",
+        "index": 197
+    },
+    {
+        "code2A": "MX",
+        "sectionName": "ま行",
+        "sectionIndex": 7,
+        "name": "メキシコ",
+        "callCode": "52",
+        "index": 207
+    },
+    {
+        "code2A": "MY",
+        "sectionName": "ま行",
+        "sectionIndex": 7,
+        "name": "マレーシア",
+        "callCode": "60",
+        "index": 201
+    },
+    {
+        "code2A": "MZ",
+        "sectionName": "ま行",
+        "sectionIndex": 7,
+        "name": "モザンビーク",
+        "callCode": "258",
+        "index": 210
+    },
+    {
+        "code2A": "NA",
+        "sectionName": "な行",
+        "sectionIndex": 5,
+        "name": "ナミビア",
+        "callCode": "264",
+        "index": 135
+    },
+    {
+        "code2A": "NC",
+        "sectionName": "な行",
+        "sectionIndex": 5,
+        "name": "ニューカレドニア",
+        "callCode": "687",
+        "index": 140
+    },
+    {
+        "code2A": "NE",
+        "sectionName": "な行",
+        "sectionIndex": 5,
+        "name": "ニジェール",
+        "callCode": "227",
+        "index": 137
+    },
+    {
+        "code2A": "NG",
+        "sectionName": "な行",
+        "sectionIndex": 5,
+        "name": "ナイジェリア",
+        "callCode": "234",
+        "index": 133
+    },
+    {
+        "code2A": "NI",
+        "sectionName": "な行",
+        "sectionIndex": 5,
+        "name": "ニカラグア",
+        "callCode": "505",
+        "index": 136
+    },
+    {
+        "code2A": "NL",
+        "sectionName": "あ行",
+        "sectionIndex": 1,
+        "name": "オランダ",
+        "callCode": "31",
+        "index": 41
+    },
+    {
+        "code2A": "NO",
+        "sectionName": "な行",
+        "sectionIndex": 5,
+        "name": "ノルウェー",
+        "callCode": "47",
+        "index": 143
+    },
+    {
+        "code2A": "NP",
+        "sectionName": "な行",
+        "sectionIndex": 5,
+        "name": "ネパール",
+        "callCode": "977",
+        "index": 142
+    },
+    {
+        "code2A": "NR",
+        "sectionName": "な行",
+        "sectionIndex": 5,
+        "name": "ナウル",
+        "callCode": "674",
+        "index": 134
+    },
+    {
+        "code2A": "NZ",
+        "sectionName": "な行",
+        "sectionIndex": 5,
+        "name": "ニュージーランド",
+        "callCode": "64",
+        "index": 141
+    },
+    {
+        "code2A": "OM",
+        "sectionName": "あ行",
+        "sectionIndex": 1,
+        "name": "オマーン",
+        "callCode": "968",
+        "index": 40
+    },
+    {
+        "code2A": "PA",
+        "sectionName": "は行",
+        "sectionIndex": 6,
+        "name": "パナマ",
+        "callCode": "507",
+        "index": 149
+    },
+    {
+        "code2A": "PE",
+        "sectionName": "は行",
+        "sectionIndex": 6,
+        "name": "ペルー",
+        "callCode": "51",
+        "index": 183
+    },
+    {
+        "code2A": "PF",
+        "sectionName": "は行",
+        "sectionIndex": 6,
+        "name": "フランス領ポリネシア",
+        "callCode": "689",
+        "index": 173
+    },
+    {
+        "code2A": "PG",
+        "sectionName": "は行",
+        "sectionIndex": 6,
+        "name": "パプアニューギニア",
+        "callCode": "675",
+        "index": 152
+    },
+    {
+        "code2A": "PH",
+        "sectionName": "は行",
+        "sectionIndex": 6,
+        "name": "フィリピン",
+        "callCode": "63",
+        "index": 163
+    },
+    {
+        "code2A": "PK",
+        "sectionName": "は行",
+        "sectionIndex": 6,
+        "name": "パキスタン",
+        "callCode": "92",
+        "index": 147
+    },
+    {
+        "code2A": "PL",
+        "sectionName": "は行",
+        "sectionIndex": 6,
+        "name": "ポーランド",
+        "callCode": "48",
+        "index": 185
+    },
+    {
+        "code2A": "PM",
+        "sectionName": "さ行",
+        "sectionIndex": 3,
+        "name": "サンピエール･ミクロン島",
+        "callCode": "508",
+        "index": 84
+    },
+    {
+        "code2A": "PR",
+        "sectionName": "は行",
+        "sectionIndex": 6,
+        "name": "プエルトリコ",
+        "callCode": "1",
+        "index": 167
+    },
+    {
+        "code2A": "PS",
+        "sectionName": "は行",
+        "sectionIndex": 6,
+        "name": "パレスチナ自治政府",
+        "callCode": "970",
+        "index": 157
+    },
+    {
+        "code2A": "PT",
+        "sectionName": "は行",
+        "sectionIndex": 6,
+        "name": "ポルトガル",
+        "callCode": "351",
+        "index": 189
+    },
+    {
+        "code2A": "PW",
+        "sectionName": "は行",
+        "sectionIndex": 6,
+        "name": "パラオ",
+        "callCode": "680",
+        "index": 154
+    },
+    {
+        "code2A": "PY",
+        "sectionName": "は行",
+        "sectionIndex": 6,
+        "name": "パラグアイ",
+        "callCode": "595",
+        "index": 155
+    },
+    {
+        "code2A": "QA",
+        "sectionName": "か行",
+        "sectionIndex": 2,
+        "name": "カタール",
+        "callCode": "974",
+        "index": 48
+    },
+    {
+        "code2A": "RE",
+        "sectionName": "ら行",
+        "sectionIndex": 9,
+        "name": "レユニオン島",
+        "callCode": "262",
+        "index": 230
+    },
+    {
+        "code2A": "RO",
+        "sectionName": "ら行",
+        "sectionIndex": 9,
+        "name": "ルーマニア",
+        "callCode": "40",
+        "index": 225
+    },
+    {
+        "code2A": "RS",
+        "sectionName": "さ行",
+        "sectionIndex": 3,
+        "name": "セルビア",
+        "callCode": "381",
+        "index": 107
+    },
+    {
+        "code2A": "RU",
+        "sectionName": "ら行",
+        "sectionIndex": 9,
+        "name": "ロシア",
+        "callCode": "7",
+        "index": 231
+    },
+    {
+        "code2A": "RW",
+        "sectionName": "ら行",
+        "sectionIndex": 9,
+        "name": "ルワンダ",
+        "callCode": "250",
+        "index": 227
+    },
+    {
+        "code2A": "SA",
+        "sectionName": "さ行",
+        "sectionIndex": 3,
+        "name": "サウジアラビア",
+        "callCode": "966",
+        "index": 81
+    },
+    {
+        "code2A": "SB",
+        "sectionName": "さ行",
+        "sectionIndex": 3,
+        "name": "ソロモン諸島",
+        "callCode": "677",
+        "index": 112
+    },
+    {
+        "code2A": "SC",
+        "sectionName": "さ行",
+        "sectionIndex": 3,
+        "name": "セーシェル",
+        "callCode": "248",
+        "index": 104
+    },
+    {
+        "code2A": "SD",
+        "sectionName": "さ行",
+        "sectionIndex": 3,
+        "name": "スーダン",
+        "callCode": "249",
+        "index": 96
+    },
+    {
+        "code2A": "SE",
+        "sectionName": "さ行",
+        "sectionIndex": 3,
+        "name": "スウェーデン",
+        "callCode": "46",
+        "index": 95
+    },
+    {
+        "code2A": "SG",
+        "sectionName": "さ行",
+        "sectionIndex": 3,
+        "name": "シンガポール",
+        "callCode": "65",
+        "index": 92
+    },
+    {
+        "code2A": "SI",
+        "sectionName": "さ行",
+        "sectionIndex": 3,
+        "name": "スロベニア",
+        "callCode": "386",
+        "index": 102
+    },
+    {
+        "code2A": "SJ",
+        "sectionName": "さ行",
+        "sectionIndex": 3,
+        "name": "スバールバル諸島･ヤンマイエン島",
+        "callCode": "47",
+        "index": 97
+    },
+    {
+        "code2A": "SK",
+        "sectionName": "さ行",
+        "sectionIndex": 3,
+        "name": "スロバキア",
+        "callCode": "421",
+        "index": 101
+    },
+    {
+        "code2A": "SL",
+        "sectionName": "さ行",
+        "sectionIndex": 3,
+        "name": "シエラレオネ",
+        "callCode": "232",
+        "index": 86
+    },
+    {
+        "code2A": "SM",
+        "sectionName": "さ行",
+        "sectionIndex": 3,
+        "name": "サンマリノ",
+        "callCode": "378",
+        "index": 85
+    },
+    {
+        "code2A": "SN",
+        "sectionName": "さ行",
+        "sectionIndex": 3,
+        "name": "セネガル",
+        "callCode": "221",
+        "index": 106
+    },
+    {
+        "code2A": "SO",
+        "sectionName": "さ行",
+        "sectionIndex": 3,
+        "name": "ソマリア",
+        "callCode": "252",
+        "index": 111
+    },
+    {
+        "code2A": "SR",
+        "sectionName": "さ行",
+        "sectionIndex": 3,
+        "name": "スリナム",
+        "callCode": "597",
+        "index": 99
+    },
+    {
+        "code2A": "SV",
+        "sectionName": "あ行",
+        "sectionIndex": 1,
+        "name": "エルサルバドル",
+        "callCode": "503",
+        "index": 37
+    },
+    {
+        "code2A": "SY",
+        "sectionName": "さ行",
+        "sectionIndex": 3,
+        "name": "シリア",
+        "callCode": "963",
+        "index": 91
+    },
+    {
+        "code2A": "SZ",
+        "sectionName": "さ行",
+        "sectionIndex": 3,
+        "name": "スワジランド",
+        "callCode": "268",
+        "index": 103
+    },
+    {
+        "code2A": "TC",
+        "sectionName": "た行",
+        "sectionIndex": 4,
+        "name": "タークス･カイコス諸島",
+        "callCode": "1",
+        "index": 113
+    },
+    {
+        "code2A": "TD",
+        "sectionName": "た行",
+        "sectionIndex": 4,
+        "name": "チャド共和国",
+        "callCode": "235",
+        "index": 118
+    },
+    {
+        "code2A": "TF",
+        "sectionName": "は行",
+        "sectionIndex": 6,
+        "name": "フランス南部海外領",
+        "callCode": "262",
+        "index": 171
+    },
+    {
+        "code2A": "TG",
+        "sectionName": "た行",
+        "sectionIndex": 4,
+        "name": "トーゴ",
+        "callCode": "228",
+        "index": 126
+    },
+    {
+        "code2A": "TH",
+        "sectionName": "た行",
+        "sectionIndex": 4,
+        "name": "タイ",
+        "callCode": "66",
+        "index": 114
+    },
+    {
+        "code2A": "TJ",
+        "sectionName": "た行",
+        "sectionIndex": 4,
+        "name": "タジキスタン",
+        "callCode": "992",
+        "index": 116
+    },
+    {
+        "code2A": "TL",
+        "sectionName": "は行",
+        "sectionIndex": 6,
+        "name": "東ティモール",
+        "callCode": "670",
+        "index": 160
+    },
+    {
+        "code2A": "TM",
+        "sectionName": "た行",
+        "sectionIndex": 4,
+        "name": "トルクメニスタン",
+        "callCode": "993",
+        "index": 130
+    },
+    {
+        "code2A": "TN",
+        "sectionName": "た行",
+        "sectionIndex": 4,
+        "name": "チュニジア",
+        "callCode": "216",
+        "index": 121
+    },
+    {
+        "code2A": "TO",
+        "sectionName": "た行",
+        "sectionIndex": 4,
+        "name": "トンガ",
+        "callCode": "676",
+        "index": 132
+    },
+    {
+        "code2A": "TR",
+        "sectionName": "た行",
+        "sectionIndex": 4,
+        "name": "トルコ",
+        "callCode": "90",
+        "index": 131
+    },
+    {
+        "code2A": "TT",
+        "sectionName": "た行",
+        "sectionIndex": 4,
+        "name": "トリニダード･トバゴ",
+        "callCode": "1",
+        "index": 129
+    },
+    {
+        "code2A": "TW",
+        "sectionName": "た行",
+        "sectionIndex": 4,
+        "name": "台湾",
+        "callCode": "886",
+        "index": 115
+    },
+    {
+        "code2A": "TZ",
+        "sectionName": "た行",
+        "sectionIndex": 4,
+        "name": "タンザニア",
+        "callCode": "255",
+        "index": 117
+    },
+    {
+        "code2A": "UA",
+        "sectionName": "あ行",
+        "sectionIndex": 1,
+        "name": "ウクライナ",
+        "callCode": "380",
+        "index": 29
+    },
+    {
+        "code2A": "UG",
+        "sectionName": "あ行",
+        "sectionIndex": 1,
+        "name": "ウガンダ",
+        "callCode": "256",
+        "index": 28
+    },
+    {
+        "code2A": "US",
+        "sectionName": "あ行",
+        "sectionIndex": 1,
+        "name": "アメリカ合衆国",
+        "callCode": "1",
+        "index": 5
+    },
+    {
+        "code2A": "UY",
+        "sectionName": "あ行",
+        "sectionIndex": 1,
+        "name": "ウルグアイ",
+        "callCode": "598",
+        "index": 31
+    },
+    {
+        "code2A": "UZ",
+        "sectionName": "あ行",
+        "sectionIndex": 1,
+        "name": "ウズベキスタン",
+        "callCode": "998",
+        "index": 30
+    },
+    {
+        "code2A": "VA",
+        "sectionName": "は行",
+        "sectionIndex": 6,
+        "name": "バチカン市国",
+        "callCode": "39",
+        "index": 148
+    },
+    {
+        "code2A": "VC",
+        "sectionName": "さ行",
+        "sectionIndex": 3,
+        "name": "セントビンセント及びグレナディーン諸島",
+        "callCode": "1",
+        "index": 109
+    },
+    {
+        "code2A": "VE",
+        "sectionName": "は行",
+        "sectionIndex": 6,
+        "name": "ベネズエラ",
+        "callCode": "58",
+        "index": 180
+    },
+    {
+        "code2A": "VG",
+        "sectionName": "あ行",
+        "sectionIndex": 1,
+        "name": "イギリス領ヴァージン諸島",
+        "callCode": "1",
+        "index": 20
+    },
+    {
+        "code2A": "VI",
+        "sectionName": "あ行",
+        "sectionIndex": 1,
+        "name": "アメリカ領ヴァージン諸島",
+        "callCode": "1",
+        "index": 6
+    },
+    {
+        "code2A": "VN",
+        "sectionName": "は行",
+        "sectionIndex": 6,
+        "name": "ベトナム",
+        "callCode": "84",
+        "index": 178
+    },
+    {
+        "code2A": "VU",
+        "sectionName": "は行",
+        "sectionIndex": 6,
+        "name": "バヌアツ",
+        "callCode": "678",
+        "index": 150
+    },
+    {
+        "code2A": "WF",
+        "sectionName": "あ行",
+        "sectionIndex": 1,
+        "name": "ウォリス･フトゥーナ諸島",
+        "callCode": "681",
+        "index": 27
+    },
+    {
+        "code2A": "WS",
+        "sectionName": "さ行",
+        "sectionIndex": 3,
+        "name": "サモア",
+        "callCode": "685",
+        "index": 82
+    },
+    {
+        "code2A": "YE",
+        "sectionName": "あ行",
+        "sectionIndex": 1,
+        "name": "イエメン",
+        "callCode": "967",
+        "index": 18
+    },
+    {
+        "code2A": "YT",
+        "sectionName": "ま行",
+        "sectionIndex": 7,
+        "name": "マヨット",
+        "callCode": "262",
+        "index": 196
+    },
+    {
+        "code2A": "ZA",
+        "sectionName": "ま行",
+        "sectionIndex": 7,
+        "name": "南アフリカ",
+        "callCode": "27",
+        "index": 204
+    },
+    {
+        "code2A": "ZM",
+        "sectionName": "さ行",
+        "sectionIndex": 3,
+        "name": "ザンビア",
+        "callCode": "260",
+        "index": 83
+    },
+    {
+        "code2A": "ZW",
+        "sectionName": "さ行",
+        "sectionIndex": 3,
+        "name": "ジンバブエ",
+        "callCode": "263",
+        "index": 93
+    }
+]

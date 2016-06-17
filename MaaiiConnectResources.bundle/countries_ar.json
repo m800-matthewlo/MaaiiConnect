@@ -1,0 +1,1850 @@
+[
+    {
+        "code2A": "AD",
+        "sectionName": "ا",
+        "sectionIndex": 1,
+        "name": "أندورا",
+        "callCode": "376",
+        "index": 47
+    },
+    {
+        "code2A": "AE",
+        "sectionName": "ا",
+        "sectionIndex": 1,
+        "name": "الإمارات العربية المتحدة",
+        "callCode": "971",
+        "index": 14
+    },
+    {
+        "code2A": "AF",
+        "sectionName": "ا",
+        "sectionIndex": 1,
+        "name": "أفغانستان",
+        "callCode": "93",
+        "index": 12
+    },
+    {
+        "code2A": "AG",
+        "sectionName": "ا",
+        "sectionIndex": 1,
+        "name": "أنتيغوا وبربودا",
+        "callCode": "1",
+        "index": 46
+    },
+    {
+        "code2A": "AI",
+        "sectionName": "ا",
+        "sectionIndex": 1,
+        "name": "أنغيلا",
+        "callCode": "1",
+        "index": 50
+    },
+    {
+        "code2A": "AL",
+        "sectionName": "ا",
+        "sectionIndex": 1,
+        "name": "ألبانيا",
+        "callCode": "355",
+        "index": 16
+    },
+    {
+        "code2A": "AM",
+        "sectionName": "ا",
+        "sectionIndex": 1,
+        "name": "أرمينيا",
+        "callCode": "374",
+        "index": 4
+    },
+    {
+        "code2A": "AN",
+        "sectionName": "ج",
+        "sectionIndex": 4,
+        "name": "جزر الأنتيل الهولندية",
+        "callCode": "599",
+        "index": 98
+    },
+    {
+        "code2A": "AO",
+        "sectionName": "ا",
+        "sectionIndex": 1,
+        "name": "أنغولا",
+        "callCode": "244",
+        "index": 49
+    },
+    {
+        "code2A": "AR",
+        "sectionName": "ا",
+        "sectionIndex": 1,
+        "name": "أرجنتين",
+        "callCode": "54",
+        "index": 3
+    },
+    {
+        "code2A": "AS",
+        "sectionName": "س",
+        "sectionIndex": 8,
+        "name": "ساموا الأميركية",
+        "callCode": "1",
+        "index": 133
+    },
+    {
+        "code2A": "AT",
+        "sectionName": "ا",
+        "sectionIndex": 1,
+        "name": "النمسا",
+        "callCode": "43",
+        "index": 39
+    },
+    {
+        "code2A": "AU",
+        "sectionName": "ا",
+        "sectionIndex": 1,
+        "name": "أستراليا",
+        "callCode": "61",
+        "index": 7
+    },
+    {
+        "code2A": "AW",
+        "sectionName": "ا",
+        "sectionIndex": 1,
+        "name": "أروبا",
+        "callCode": "297",
+        "index": 5
+    },
+    {
+        "code2A": "AZ",
+        "sectionName": "ا",
+        "sectionIndex": 1,
+        "name": "أذربيجان",
+        "callCode": "994",
+        "index": 2
+    },
+    {
+        "code2A": "BA",
+        "sectionName": "ا",
+        "sectionIndex": 1,
+        "name": "البوسنة",
+        "callCode": "387",
+        "index": 18
+    },
+    {
+        "code2A": "BB",
+        "sectionName": "ب",
+        "sectionIndex": 2,
+        "name": "بربادوس",
+        "callCode": "1",
+        "index": 65
+    },
+    {
+        "code2A": "BD",
+        "sectionName": "ب",
+        "sectionIndex": 2,
+        "name": "بنغلادش",
+        "callCode": "880",
+        "index": 74
+    },
+    {
+        "code2A": "BE",
+        "sectionName": "ب",
+        "sectionIndex": 2,
+        "name": "بلجيكا",
+        "callCode": "32",
+        "index": 71
+    },
+    {
+        "code2A": "BF",
+        "sectionName": "ب",
+        "sectionIndex": 2,
+        "name": "بوركينافاسو",
+        "callCode": "226",
+        "index": 78
+    },
+    {
+        "code2A": "BG",
+        "sectionName": "ب",
+        "sectionIndex": 2,
+        "name": "بلغاريا",
+        "callCode": "359",
+        "index": 72
+    },
+    {
+        "code2A": "BH",
+        "sectionName": "ا",
+        "sectionIndex": 1,
+        "name": "البحرين",
+        "callCode": "973",
+        "index": 15
+    },
+    {
+        "code2A": "BI",
+        "sectionName": "ب",
+        "sectionIndex": 2,
+        "name": "بوروندي",
+        "callCode": "257",
+        "index": 79
+    },
+    {
+        "code2A": "BJ",
+        "sectionName": "ب",
+        "sectionIndex": 2,
+        "name": "بنن",
+        "callCode": "229",
+        "index": 76
+    },
+    {
+        "code2A": "BM",
+        "sectionName": "ب",
+        "sectionIndex": 2,
+        "name": "برمودا",
+        "callCode": "1",
+        "index": 66
+    },
+    {
+        "code2A": "BN",
+        "sectionName": "ب",
+        "sectionIndex": 2,
+        "name": "بروناي دار السلام",
+        "callCode": "673",
+        "index": 67
+    },
+    {
+        "code2A": "BO",
+        "sectionName": "ب",
+        "sectionIndex": 2,
+        "name": "بوليفيا",
+        "callCode": "591",
+        "index": 83
+    },
+    {
+        "code2A": "BR",
+        "sectionName": "ب",
+        "sectionIndex": 2,
+        "name": "برازيل",
+        "callCode": "55",
+        "index": 64
+    },
+    {
+        "code2A": "BS",
+        "sectionName": "ج",
+        "sectionIndex": 4,
+        "name": "جزر الباهاما",
+        "callCode": "1",
+        "index": 99
+    },
+    {
+        "code2A": "BT",
+        "sectionName": "ب",
+        "sectionIndex": 2,
+        "name": "بوتان",
+        "callCode": "975",
+        "index": 77
+    },
+    {
+        "code2A": "BV",
+        "sectionName": "ج",
+        "sectionIndex": 4,
+        "name": "جزيرة بوفيت",
+        "callCode": "226",
+        "index": 111
+    },
+    {
+        "code2A": "BW",
+        "sectionName": "ب",
+        "sectionIndex": 2,
+        "name": "بوتسوانا",
+        "callCode": "267",
+        "index": 63
+    },
+    {
+        "code2A": "BY",
+        "sectionName": "ب",
+        "sectionIndex": 2,
+        "name": "بلاروسيا",
+        "callCode": "375",
+        "index": 70
+    },
+    {
+        "code2A": "BZ",
+        "sectionName": "ب",
+        "sectionIndex": 2,
+        "name": "بليز",
+        "callCode": "501",
+        "index": 73
+    },
+    {
+        "code2A": "CA",
+        "sectionName": "ك",
+        "sectionIndex": 14,
+        "name": "كندا",
+        "callCode": "1",
+        "index": 182
+    },
+    {
+        "code2A": "CC",
+        "sectionName": "ج",
+        "sectionIndex": 4,
+        "name": "جزر الكوكوس",
+        "callCode": "61",
+        "index": 112
+    },
+    {
+        "code2A": "CD",
+        "sectionName": "ا",
+        "sectionIndex": 1,
+        "name": "الكونغو-كينشاسا",
+        "callCode": "243",
+        "index": 32
+    },
+    {
+        "code2A": "CF",
+        "sectionName": "ج",
+        "sectionIndex": 4,
+        "name": "جمهورية أفريقيا الوسطى",
+        "callCode": "236",
+        "index": 117
+    },
+    {
+        "code2A": "CG",
+        "sectionName": "ا",
+        "sectionIndex": 1,
+        "name": "الكونغو-برازافيل",
+        "callCode": "242",
+        "index": 31
+    },
+    {
+        "code2A": "CH",
+        "sectionName": "س",
+        "sectionIndex": 8,
+        "name": "سويسرا",
+        "callCode": "41",
+        "index": 143
+    },
+    {
+        "code2A": "CI",
+        "sectionName": "س",
+        "sectionIndex": 8,
+        "name": "ساحل العاج",
+        "callCode": "225",
+        "index": 137
+    },
+    {
+        "code2A": "CK",
+        "sectionName": "ج",
+        "sectionIndex": 4,
+        "name": "جزر كوك",
+        "callCode": "682",
+        "index": 105
+    },
+    {
+        "code2A": "CL",
+        "sectionName": "ت",
+        "sectionIndex": 3,
+        "name": "تشيلي",
+        "callCode": "56",
+        "index": 91
+    },
+    {
+        "code2A": "CM",
+        "sectionName": "ك",
+        "sectionIndex": 14,
+        "name": "كاميرون",
+        "callCode": "237",
+        "index": 177
+    },
+    {
+        "code2A": "CN",
+        "sectionName": "ا",
+        "sectionIndex": 1,
+        "name": "الصين",
+        "callCode": "86",
+        "index": 27
+    },
+    {
+        "code2A": "CO",
+        "sectionName": "ك",
+        "sectionIndex": 14,
+        "name": "كولومبيا",
+        "callCode": "57",
+        "index": 184
+    },
+    {
+        "code2A": "CR",
+        "sectionName": "ك",
+        "sectionIndex": 14,
+        "name": "كوستاريكا",
+        "callCode": "506",
+        "index": 180
+    },
+    {
+        "code2A": "CU",
+        "sectionName": "ك",
+        "sectionIndex": 14,
+        "name": "كوبا",
+        "callCode": "53",
+        "index": 179
+    },
+    {
+        "code2A": "CV",
+        "sectionName": "ا",
+        "sectionIndex": 1,
+        "name": "الرأس الأخضر",
+        "callCode": "238",
+        "index": 24
+    },
+    {
+        "code2A": "CX",
+        "sectionName": "ج",
+        "sectionIndex": 4,
+        "name": "جزيرة الميلاد",
+        "callCode": "61",
+        "index": 102
+    },
+    {
+        "code2A": "CY",
+        "sectionName": "ق",
+        "sectionIndex": 13,
+        "name": "قبرص",
+        "callCode": "357",
+        "index": 175
+    },
+    {
+        "code2A": "CZ",
+        "sectionName": "ج",
+        "sectionIndex": 4,
+        "name": "جمهورية التشيك",
+        "callCode": "420",
+        "index": 118
+    },
+    {
+        "code2A": "DE",
+        "sectionName": "ا",
+        "sectionIndex": 1,
+        "name": "ألمانيا",
+        "callCode": "49",
+        "index": 34
+    },
+    {
+        "code2A": "DJ",
+        "sectionName": "ج",
+        "sectionIndex": 4,
+        "name": "جيبوتي",
+        "callCode": "253",
+        "index": 124
+    },
+    {
+        "code2A": "DK",
+        "sectionName": "د",
+        "sectionIndex": 5,
+        "name": "دانمارك",
+        "callCode": "45",
+        "index": 126
+    },
+    {
+        "code2A": "DM",
+        "sectionName": "د",
+        "sectionIndex": 5,
+        "name": "دومينيكان",
+        "callCode": "1",
+        "index": 127
+    },
+    {
+        "code2A": "DO",
+        "sectionName": "ج",
+        "sectionIndex": 4,
+        "name": "جمهورية الدومينيكان",
+        "callCode": "1",
+        "index": 116
+    },
+    {
+        "code2A": "DZ",
+        "sectionName": "ا",
+        "sectionIndex": 1,
+        "name": "الجزائر",
+        "callCode": "213",
+        "index": 19
+    },
+    {
+        "code2A": "EC",
+        "sectionName": "ا",
+        "sectionIndex": 1,
+        "name": "إكوادور",
+        "callCode": "593",
+        "index": 58
+    },
+    {
+        "code2A": "EE",
+        "sectionName": "ا",
+        "sectionIndex": 1,
+        "name": "إستونيا",
+        "callCode": "372",
+        "index": 8
+    },
+    {
+        "code2A": "EG",
+        "sectionName": "م",
+        "sectionIndex": 16,
+        "name": "مصر",
+        "callCode": "20",
+        "index": 207
+    },
+    {
+        "code2A": "EH",
+        "sectionName": "ا",
+        "sectionIndex": 1,
+        "name": "الصحراء الغربية‎",
+        "callCode": "212",
+        "index": 28
+    },
+    {
+        "code2A": "ER",
+        "sectionName": "ا",
+        "sectionIndex": 1,
+        "name": "إريتريا",
+        "callCode": "291",
+        "index": 6
+    },
+    {
+        "code2A": "ES",
+        "sectionName": "ا",
+        "sectionIndex": 1,
+        "name": "إسبانيا",
+        "callCode": "34",
+        "index": 9
+    },
+    {
+        "code2A": "ET",
+        "sectionName": "ا",
+        "sectionIndex": 1,
+        "name": "إثيوبيا",
+        "callCode": "251",
+        "index": 1
+    },
+    {
+        "code2A": "FI",
+        "sectionName": "ف",
+        "sectionIndex": 12,
+        "name": "فنلندا",
+        "callCode": "358",
+        "index": 173
+    },
+    {
+        "code2A": "FJ",
+        "sectionName": "ج",
+        "sectionIndex": 4,
+        "name": "جزر فيجي",
+        "callCode": "679",
+        "index": 104
+    },
+    {
+        "code2A": "FK",
+        "sectionName": "ج",
+        "sectionIndex": 4,
+        "name": "جزر فولكلاند",
+        "callCode": "500",
+        "index": 103
+    },
+    {
+        "code2A": "FM",
+        "sectionName": "م",
+        "sectionIndex": 16,
+        "name": "مايكرونيزيا، الاتحاد الفدرالي للولايات",
+        "callCode": "691",
+        "index": 204
+    },
+    {
+        "code2A": "FO",
+        "sectionName": "ج",
+        "sectionIndex": 4,
+        "name": "جزر الفارو",
+        "callCode": "298",
+        "index": 100
+    },
+    {
+        "code2A": "FR",
+        "sectionName": "ف",
+        "sectionIndex": 12,
+        "name": "فرنسا",
+        "callCode": "33",
+        "index": 169
+    },
+    {
+        "code2A": "GB",
+        "sectionName": "ا",
+        "sectionIndex": 1,
+        "name": "المملكة المتحدة",
+        "callCode": "44",
+        "index": 37
+    },
+    {
+        "code2A": "GD",
+        "sectionName": "غ",
+        "sectionIndex": 11,
+        "name": "غرينادا",
+        "callCode": "1",
+        "index": 159
+    },
+    {
+        "code2A": "GE",
+        "sectionName": "ج",
+        "sectionIndex": 4,
+        "name": "جورجيا",
+        "callCode": "995",
+        "index": 123
+    },
+    {
+        "code2A": "GF",
+        "sectionName": "غ",
+        "sectionIndex": 11,
+        "name": "غويانا الفرنسية",
+        "callCode": "594",
+        "index": 164
+    },
+    {
+        "code2A": "GG",
+        "sectionName": "ج",
+        "sectionIndex": 4,
+        "name": "جيرنسي",
+        "callCode": "44",
+        "index": 95
+    },
+    {
+        "code2A": "GH",
+        "sectionName": "غ",
+        "sectionIndex": 11,
+        "name": "غانا",
+        "callCode": "233",
+        "index": 156
+    },
+    {
+        "code2A": "GI",
+        "sectionName": "ج",
+        "sectionIndex": 4,
+        "name": "جبل طارق",
+        "callCode": "350",
+        "index": 97
+    },
+    {
+        "code2A": "GL",
+        "sectionName": "غ",
+        "sectionIndex": 11,
+        "name": "غرينلاند",
+        "callCode": "299",
+        "index": 157
+    },
+    {
+        "code2A": "GM",
+        "sectionName": "غ",
+        "sectionIndex": 11,
+        "name": "غامبيا",
+        "callCode": "220",
+        "index": 155
+    },
+    {
+        "code2A": "GN",
+        "sectionName": "غ",
+        "sectionIndex": 11,
+        "name": "غينيا",
+        "callCode": "224",
+        "index": 165
+    },
+    {
+        "code2A": "GP",
+        "sectionName": "غ",
+        "sectionIndex": 11,
+        "name": "غوادلوب",
+        "callCode": "590",
+        "index": 161
+    },
+    {
+        "code2A": "GQ",
+        "sectionName": "غ",
+        "sectionIndex": 11,
+        "name": "غينيا الاستوائية",
+        "callCode": "240",
+        "index": 158
+    },
+    {
+        "code2A": "GR",
+        "sectionName": "ا",
+        "sectionIndex": 1,
+        "name": "اليونان",
+        "callCode": "30",
+        "index": 45
+    },
+    {
+        "code2A": "GS",
+        "sectionName": "ج",
+        "sectionIndex": 4,
+        "name": "جورجيا الجنوبية وجزر ساندويتش الجنوبية",
+        "callCode": "500",
+        "index": 122
+    },
+    {
+        "code2A": "GT",
+        "sectionName": "غ",
+        "sectionIndex": 11,
+        "name": "غواتيمالا",
+        "callCode": "502",
+        "index": 160
+    },
+    {
+        "code2A": "GU",
+        "sectionName": "غ",
+        "sectionIndex": 11,
+        "name": "غوام",
+        "callCode": "1",
+        "index": 162
+    },
+    {
+        "code2A": "GW",
+        "sectionName": "غ",
+        "sectionIndex": 11,
+        "name": "غينيا-بيساو",
+        "callCode": "245",
+        "index": 166
+    },
+    {
+        "code2A": "GY",
+        "sectionName": "غ",
+        "sectionIndex": 11,
+        "name": "غويانا",
+        "callCode": "592",
+        "index": 163
+    },
+    {
+        "code2A": "HK",
+        "sectionName": "ه",
+        "sectionIndex": 18,
+        "name": "هونج كونج",
+        "callCode": "852",
+        "index": 229
+    },
+    {
+        "code2A": "HM",
+        "sectionName": "ج",
+        "sectionIndex": 4,
+        "name": "جزر هيرد وماكدونالد",
+        "callCode": "61",
+        "index": 106
+    },
+    {
+        "code2A": "HN",
+        "sectionName": "ه",
+        "sectionIndex": 18,
+        "name": "هندوراس",
+        "callCode": "504",
+        "index": 230
+    },
+    {
+        "code2A": "HR",
+        "sectionName": "ك",
+        "sectionIndex": 14,
+        "name": "كرواتيا",
+        "callCode": "385",
+        "index": 178
+    },
+    {
+        "code2A": "HT",
+        "sectionName": "ه",
+        "sectionIndex": 18,
+        "name": "هايتي",
+        "callCode": "509",
+        "index": 227
+    },
+    {
+        "code2A": "HU",
+        "sectionName": "ه",
+        "sectionIndex": 18,
+        "name": "هنغاريا",
+        "callCode": "36",
+        "index": 231
+    },
+    {
+        "code2A": "ID",
+        "sectionName": "ا",
+        "sectionIndex": 1,
+        "name": "إندونيسيا",
+        "callCode": "62",
+        "index": 48
+    },
+    {
+        "code2A": "IE",
+        "sectionName": "ا",
+        "sectionIndex": 1,
+        "name": "أيرلندا",
+        "callCode": "353",
+        "index": 52
+    },
+    {
+        "code2A": "IL",
+        "sectionName": "ا",
+        "sectionIndex": 1,
+        "name": "إسرائيل",
+        "callCode": "972",
+        "index": 10
+    },
+    {
+        "code2A": "IM",
+        "sectionName": "ج",
+        "sectionIndex": 4,
+        "name": "جزيرة مان",
+        "callCode": "44",
+        "index": 115
+    },
+    {
+        "code2A": "IN",
+        "sectionName": "ا",
+        "sectionIndex": 1,
+        "name": "الهند",
+        "callCode": "91",
+        "index": 40
+    },
+    {
+        "code2A": "IQ",
+        "sectionName": "ا",
+        "sectionIndex": 1,
+        "name": "العراق",
+        "callCode": "964",
+        "index": 29
+    },
+    {
+        "code2A": "IR",
+        "sectionName": "ا",
+        "sectionIndex": 1,
+        "name": "إيران",
+        "callCode": "98",
+        "index": 51
+    },
+    {
+        "code2A": "IS",
+        "sectionName": "ا",
+        "sectionIndex": 1,
+        "name": "آيسلندا",
+        "callCode": "354",
+        "index": 57
+    },
+    {
+        "code2A": "IT",
+        "sectionName": "ا",
+        "sectionIndex": 1,
+        "name": "إيطاليا",
+        "callCode": "39",
+        "index": 53
+    },
+    {
+        "code2A": "JE",
+        "sectionName": "ج",
+        "sectionIndex": 4,
+        "name": "جيرسي",
+        "callCode": "44",
+        "index": 125
+    },
+    {
+        "code2A": "JM",
+        "sectionName": "ج",
+        "sectionIndex": 4,
+        "name": "جاميكا",
+        "callCode": "1",
+        "index": 96
+    },
+    {
+        "code2A": "JO",
+        "sectionName": "ا",
+        "sectionIndex": 1,
+        "name": "الأردن",
+        "callCode": "962",
+        "index": 13
+    },
+    {
+        "code2A": "JP",
+        "sectionName": "ا",
+        "sectionIndex": 1,
+        "name": "اليابان",
+        "callCode": "81",
+        "index": 42
+    },
+    {
+        "code2A": "KE",
+        "sectionName": "ك",
+        "sectionIndex": 14,
+        "name": "كينيا",
+        "callCode": "254",
+        "index": 189
+    },
+    {
+        "code2A": "KG",
+        "sectionName": "ك",
+        "sectionIndex": 14,
+        "name": "كيرغيستان",
+        "callCode": "996",
+        "index": 186
+    },
+    {
+        "code2A": "KH",
+        "sectionName": "ك",
+        "sectionIndex": 14,
+        "name": "كمبوديا",
+        "callCode": "855",
+        "index": 181
+    },
+    {
+        "code2A": "KI",
+        "sectionName": "ك",
+        "sectionIndex": 14,
+        "name": "كيريباتي",
+        "callCode": "686",
+        "index": 188
+    },
+    {
+        "code2A": "KM",
+        "sectionName": "ك",
+        "sectionIndex": 14,
+        "name": "كوموروس",
+        "callCode": "269",
+        "index": 185
+    },
+    {
+        "code2A": "KN",
+        "sectionName": "س",
+        "sectionIndex": 8,
+        "name": "سانت كيتس ونيفيس",
+        "callCode": "1",
+        "index": 134
+    },
+    {
+        "code2A": "KR",
+        "sectionName": "ك",
+        "sectionIndex": 14,
+        "name": "كوريا الجنوبية",
+        "callCode": "82",
+        "index": 183
+    },
+    {
+        "code2A": "KW",
+        "sectionName": "ا",
+        "sectionIndex": 1,
+        "name": "الكويت",
+        "callCode": "965",
+        "index": 33
+    },
+    {
+        "code2A": "KY",
+        "sectionName": "ج",
+        "sectionIndex": 4,
+        "name": "جزر كايمان",
+        "callCode": "1",
+        "index": 113
+    },
+    {
+        "code2A": "KZ",
+        "sectionName": "ك",
+        "sectionIndex": 14,
+        "name": "كازاخستان",
+        "callCode": "7",
+        "index": 176
+    },
+    {
+        "code2A": "LA",
+        "sectionName": "ل",
+        "sectionIndex": 15,
+        "name": "لاوس",
+        "callCode": "856",
+        "index": 191
+    },
+    {
+        "code2A": "LB",
+        "sectionName": "ل",
+        "sectionIndex": 15,
+        "name": "لبنان",
+        "callCode": "961",
+        "index": 192
+    },
+    {
+        "code2A": "LC",
+        "sectionName": "س",
+        "sectionIndex": 8,
+        "name": "سانتا لوشيا",
+        "callCode": "1",
+        "index": 136
+    },
+    {
+        "code2A": "LI",
+        "sectionName": "ل",
+        "sectionIndex": 15,
+        "name": "لشتنشتاين",
+        "callCode": "423",
+        "index": 193
+    },
+    {
+        "code2A": "LK",
+        "sectionName": "س",
+        "sectionIndex": 8,
+        "name": "سيريلانكا",
+        "callCode": "94",
+        "index": 146
+    },
+    {
+        "code2A": "LR",
+        "sectionName": "ل",
+        "sectionIndex": 15,
+        "name": "ليبريا",
+        "callCode": "231",
+        "index": 195
+    },
+    {
+        "code2A": "LS",
+        "sectionName": "ل",
+        "sectionIndex": 15,
+        "name": "ليسوتو",
+        "callCode": "266",
+        "index": 198
+    },
+    {
+        "code2A": "LT",
+        "sectionName": "ل",
+        "sectionIndex": 15,
+        "name": "ليتوانيا",
+        "callCode": "370",
+        "index": 197
+    },
+    {
+        "code2A": "LU",
+        "sectionName": "ل",
+        "sectionIndex": 15,
+        "name": "لوكسمبورغ",
+        "callCode": "352",
+        "index": 194
+    },
+    {
+        "code2A": "LV",
+        "sectionName": "ل",
+        "sectionIndex": 15,
+        "name": "لاتفيا",
+        "callCode": "371",
+        "index": 190
+    },
+    {
+        "code2A": "LY",
+        "sectionName": "ل",
+        "sectionIndex": 15,
+        "name": "ليبيا",
+        "callCode": "218",
+        "index": 196
+    },
+    {
+        "code2A": "MA",
+        "sectionName": "ا",
+        "sectionIndex": 1,
+        "name": "المغرب",
+        "callCode": "212",
+        "index": 35
+    },
+    {
+        "code2A": "MC",
+        "sectionName": "م",
+        "sectionIndex": 16,
+        "name": "موناكو",
+        "callCode": "377",
+        "index": 214
+    },
+    {
+        "code2A": "MD",
+        "sectionName": "م",
+        "sectionIndex": 16,
+        "name": "مولدافيا",
+        "callCode": "373",
+        "index": 215
+    },
+    {
+        "code2A": "ME",
+        "sectionName": "م",
+        "sectionIndex": 16,
+        "name": "مونتينيغرو",
+        "callCode": "382",
+        "index": 217
+    },
+    {
+        "code2A": "MG",
+        "sectionName": "م",
+        "sectionIndex": 16,
+        "name": "مدغشقر",
+        "callCode": "261",
+        "index": 206
+    },
+    {
+        "code2A": "MH",
+        "sectionName": "ج",
+        "sectionIndex": 4,
+        "name": "جزر مارشال",
+        "callCode": "692",
+        "index": 108
+    },
+    {
+        "code2A": "MK",
+        "sectionName": "م",
+        "sectionIndex": 16,
+        "name": "مقدونيا",
+        "callCode": "389",
+        "index": 209
+    },
+    {
+        "code2A": "ML",
+        "sectionName": "ج",
+        "sectionIndex": 4,
+        "name": "جمهورية مالي",
+        "callCode": "223",
+        "index": 120
+    },
+    {
+        "code2A": "MM",
+        "sectionName": "م",
+        "sectionIndex": 16,
+        "name": "ميانمار",
+        "callCode": "95",
+        "index": 218
+    },
+    {
+        "code2A": "MN",
+        "sectionName": "م",
+        "sectionIndex": 16,
+        "name": "منغوليا",
+        "callCode": "976",
+        "index": 213
+    },
+    {
+        "code2A": "MO",
+        "sectionName": "م",
+        "sectionIndex": 16,
+        "name": "ماكاو",
+        "callCode": "853",
+        "index": 208
+    },
+    {
+        "code2A": "MP",
+        "sectionName": "ج",
+        "sectionIndex": 4,
+        "name": "جزر ماريانا الشمالية",
+        "callCode": "1",
+        "index": 109
+    },
+    {
+        "code2A": "MQ",
+        "sectionName": "م",
+        "sectionIndex": 16,
+        "name": "مارتينيك",
+        "callCode": "596",
+        "index": 199
+    },
+    {
+        "code2A": "MR",
+        "sectionName": "م",
+        "sectionIndex": 16,
+        "name": "موريتانيا",
+        "callCode": "222",
+        "index": 210
+    },
+    {
+        "code2A": "MS",
+        "sectionName": "م",
+        "sectionIndex": 16,
+        "name": "مونتسيرات",
+        "callCode": "1",
+        "index": 216
+    },
+    {
+        "code2A": "MT",
+        "sectionName": "م",
+        "sectionIndex": 16,
+        "name": "مالطا",
+        "callCode": "356",
+        "index": 202
+    },
+    {
+        "code2A": "MU",
+        "sectionName": "م",
+        "sectionIndex": 16,
+        "name": "موريشيوس",
+        "callCode": "230",
+        "index": 211
+    },
+    {
+        "code2A": "MV",
+        "sectionName": "ج",
+        "sectionIndex": 4,
+        "name": "جزر المالديف",
+        "callCode": "960",
+        "index": 101
+    },
+    {
+        "code2A": "MW",
+        "sectionName": "م",
+        "sectionIndex": 16,
+        "name": "مالاوي",
+        "callCode": "265",
+        "index": 201
+    },
+    {
+        "code2A": "MX",
+        "sectionName": "ا",
+        "sectionIndex": 1,
+        "name": "المكسيك",
+        "callCode": "52",
+        "index": 36
+    },
+    {
+        "code2A": "MY",
+        "sectionName": "م",
+        "sectionIndex": 16,
+        "name": "ماليزيا",
+        "callCode": "60",
+        "index": 203
+    },
+    {
+        "code2A": "MZ",
+        "sectionName": "م",
+        "sectionIndex": 16,
+        "name": "موزمبيق",
+        "callCode": "258",
+        "index": 212
+    },
+    {
+        "code2A": "NA",
+        "sectionName": "ن",
+        "sectionIndex": 17,
+        "name": "ناميبيا",
+        "callCode": "264",
+        "index": 219
+    },
+    {
+        "code2A": "NC",
+        "sectionName": "ك",
+        "sectionIndex": 14,
+        "name": "كاليدونيا الجديدة",
+        "callCode": "687",
+        "index": 187
+    },
+    {
+        "code2A": "NE",
+        "sectionName": "ن",
+        "sectionIndex": 17,
+        "name": "نيجر",
+        "callCode": "227",
+        "index": 223
+    },
+    {
+        "code2A": "NG",
+        "sectionName": "ن",
+        "sectionIndex": 17,
+        "name": "نيجيريا",
+        "callCode": "234",
+        "index": 224
+    },
+    {
+        "code2A": "NI",
+        "sectionName": "ن",
+        "sectionIndex": 17,
+        "name": "نيكاراغوا",
+        "callCode": "505",
+        "index": 225
+    },
+    {
+        "code2A": "NL",
+        "sectionName": "ه",
+        "sectionIndex": 18,
+        "name": "هولندا",
+        "callCode": "31",
+        "index": 228
+    },
+    {
+        "code2A": "NO",
+        "sectionName": "ن",
+        "sectionIndex": 17,
+        "name": "نرويج",
+        "callCode": "47",
+        "index": 221
+    },
+    {
+        "code2A": "NP",
+        "sectionName": "ن",
+        "sectionIndex": 17,
+        "name": "نيبال",
+        "callCode": "977",
+        "index": 222
+    },
+    {
+        "code2A": "NR",
+        "sectionName": "ن",
+        "sectionIndex": 17,
+        "name": "ناورو",
+        "callCode": "674",
+        "index": 220
+    },
+    {
+        "code2A": "NZ",
+        "sectionName": "ن",
+        "sectionIndex": 17,
+        "name": "نيوزيلندا",
+        "callCode": "64",
+        "index": 226
+    },
+    {
+        "code2A": "OM",
+        "sectionName": "م",
+        "sectionIndex": 16,
+        "name": "عمان",
+        "callCode": "968",
+        "index": 200
+    },
+    {
+        "code2A": "PA",
+        "sectionName": "ب",
+        "sectionIndex": 2,
+        "name": "بنما",
+        "callCode": "507",
+        "index": 75
+    },
+    {
+        "code2A": "PE",
+        "sectionName": "ب",
+        "sectionIndex": 2,
+        "name": "بيرو",
+        "callCode": "51",
+        "index": 81
+    },
+    {
+        "code2A": "PF",
+        "sectionName": "ب",
+        "sectionIndex": 2,
+        "name": "بولينيسيا الفرنسية",
+        "callCode": "689",
+        "index": 82
+    },
+    {
+        "code2A": "PG",
+        "sectionName": "ب",
+        "sectionIndex": 2,
+        "name": "بابواغينيا الجديدة",
+        "callCode": "675",
+        "index": 59
+    },
+    {
+        "code2A": "PH",
+        "sectionName": "ف",
+        "sectionIndex": 12,
+        "name": "فليبين",
+        "callCode": "63",
+        "index": 167
+    },
+    {
+        "code2A": "PK",
+        "sectionName": "ب",
+        "sectionIndex": 2,
+        "name": "باكستان",
+        "callCode": "92",
+        "index": 61
+    },
+    {
+        "code2A": "PL",
+        "sectionName": "ب",
+        "sectionIndex": 2,
+        "name": "بولندا",
+        "callCode": "48",
+        "index": 80
+    },
+    {
+        "code2A": "PM",
+        "sectionName": "س",
+        "sectionIndex": 8,
+        "name": "سان بيير ومكويلون",
+        "callCode": "508",
+        "index": 147
+    },
+    {
+        "code2A": "PR",
+        "sectionName": "ب",
+        "sectionIndex": 2,
+        "name": "بورتوريكو",
+        "callCode": "1",
+        "index": 68
+    },
+    {
+        "code2A": "PS",
+        "sectionName": "ف",
+        "sectionIndex": 12,
+        "name": "فلسطين (السلطة الفلسطينية)",
+        "callCode": "970",
+        "index": 168
+    },
+    {
+        "code2A": "PT",
+        "sectionName": "ب",
+        "sectionIndex": 2,
+        "name": "برتغال",
+        "callCode": "351",
+        "index": 69
+    },
+    {
+        "code2A": "PW",
+        "sectionName": "ب",
+        "sectionIndex": 2,
+        "name": "بالاو",
+        "callCode": "680",
+        "index": 62
+    },
+    {
+        "code2A": "PY",
+        "sectionName": "ب",
+        "sectionIndex": 2,
+        "name": "باراغواي",
+        "callCode": "595",
+        "index": 60
+    },
+    {
+        "code2A": "QA",
+        "sectionName": "ق",
+        "sectionIndex": 13,
+        "name": "قطر",
+        "callCode": "974",
+        "index": 174
+    },
+    {
+        "code2A": "RE",
+        "sectionName": "ج",
+        "sectionIndex": 4,
+        "name": "جزر ريونيون",
+        "callCode": "262",
+        "index": 114
+    },
+    {
+        "code2A": "RO",
+        "sectionName": "ر",
+        "sectionIndex": 6,
+        "name": "رومانيا",
+        "callCode": "40",
+        "index": 128
+    },
+    {
+        "code2A": "RS",
+        "sectionName": "ص",
+        "sectionIndex": 9,
+        "name": "صربيا",
+        "callCode": "381",
+        "index": 153
+    },
+    {
+        "code2A": "RU",
+        "sectionName": "ر",
+        "sectionIndex": 6,
+        "name": "روسيا",
+        "callCode": "7",
+        "index": 130
+    },
+    {
+        "code2A": "RW",
+        "sectionName": "ر",
+        "sectionIndex": 6,
+        "name": "رواندا",
+        "callCode": "250",
+        "index": 129
+    },
+    {
+        "code2A": "SA",
+        "sectionName": "ا",
+        "sectionIndex": 1,
+        "name": "المملكة العربية السعودية",
+        "callCode": "966",
+        "index": 43
+    },
+    {
+        "code2A": "SB",
+        "sectionName": "ج",
+        "sectionIndex": 4,
+        "name": "جزر سليمان",
+        "callCode": "677",
+        "index": 107
+    },
+    {
+        "code2A": "SC",
+        "sectionName": "س",
+        "sectionIndex": 8,
+        "name": "سيشل",
+        "callCode": "248",
+        "index": 148
+    },
+    {
+        "code2A": "SD",
+        "sectionName": "ا",
+        "sectionIndex": 1,
+        "name": "السودان",
+        "callCode": "249",
+        "index": 17
+    },
+    {
+        "code2A": "SE",
+        "sectionName": "س",
+        "sectionIndex": 8,
+        "name": "سويد",
+        "callCode": "46",
+        "index": 145
+    },
+    {
+        "code2A": "SG",
+        "sectionName": "س",
+        "sectionIndex": 8,
+        "name": "سينغافورة",
+        "callCode": "65",
+        "index": 141
+    },
+    {
+        "code2A": "SI",
+        "sectionName": "س",
+        "sectionIndex": 8,
+        "name": "سلوفينيا",
+        "callCode": "386",
+        "index": 150
+    },
+    {
+        "code2A": "SJ",
+        "sectionName": "ا",
+        "sectionIndex": 1,
+        "name": "جزر سفلبرد وجان ماين",
+        "callCode": "47",
+        "index": 20
+    },
+    {
+        "code2A": "SK",
+        "sectionName": "س",
+        "sectionIndex": 8,
+        "name": "سلوفاكيا",
+        "callCode": "421",
+        "index": 149
+    },
+    {
+        "code2A": "SL",
+        "sectionName": "س",
+        "sectionIndex": 8,
+        "name": "سيراليون",
+        "callCode": "232",
+        "index": 140
+    },
+    {
+        "code2A": "SM",
+        "sectionName": "س",
+        "sectionIndex": 8,
+        "name": "سان مارينو",
+        "callCode": "378",
+        "index": 139
+    },
+    {
+        "code2A": "SN",
+        "sectionName": "س",
+        "sectionIndex": 8,
+        "name": "السنغال",
+        "callCode": "221",
+        "index": 152
+    },
+    {
+        "code2A": "SO",
+        "sectionName": "ا",
+        "sectionIndex": 1,
+        "name": "الصومال",
+        "callCode": "252",
+        "index": 25
+    },
+    {
+        "code2A": "SR",
+        "sectionName": "س",
+        "sectionIndex": 8,
+        "name": "سورينام",
+        "callCode": "597",
+        "index": 151
+    },
+    {
+        "code2A": "SV",
+        "sectionName": "ا",
+        "sectionIndex": 1,
+        "name": "السلفادور",
+        "callCode": "503",
+        "index": 26
+    },
+    {
+        "code2A": "SY",
+        "sectionName": "س",
+        "sectionIndex": 8,
+        "name": "سوريا",
+        "callCode": "963",
+        "index": 144
+    },
+    {
+        "code2A": "SZ",
+        "sectionName": "س",
+        "sectionIndex": 8,
+        "name": "سوازيلند",
+        "callCode": "268",
+        "index": 142
+    },
+    {
+        "code2A": "TC",
+        "sectionName": "ا",
+        "sectionIndex": 1,
+        "name": "جزر توركس وكايكوس",
+        "callCode": "1",
+        "index": 21
+    },
+    {
+        "code2A": "TD",
+        "sectionName": "ج",
+        "sectionIndex": 4,
+        "name": "جمهورية تشاد",
+        "callCode": "235",
+        "index": 119
+    },
+    {
+        "code2A": "TF",
+        "sectionName": "ا",
+        "sectionIndex": 1,
+        "name": "المناطق الفرنسية الجنوبية",
+        "callCode": "262",
+        "index": 38
+    },
+    {
+        "code2A": "TG",
+        "sectionName": "ت",
+        "sectionIndex": 3,
+        "name": "توغو",
+        "callCode": "228",
+        "index": 92
+    },
+    {
+        "code2A": "TH",
+        "sectionName": "ت",
+        "sectionIndex": 3,
+        "name": "تايلاند",
+        "callCode": "66",
+        "index": 84
+    },
+    {
+        "code2A": "TJ",
+        "sectionName": "ط",
+        "sectionIndex": 10,
+        "name": "طاجيكستان",
+        "callCode": "992",
+        "index": 154
+    },
+    {
+        "code2A": "TL",
+        "sectionName": "ت",
+        "sectionIndex": 3,
+        "name": "تيمور ليشتي",
+        "callCode": "670",
+        "index": 90
+    },
+    {
+        "code2A": "TM",
+        "sectionName": "ت",
+        "sectionIndex": 3,
+        "name": "تركمانستان",
+        "callCode": "993",
+        "index": 86
+    },
+    {
+        "code2A": "TN",
+        "sectionName": "ت",
+        "sectionIndex": 3,
+        "name": "تونس",
+        "callCode": "216",
+        "index": 93
+    },
+    {
+        "code2A": "TO",
+        "sectionName": "ت",
+        "sectionIndex": 3,
+        "name": "تونغا",
+        "callCode": "676",
+        "index": 94
+    },
+    {
+        "code2A": "TR",
+        "sectionName": "ت",
+        "sectionIndex": 3,
+        "name": "تركيا",
+        "callCode": "90",
+        "index": 87
+    },
+    {
+        "code2A": "TT",
+        "sectionName": "ت",
+        "sectionIndex": 3,
+        "name": "ترينيداد",
+        "callCode": "1",
+        "index": 88
+    },
+    {
+        "code2A": "TW",
+        "sectionName": "ت",
+        "sectionIndex": 3,
+        "name": "تايوان",
+        "callCode": "886",
+        "index": 85
+    },
+    {
+        "code2A": "TZ",
+        "sectionName": "ت",
+        "sectionIndex": 3,
+        "name": "تنزانيا",
+        "callCode": "255",
+        "index": 89
+    },
+    {
+        "code2A": "UA",
+        "sectionName": "ا",
+        "sectionIndex": 1,
+        "name": "أوكرانيا",
+        "callCode": "380",
+        "index": 56
+    },
+    {
+        "code2A": "UG",
+        "sectionName": "ا",
+        "sectionIndex": 1,
+        "name": "أوغندا",
+        "callCode": "256",
+        "index": 55
+    },
+    {
+        "code2A": "US",
+        "sectionName": "ا",
+        "sectionIndex": 1,
+        "name": "الولايات المتحدة الأمريكية",
+        "callCode": "1",
+        "index": 41
+    },
+    {
+        "code2A": "UY",
+        "sectionName": "ا",
+        "sectionIndex": 1,
+        "name": "أروغواي",
+        "callCode": "598",
+        "index": 11
+    },
+    {
+        "code2A": "UZ",
+        "sectionName": "ا",
+        "sectionIndex": 1,
+        "name": "أوزبكستان",
+        "callCode": "998",
+        "index": 54
+    },
+    {
+        "code2A": "VA",
+        "sectionName": "ا",
+        "sectionIndex": 1,
+        "name": "الفاتيكان",
+        "callCode": "39",
+        "index": 30
+    },
+    {
+        "code2A": "VC",
+        "sectionName": "س",
+        "sectionIndex": 8,
+        "name": "سانت فنسنت وجزر غرينادين",
+        "callCode": "1",
+        "index": 135
+    },
+    {
+        "code2A": "VE",
+        "sectionName": "ف",
+        "sectionIndex": 12,
+        "name": "فنزويلا",
+        "callCode": "58",
+        "index": 171
+    },
+    {
+        "code2A": "VG",
+        "sectionName": "ا",
+        "sectionIndex": 1,
+        "name": "الجزر العذراء (البريطانية)",
+        "callCode": "1",
+        "index": 22
+    },
+    {
+        "code2A": "VI",
+        "sectionName": "ا",
+        "sectionIndex": 1,
+        "name": "الجزر العذراء (الولايات المتحدة)",
+        "callCode": "1",
+        "index": 23
+    },
+    {
+        "code2A": "VN",
+        "sectionName": "ف",
+        "sectionIndex": 12,
+        "name": "فيتنام",
+        "callCode": "84",
+        "index": 170
+    },
+    {
+        "code2A": "VU",
+        "sectionName": "ف",
+        "sectionIndex": 12,
+        "name": "فانواتو",
+        "callCode": "678",
+        "index": 172
+    },
+    {
+        "code2A": "WF",
+        "sectionName": "ج",
+        "sectionIndex": 4,
+        "name": "جزر والس وفوتونا",
+        "callCode": "681",
+        "index": 110
+    },
+    {
+        "code2A": "WS",
+        "sectionName": "س",
+        "sectionIndex": 8,
+        "name": "ساموا",
+        "callCode": "685",
+        "index": 138
+    },
+    {
+        "code2A": "YE",
+        "sectionName": "ا",
+        "sectionIndex": 1,
+        "name": "اليمن",
+        "callCode": "967",
+        "index": 44
+    },
+    {
+        "code2A": "YT",
+        "sectionName": "م",
+        "sectionIndex": 16,
+        "name": "مايوت",
+        "callCode": "262",
+        "index": 205
+    },
+    {
+        "code2A": "ZA",
+        "sectionName": "ج",
+        "sectionIndex": 4,
+        "name": "جنوب إفريقيا",
+        "callCode": "27",
+        "index": 121
+    },
+    {
+        "code2A": "ZM",
+        "sectionName": "ز",
+        "sectionIndex": 7,
+        "name": "زامبيا",
+        "callCode": "260",
+        "index": 131
+    },
+    {
+        "code2A": "ZW",
+        "sectionName": "ز",
+        "sectionIndex": 7,
+        "name": "زمبابوي",
+        "callCode": "263",
+        "index": 132
+    }
+]
