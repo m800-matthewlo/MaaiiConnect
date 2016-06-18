@@ -336,9 +336,15 @@ extern BOOL MaaiiChatStoreIgnoreSystemMessages;
 
     MA_Room          *_systemRoom;
 
+    // Main thread MOC for NSFetchedResultsControllers
     NSManagedObjectContext *_defaultManagedObjectContext;
+    
+    // Worker MOC for normal CRUD operations of the database
     NSManagedObjectContext *_workerManagedObjectContext;
+    
+    // Read only background MOC, for long running background tasks, e.g. Spotlight indexing, Bulk download Chat participants profiles
     NSManagedObjectContext *_readOnlyBackgroundContext;
+    
     NSMutableDictionary *pendingMessagesForRooms;
     NSCache *_unreadCountCache; // Dictionary that keeps track of rooms - read/unread status.
 
@@ -380,7 +386,6 @@ extern BOOL MaaiiChatStoreIgnoreSystemMessages;
 // Matthew 20160217 This method is required by LiveConnect
 - (NSFetchedResultsController *)fetchedResultsControllerForMediaTypeMessagesInRooms:(NSArray *)rooms withMIMETypes:(NSArray *)mimeTypes groupedBy:(NSString *)groupedBy;
 -(NSInteger) countMessagesWithDisplayableMediaForRoom:(MA_Room *)room;
-- (NSFetchedResultsController *)messagesFetchedResultsControllerForRoom:(MA_Room *)room withPageSize:(NSUInteger)pageSize numberOfPagesFromTheEnd:(NSUInteger)numberOfPages;
 -(NSFetchedResultsControllerWithPagination *) messagesFetchedResultsControllerForRoom:(MA_Room *) room pageSize:(int) pageSize numberOfPagesFromTheEnd:(int) numberOfPages;
 
 - (NSArray<NSString *> *)distinctChatParticipantJids_background;
@@ -410,6 +415,7 @@ extern BOOL MaaiiChatStoreIgnoreSystemMessages;
 - (BOOL) hasUnreadMessagesInRoomForID:(NSString *)roomID;
 - (void) markMessagesReadInRoomForID:(NSString *)roomID completion:(void(^)())completion;
 - (NSInteger)unreadMessageCountInRoomForID:(NSString *)roomID;
+- (NSInteger)unreadMessageCountInRoomForID:(NSString *)roomID forceClearCache:(BOOL)forceClearCache;
 - (BOOL)hasUserEverSentMessageInRoom:(MA_Room *)room;
 - (NSUInteger)numberOfMessagesInRoomForID:(NSString *)roomID;
 - (MA_Message *)firstUnreadMessageInRoomForID:(NSString *)roomID;
@@ -422,7 +428,7 @@ extern BOOL MaaiiChatStoreIgnoreSystemMessages;
            withCompletionHandler:(void (^)())completion
                   failureHandler:(void (^)(NSError *error))failure;
 
-- (void)resendUnsentMessages;
+- (void)resendUnsentMessagesAfterDate:(NSDate *)date;
 - (void)resetMessagesWithFileOpetationInProgress;
 
 #pragma mark - Message Delivery Public methods
